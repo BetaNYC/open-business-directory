@@ -42,12 +42,8 @@
         overflow: auto;
     }
 
-    .items > div {
-        position: absolute;
-        height: 100%;
-    }
 
-    .items > ul {
+    .items > * {
         position: absolute;
         height: 100%;
     }

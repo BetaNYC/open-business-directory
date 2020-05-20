@@ -9,7 +9,7 @@ export const en = {
         To add or update info fill out <a href="https://airtable.com/shrGc92OIWFQoSf5X" target="_blank">this form</a>.`
   },
   "search": {
-    "search_by_name": "Quick search",
-    "search_placeholder": "Quick search here"
+    "search_by_name": "Search by name or categories",
+    "search_placeholder": "Search here"
   }
 }

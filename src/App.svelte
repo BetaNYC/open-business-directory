@@ -54,7 +54,7 @@
     }
 
     .map {
-        flex: 1.618 1 300px;
+        flex: 2.5 1 300px;
         min-width: 300px;
     }
 

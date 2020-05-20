@@ -32,7 +32,7 @@
 
 </script>
 <div class="field">
-    <label class="label">{text}</label>
+    <label class="label">Filter by {text}</label>
     <select bind:this={select} {multiple}></select>
 </div>
 

@@ -6,6 +6,7 @@
     export let items
     let map
     let container;
+    let loaded = false
     let popup
     let previousSelectedItem
 
@@ -43,6 +44,7 @@
         });
 
         map.on('load', () => {
+            loaded = true;
             const data = generateFeatures(items)
 
             map.addSource('points', {
@@ -149,7 +151,7 @@
                                     'case',
                                     ['boolean', ['feature-state', 'highlight'], false],
                                     1,
-                                    0.6
+                                    0.8
                                 ]
                             }
                         });
@@ -187,7 +189,7 @@
         mapObject.set(map)
     })
 
-    $: if (items.length && map) {
+    $: if (map && loaded) {
         const data = generateFeatures(items)
         const layer = map.getSource('points')
         if (layer) {
@@ -195,13 +197,13 @@
         }
     }
 
-    $: if (map) {
+    $: if (map && loaded) {
         if (previousSelectedItem) {
             //remove previous selectedItem
-            map.setFeatureState({source: 'points', id: previousSelectedItem.id,}, {highlight: false});
+            map.setFeatureState({source: 'points', id: previousSelectedItem.id}, {highlight: false});
         }
         if ($selectedItem) {
-            map.setFeatureState({source: 'points', id: $selectedItem.id,}, {highlight: true});
+            map.setFeatureState({source: 'points', id: $selectedItem.id}, {highlight: true});
         }
         previousSelectedItem = $selectedItem
     }

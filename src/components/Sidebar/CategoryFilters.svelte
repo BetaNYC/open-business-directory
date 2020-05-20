@@ -3,6 +3,8 @@
     import {rows, filters} from '../../stores'
     import {categoryGroups, styles} from '../../constants'
 
+    let opened = false
+
     let selectedCategories = []
     let categoryOptions
 
@@ -61,23 +63,23 @@
     }
 
     $: {
-        if($filters){
+        if ($filters) {
 
             //remove existing filter
             const _filters = $filters
             const filter = _filters.findIndex(f => f.label === 'categories')
-            if(filter > -1) _filters.splice(filter, 1)
+            if (filter > -1) _filters.splice(filter, 1)
             //generate new filter
             const categoryFilter = {
                 label: 'categories',
                 filter: (row) => {
-                    if(selectedCategories.length){
-                        if(selectedSubCategories.length){
+                    if (selectedCategories.length) {
+                        if (selectedSubCategories.length) {
                             return selectedCategories.includes(row.Category) && selectedSubCategories.includes(row['Sub-Category'])
-                        }else{
+                        } else {
                             return selectedCategories.includes(row.Category)
                         }
-                    }else{
+                    } else {
                         return true
                     }
                 }
@@ -88,21 +90,38 @@
 
 </script>
 
-{#if categoryOptions && 'data' in categoryOptions}
-    <SlimSelect bind:value={selectedCategories} options={categoryOptions} multiple={true} text="Categories"/>
-{/if}
+<!--<button class="full" on:click={() => opened = !opened}>-->
+<!--    <span class="material-icons">{opened? 'expand_less' : 'expand_more'}</span>-->
+<!--</button>-->
+<!--{#if opened}-->
+    {#if categoryOptions && 'data' in categoryOptions}
+        <SlimSelect bind:value={selectedCategories} options={categoryOptions} multiple={true} text="Categories"/>
+    {/if}
 
-{#if subCategoryOptions && 'data' in subCategoryOptions && subCategoryOptions.data.length}
-    <SlimSelect bind:value={selectedSubCategories} options={subCategoryOptions} multiple={true} text="Sub-Categories"/>
-{/if}
+    {#if subCategoryOptions && 'data' in subCategoryOptions && subCategoryOptions.data.length}
+        <SlimSelect bind:value={selectedSubCategories} options={subCategoryOptions} multiple={true}
+                    text="Sub-Categories"/>
+    {/if}
+
 
 <style>
-    :global(.ss-value){
+    .full{
+        display: block;
+        width: 100%;
+        border: 0;
+        padding: 2px 10px;
+    }
+
+    .material-icons{
+        font-size: 0.8rem;
+    }
+
+    :global(.ss-value) {
         background-color: #878787 !important;
         font-weight: 500;
     }
 
-    :global(span.ss-disabled){
+    :global(span.ss-disabled) {
         font-size: 0.8em !important;
         color: rgba(113, 113, 113, 0.8) !important;
     }
