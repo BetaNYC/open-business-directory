@@ -7,9 +7,10 @@ function getColors(rows){
         const lookup = styles.find(style => style[1] === row.Category)
 
         //defaults
-        let fillColor = '#ffffff',
-            strokeColor = '#999 999',
-            icon = 'blank.png'
+        let fillColor = '#909090',
+            strokeColor = '#e8e8e8',
+            icon = 'blank.png',
+            _closed = !row.Status.toLowerCase().includes('open')
 
         if(lookup){
             fillColor = lookup[3]
@@ -17,7 +18,7 @@ function getColors(rows){
             icon = lookup[5]
         }
 
-        return {...row, fillColor, strokeColor, icon}
+        return {...row, fillColor, strokeColor, icon, _closed}
     })
 }
 

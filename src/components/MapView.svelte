@@ -73,7 +73,12 @@
                         5,
                         0.5
                     ],
-                    'circle-opacity': 0.8,
+                    'circle-opacity': [
+                        'case',
+                        ['boolean', ['get', '_closed'], false],
+                        0.5,
+                        0.8
+                    ],
                     'circle-radius': [
                         'interpolate',
                         ['exponential', .5],
@@ -149,9 +154,9 @@
                             paint: {
                                 'icon-opacity': [
                                     'case',
-                                    ['boolean', ['feature-state', 'highlight'], false],
-                                    1,
-                                    0.8
+                                    ['boolean', ['get', '_closed'], false],
+                                    0.5,
+                                    1
                                 ]
                             }
                         });
