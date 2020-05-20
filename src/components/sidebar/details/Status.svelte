@@ -5,7 +5,7 @@
 </script>
 
 {#if isOpened}
-    <span class="tag is-success is-medium">{status}</span>
+    <p><span class="tag is-success is-medium">{status}</span></p>
 {:else}
-    <span class="tag is-warning is-medium">{status}</span>
+    <p><span class="tag is-warning is-medium">{status}</span></p>
 {/if}

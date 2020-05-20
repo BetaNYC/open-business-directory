@@ -26,14 +26,18 @@
     </div>
     <div class="content">
         <Status status={item.Status}/>
-        <p><strong>{item.Category}</strong></p>
-        {#if subCategories.length}
-            <div class="tags are-small">
+
+        <div class="category">
+            <strong>{item.Category} - </strong>
+            {#if subCategories.length}
+                <div class="tags are-small">
                 {#each subCategories as tag}
                     <span class="tag">{tag}</span>
                 {/each}
             </div>
-        {/if}
+            {/if}
+        </div>
+
         <p class="address">
             <a class="has-text-grey-light" href="http://maps.google.com/?q={item.Address}"
                target="_blank">{item.Address}</a>
@@ -95,7 +99,16 @@
         font-size: 0.9rem;
     }
 
-    .content{
+    .category{
+        display: flex;
+        flex-direction: row;
+    }
+
+    .category *{
+        margin-right: 5px;
+    }
+
+    .content {
         margin-top: 1rem;
     }
 

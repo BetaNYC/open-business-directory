@@ -1,7 +1,7 @@
 <script>
     import {selectedItem} from '../stores'
     import NameSearch from './sidebar/filters/NameSearch.svelte'
-    import RowItem from './sidebar/RowItem.svelte'
+    import RowItems from './sidebar/RowItems.svelte'
     import ItemDetails from './sidebar/details/ItemDetails.svelte'
     import OtherFilters from "./sidebar/filters/OtherFilters.svelte";
 
@@ -17,11 +17,7 @@
         {#if $selectedItem}
             <ItemDetails/>
         {:else}
-            <ul>
-                {#each items as item (item.id)}
-                    <RowItem {item}/>
-                {/each}
-            </ul>
+            <RowItems {items}/>
         {/if}
     </div>
 </div>
@@ -40,11 +36,5 @@
         position: relative;
         height: inherit;
         overflow: auto;
-    }
-
-
-    .items > * {
-        position: absolute;
-        height: 100%;
     }
 </style>
