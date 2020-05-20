@@ -9,40 +9,39 @@ function getColors(rows){
         //defaults
         let fillColor = '#ffffff',
             strokeColor = '#999 999',
-            marker = './icons/blank.png'
+            icon = 'blank.png'
 
         if(lookup){
             fillColor = lookup[3]
             strokeColor = lookup[4]
-            marker = lookup[5]
+            icon = lookup[5]
         }
 
-        return {...row, fillColor, strokeColor, marker}
+        return {...row, fillColor, strokeColor, icon}
     })
 }
 
 function removeOverlap(rows){
     //create coordinates array
     const coordRows = rows.map(row => {
+        const digits = 4
+        const lng = +(+row.Longitude).toFixed(digits);
+        const lat = +(+row.Latitude).toFixed(digits);
+        const temp = [lng, lat]
         const coordinates = [+row.Longitude, +row.Latitude]
-        return {...row, coordinates}
+        return {...row, coordinates, temp}
     })
     //find overlapped lnglat and move them slightly depending on order
     return coordRows.map(row => {
-        const digits = 4
-        const lnglat1 = row.coordinates
-        const lat1 = lnglat1[1].toFixed(digits);
-        const lng1 = lnglat1[0].toFixed(digits);
-        const overlapped = coordRows.filter(otherRows => {
-            const lnglat2 = otherRows.coordinates
-            const lat2 = lnglat2[1].toFixed(digits);
-            const lng2 = lnglat2[0].toFixed(digits);
+        const [lng1, lat1] = row.temp
+        const overlapped = coordRows.filter(otherRow => {
+            const [lng2, lat2] = otherRow.temp
             return lat1 === lat2 && lng1 === lng2
         })
         if (overlapped.length > 1) {
             //move depending on the index
             const index = overlapped.indexOf(row)
-            row.coordinates = lnglat1.map(i => i + index * 0.00004)
+            row.coordinates = [lng1 + index * 0.00005, lat1 + index * 0.00002]
         }
         return row
     })
