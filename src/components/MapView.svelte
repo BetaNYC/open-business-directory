@@ -73,11 +73,17 @@
                         5,
                         0.5
                     ],
+                    'circle-stroke-opacity': [
+                        'case',
+                        ['boolean', ['get', '_closed'], false],
+                        0.5,
+                        1
+                    ],
                     'circle-opacity': [
                         'case',
                         ['boolean', ['get', '_closed'], false],
                         0.5,
-                        0.8
+                        1
                     ],
                     'circle-radius': [
                         'interpolate',

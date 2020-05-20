@@ -1,5 +1,5 @@
 <script>
-    import {selectedItem} from '../../stores'
+    import {selectedItem} from '../../../stores'
     import MarkdownField from './MarkdownField.svelte'
     import ItemDetailsInfo from './ItemDetailsInfo.svelte'
     import TakeoutDelivery from './TakeoutDelivery.svelte'

@@ -1,5 +1,5 @@
 <script>
-    import {getValidUrl} from '../../utils/textFormatting'
+    import {getValidUrl} from '../../../utils/textFormatting'
 
     export let lastUpdated = ''
     export let source = ''

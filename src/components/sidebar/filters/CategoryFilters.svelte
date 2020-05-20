@@ -1,9 +1,7 @@
 <script>
     import SlimSelect from './SlimSelect.svelte'
-    import {rows, filters} from '../../stores'
-    import {categoryGroups, styles} from '../../constants'
-
-    let opened = false
+    import {rows, filters} from '../../../stores'
+    import {categoryGroups, styles} from '../../../constants'
 
     let selectedCategories = []
     let categoryOptions
@@ -64,7 +62,6 @@
 
     $: {
         if ($filters) {
-
             //remove existing filter
             const _filters = $filters
             const filter = _filters.findIndex(f => f.label === 'categories')
@@ -90,32 +87,17 @@
 
 </script>
 
-<!--<button class="full" on:click={() => opened = !opened}>-->
-<!--    <span class="material-icons">{opened? 'expand_less' : 'expand_more'}</span>-->
-<!--</button>-->
-<!--{#if opened}-->
-    {#if categoryOptions && 'data' in categoryOptions}
-        <SlimSelect bind:value={selectedCategories} options={categoryOptions} multiple={true} text="Categories"/>
-    {/if}
+{#if categoryOptions && 'data' in categoryOptions}
+    <SlimSelect bind:value={selectedCategories} options={categoryOptions} multiple={true} text="Categories"/>
+{/if}
 
-    {#if subCategoryOptions && 'data' in subCategoryOptions && subCategoryOptions.data.length}
-        <SlimSelect bind:value={selectedSubCategories} options={subCategoryOptions} multiple={true}
-                    text="Sub-Categories"/>
-    {/if}
+{#if subCategoryOptions && 'data' in subCategoryOptions && subCategoryOptions.data.length}
+    <SlimSelect bind:value={selectedSubCategories} options={subCategoryOptions} multiple={true}
+                text="Sub-Categories"/>
+{/if}
 
 
 <style>
-    .full{
-        display: block;
-        width: 100%;
-        border: 0;
-        padding: 2px 10px;
-    }
-
-    .material-icons{
-        font-size: 0.8rem;
-    }
-
     :global(.ss-value) {
         background-color: #878787 !important;
         font-weight: 500;

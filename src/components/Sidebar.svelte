@@ -1,9 +1,9 @@
 <script>
     import {selectedItem} from '../stores'
-    import NameSearch from './Sidebar/NameSearch.svelte'
-    import CategoryFilters from './Sidebar/CategoryFilters.svelte'
-    import RowItem from './Sidebar/RowItem.svelte'
-    import ItemDetails from './Sidebar/ItemDetails.svelte'
+    import NameSearch from './sidebar/filters/NameSearch.svelte'
+    import RowItem from './sidebar/RowItem.svelte'
+    import ItemDetails from './sidebar/details/ItemDetails.svelte'
+    import OtherFilters from "./sidebar/filters/OtherFilters.svelte";
 
     export let items = []
 </script>
@@ -11,7 +11,7 @@
 <div class="sidebar-content">
     <div class="search">
         <NameSearch/>
-        <CategoryFilters/>
+        <OtherFilters/>
     </div>
     <div class="items">
         {#if $selectedItem}

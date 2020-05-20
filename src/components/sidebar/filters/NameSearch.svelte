@@ -1,6 +1,6 @@
 <script>
     import {_} from 'svelte-i18n'
-    import {rows, filters} from '../../stores'
+    import {rows, filters} from '../../../stores'
     import Fuse from 'fuse.js'
 
     export let textSearch = ''

@@ -1,5 +1,5 @@
 <script>
-    import {formatPhoneNumber, getValidUrl} from '../../utils/textFormatting'
+    import {formatPhoneNumber, getValidUrl} from '../../../utils/textFormatting'
 
     export let text = ''
     export let icon = 'indeterminate_check_box'
