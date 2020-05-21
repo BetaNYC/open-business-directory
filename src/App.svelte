@@ -14,7 +14,7 @@
     $: items = $rows.filter(row => $filters.every(f => f.filter(row)))
 
     onMount(() => {
-        importData('/data/rows.csv', rows)
+        importData('data/rows.csv', rows)
     })
 </script>
 
