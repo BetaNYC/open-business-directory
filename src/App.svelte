@@ -71,7 +71,7 @@
         }
 
         .content {
-            min-height: 550px;
+            min-height: 700px;
         }
 
         .content > div {

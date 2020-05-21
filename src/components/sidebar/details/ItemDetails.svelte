@@ -2,7 +2,7 @@
     import {selectedItem} from '../../../stores'
     import MarkdownField from './MarkdownField.svelte'
     import ItemDetailsInfo from './ItemDetailsInfo.svelte'
-    import TakeoutDelivery from './TakeoutDelivery.svelte'
+    import PickupDelivery from './PickupDelivery.svelte'
     import LastUpdated from './LastUpdated.svelte'
     import Status from './Status.svelte'
 
@@ -57,7 +57,7 @@
         <MarkdownField title="Notes" content={item.Notes}/>
         <hr>
 
-        <TakeoutDelivery
+        <PickupDelivery
                 pickup={item['Pickup Offered']}
                 delivery={item['Delivery Offered']}
                 notes={item['Delivery/Pickup Notes']}
@@ -70,6 +70,7 @@
 
 <style>
     .details {
+        padding-top: 10px;
         margin-left: 0.5rem;
         height: 100px;
     }
@@ -95,7 +96,7 @@
         width: 32px;
         height: 35px;
         position: absolute;
-        right: 0;
+        right: 5px;
     }
 
     .address {

@@ -35,5 +35,6 @@
         position: relative;
         height: inherit;
         overflow: auto;
+        box-shadow: 0px 0px 2px 2px rgba(128, 128, 128, 0.2);
     }
 </style>
