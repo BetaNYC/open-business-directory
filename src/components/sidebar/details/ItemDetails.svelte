@@ -12,11 +12,14 @@
 
     $: if (item) subCategories = item['Sub-Category'].split(',').filter(tag => tag.trim())
 
+    function resetSelect(){
+        selectedItem.select(null)
+    }
 </script>
 
 <div class="details">
     <div class="header">
-        <button class="button is-small back" on:click={()=> selectedItem.select(null)}>
+        <button class="button is-small back" on:click={resetSelect}>
             <span class="material-icons">keyboard_backspace</span>
         </button>
         <span class="title">

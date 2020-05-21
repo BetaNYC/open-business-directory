@@ -14,10 +14,9 @@
         <OtherFilters/>
     </div>
     <div class="items">
+        <RowItems {items} show={!$selectedItem}/>
         {#if $selectedItem}
             <ItemDetails/>
-        {:else}
-            <RowItems {items}/>
         {/if}
     </div>
 </div>

@@ -1,23 +1,20 @@
 <script>
-    import {selectedItem, mapObject} from '../../stores'
-
+    import RowItem from './RowItem.svelte'
+    export let show
     export let items;
-
-    function selectItem(item) {
-        selectedItem.select(item, $mapObject, item.coordinates)
-    }
 </script>
 
-<ul>
+<div class="listings {show ? '' : 'is-hidden'}" role="list" aria-label="listings">
     {#each items as item (item.id)}
-        <li role="listitem" tabindex="-1" on:click={() => selectItem(item)}>{item.Name}</li>
+        <RowItem {item}/>
     {/each}
-</ul>
+</div>
 
 
 <style>
-    ul{
+    .listings {
         position: absolute;
         height: 100%;
+        width: 100%;
     }
 </style>
