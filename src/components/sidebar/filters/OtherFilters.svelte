@@ -1,6 +1,7 @@
 <script>
     import CategoryFilters from './CategoryFilters.svelte'
     import OpenedFilter from './OpenedFilter.svelte'
+    import PickupDeliveryFilter from './PickupDeliveryFilter.svelte'
 
     let opened = false
 
@@ -13,6 +14,7 @@
 <div class={opened ? '' : 'hidden'}>
     <CategoryFilters/>
     <OpenedFilter/>
+    <PickupDeliveryFilter/>
 </div>
 
 <style>
