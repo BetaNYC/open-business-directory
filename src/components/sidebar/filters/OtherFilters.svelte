@@ -9,7 +9,7 @@
 
 
 <button class="full" on:click={() => opened = !opened}>
-    <span class="material-icons">{opened? 'expand_less' : 'expand_more'}</span>
+    More Filters <span class="material-icons">{opened? 'expand_less' : 'expand_more'}</span>
 </button>
 <div class={opened ? '' : 'hidden'}>
     <CategoryFilters/>
@@ -21,8 +21,9 @@
     .full {
         display: block;
         width: 100%;
-        border: 0;
-        padding: 2px 10px;
+        border: solid 1px #d5d5d5;
+        border-radius: 4px;
+        padding: 5px 10px;
     }
 
     .material-icons {

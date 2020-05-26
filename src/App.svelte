@@ -67,7 +67,7 @@
 
     @media only screen and (max-width: 768px) {
         main {
-            padding: 0 8px;
+            padding: 0 20px;
         }
 
         .content {
@@ -79,7 +79,7 @@
         }
 
         .sidebar {
-            height: 500px;
+            height: 800px;
             margin-right: 0px;
             margin-bottom: 1rem;
         }

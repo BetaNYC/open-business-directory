@@ -10,7 +10,7 @@
     ]
 </script>
 
-<div class="has-text-right">
+<div class="has-text-right translation-menu">
     <button class="button {className} {opened ? 'is-clicked' : ''}" on:click={()=> opened = !opened}>
         <span class="material-icons">translate</span>
     </button>
@@ -40,5 +40,9 @@
 
     .is-clicked {
         background-color: #ecf1f8;
+    }
+
+    .translation-menu{
+        z-index: 3;
     }
 </style>

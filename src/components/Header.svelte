@@ -38,6 +38,12 @@
         #title{
             margin-bottom: 10px;
         }
+
+        #subtitle{
+            background-color: #eaeaea;
+            padding: 1rem 2rem;
+            z-index: 2;
+        }
     }
 
     .is-clicked{
