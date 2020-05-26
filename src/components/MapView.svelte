@@ -36,7 +36,7 @@
             style: 'mapbox://styles/zhik/ckacv5hvo0uvs1iqjctbbbcnv',
             center: [-73.9482, 40.7184],
             zoom: 13,
-            maxZoom: 18,
+            maxZoom: 20,
             minZoom: 12
         });
 
@@ -131,7 +131,7 @@
 
             map.on('click', 'points', (e) => {
                 const feature = e.features[0]
-                selectedItem.select(feature.properties, map, feature.geometry.coordinates)
+                selectedItem.select(feature.properties)
             });
 
             //load icon and symbol layer
@@ -198,7 +198,7 @@
 
                         map.on('click', 'markers', (e) => {
                             const feature = e.features[0]
-                            selectedItem.select(feature.properties, map, feature.geometry.coordinates)
+                            selectedItem.select(feature.properties)
                         });
 
                     })

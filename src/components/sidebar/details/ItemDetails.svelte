@@ -12,7 +12,7 @@
 
     $: if (item) subCategories = item['Sub-Category'].split(',').filter(tag => tag.trim())
 
-    function resetSelect(){
+    function resetSelect() {
         selectedItem.select(null)
     }
 </script>
@@ -22,39 +22,37 @@
         <button class="button is-small back" on:click={resetSelect}>
             <span class="material-icons">keyboard_backspace</span>
         </button>
-        <span class="title">
-            <h4 class="is-5 subtitle is-marginless">{item.Name}</h4>
-            <img class="icon" src="./icons/{item.icon}"/>
-       </span>
+        <img class="icon" src="./icons/{item.icon}"/>
     </div>
     <div class="content">
+        <h4 class="is-5 subtitle is-marginless">{item.Name}</h4>
+        <p class="address">
+            {item.Address}
+            <a href="http://maps.google.com/?q={item.Address}" target="_blank">
+                <span class="material-icons">pin_drop</span>
+            </a>
+        </p>
         <Status status={item.Status}/>
 
         <div class="category">
             <strong>{item.Category} - </strong>
             {#if subCategories.length}
                 <div class="tags are-small">
-                {#each subCategories as tag}
-                    <span class="tag">{tag}</span>
-                {/each}
-            </div>
+                    {#each subCategories as tag}
+                        <span class="tag">{tag}</span>
+                    {/each}
+                </div>
             {/if}
         </div>
 
-        <p class="address">
-            <a class="has-text-grey-light" href="http://maps.google.com/?q={item.Address}"
-               target="_blank">{item.Address}</a>
-        </p>
-
-
         <ItemDetailsInfo text={item.Email} icon="email" type="email"/>
         <ItemDetailsInfo text={item.Phone} icon="local_phone" type="phone"/>
-        <ItemDetailsInfo text={item['Website/Social Media']} icon="public" type="website"/>
-        <ItemDetailsInfo text={item.Donate} icon="card_giftcard" type="website"/>
+        <ItemDetailsInfo url={item['Website/Social Media']} text="Website/Instagram" icon="public" type="website"/>
+        <ItemDetailsInfo url={item.Donate} text="Donate" icon="card_giftcard" type="website"/>
 
         <MarkdownField title="Hours" content={item.Hours}/>
         <MarkdownField title="Special Accommodation Hours" content={item['Special Accommodation Hours']}/>
-        <MarkdownField title="Notes" content={item.Notes}/>
+<!--        <MarkdownField title="Notes" content={item.Notes}/>-->
         <hr>
 
         <PickupDelivery
@@ -86,12 +84,6 @@
         margin-right: 5px;
     }
 
-    .title {
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-    }
-
     .icon {
         width: 32px;
         height: 35px;
@@ -103,12 +95,12 @@
         font-size: 0.9rem;
     }
 
-    .category{
+    .category {
         display: flex;
         flex-direction: row;
     }
 
-    .category *{
+    .category * {
         margin-right: 5px;
     }
 

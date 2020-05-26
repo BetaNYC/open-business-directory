@@ -42,7 +42,7 @@ function removeOverlap(rows){
         if (overlapped.length > 1) {
             //move depending on the index
             const index = overlapped.indexOf(row)
-            row.coordinates = [lng1 + index * 0.00005, lat1 + index * 0.00002]
+            row.coordinates = [lng1 + index * 0.00006, lat1 + index * 0.00003]
         }
         return row
     })
