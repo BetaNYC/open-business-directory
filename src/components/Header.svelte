@@ -27,7 +27,7 @@
 
 <style>
     header {
-        margin-top: 1em;
+        margin: 1em 0em;
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;

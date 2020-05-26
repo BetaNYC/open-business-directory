@@ -2,6 +2,7 @@
     import {mapObject, selectedItem} from '../stores'
     import {styles} from '../constants'
     import {onMount} from 'svelte'
+    import MultiTouch from '../utils/multiTouch'
 
     export let items
     let map
@@ -37,6 +38,11 @@
             maxZoom: 18,
             minZoom: 12
         });
+
+        map.addControl(new mapboxgl.NavigationControl());
+
+        //To pan and zoom, use 2 fingers
+        map.addControl(new MultiTouch());
 
         popup = new mapboxgl.Popup({
             closeButton: false,

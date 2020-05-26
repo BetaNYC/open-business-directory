@@ -67,7 +67,7 @@
 
     @media only screen and (max-width: 768px) {
         main {
-            padding: 0 20px;
+            padding: 0 30px;
         }
 
         .content {
