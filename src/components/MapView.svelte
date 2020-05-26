@@ -1,5 +1,5 @@
 <script>
-    import PanOverlay from './map/PanOverlay.svelte'
+    import Legend from './map/Legend.svelte'
     import {mapObject, selectedItem} from '../stores'
     import {styles} from '../constants'
     import {onMount} from 'svelte'
@@ -230,7 +230,7 @@
 </script>
 
 <div id="map" bind:this={container}>
-<!--    <PanOverlay/>-->
+    <Legend/>
 </div>
 
 <style>
