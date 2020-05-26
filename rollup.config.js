@@ -4,6 +4,7 @@ import commonjs from '@rollup/plugin-commonjs';
 import livereload from 'rollup-plugin-livereload';
 import { terser } from 'rollup-plugin-terser';
 import postcss from 'rollup-plugin-postcss'
+import autoprefixer from 'autoprefixer'
 
 const production = !process.env.ROLLUP_WATCH;
 
@@ -36,7 +37,11 @@ export default {
 			dedupe: ['svelte']
 		}),
 		commonjs(),
-		postcss(),
+		postcss({
+            plugins: [
+                autoprefixer()
+            ]
+        }),
 		// In dev mode, call `npm run start` once
 		// the bundle has been generated
 		!production && serve(),

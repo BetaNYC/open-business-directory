@@ -27,7 +27,7 @@
 
 <style>
     header {
-        margin: 1em 0em;
+        margin: 1rem 0rem;
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
@@ -35,6 +35,9 @@
     }
 
     @media only screen and (max-width: 768px) {
+        header{
+            min-height: 5rem;
+        }
         #title{
             margin-bottom: 10px;
         }
