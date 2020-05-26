@@ -7,12 +7,11 @@
 
 </script>
 
-
+<CategoryFilters/>
 <button class="full" on:click={() => opened = !opened}>
     More Filters <span class="material-icons">{opened? 'expand_less' : 'expand_more'}</span>
 </button>
 <div class={opened ? '' : 'hidden'}>
-    <CategoryFilters/>
     <OpenedFilter/>
     <PickupDeliveryFilter/>
 </div>
