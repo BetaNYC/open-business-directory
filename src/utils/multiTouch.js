@@ -18,6 +18,7 @@ class MultiTouch {
             this.showMessage()
             return;
         }
+
         event.stopImmediatePropagation();
         event.preventDefault();
 
@@ -54,10 +55,7 @@ class MultiTouch {
         return hypo1 / this.state.hypo;
     }
     touchMove(event) {
-        if (event.touches.length !== 2){
-            this.showMessage()
-            return;
-        }
+        if (event.touches.length !== 2) return;
 
         let scale = this.getScale(event);
 

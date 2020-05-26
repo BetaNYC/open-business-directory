@@ -42,8 +42,8 @@
 
         map.addControl(new mapboxgl.NavigationControl());
 
-        //To pan and zoom, use 2 fingers
-        map.addControl(new MultiTouch());
+        // //To pan and zoom, use 2 fingers
+        // map.addControl(new MultiTouch());
 
         popup = new mapboxgl.Popup({
             closeButton: false,
@@ -230,7 +230,7 @@
 </script>
 
 <div id="map" bind:this={container}>
-    <PanOverlay/>
+<!--    <PanOverlay/>-->
 </div>
 
 <style>
