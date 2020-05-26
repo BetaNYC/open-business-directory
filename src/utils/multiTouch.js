@@ -1,4 +1,4 @@
-import {_} from 'svelte-i18n'
+import { showPanOverlay } from '../stores'
 
 //https://github.com/mapbox/mapbox-gl-js/issues/2618 and akhilb91
 class MultiTouch {
@@ -11,7 +11,6 @@ class MultiTouch {
         this.touchStart = this.touchStart.bind(this);
         this.touchEnd = this.touchEnd.bind(this);
         this.touchMove = this.touchMove.bind(this);
-        this.overlay = null
     }
 
     touchStart(event) {
@@ -35,22 +34,9 @@ class MultiTouch {
     }
 
     showMessage() {
-        if(this.overlay)  this.overlay.remove()
-        const mapContainer = this.map.getContainer()
-        this.overlay = document.createElement('div')
-        this.overlay.style.position = 'absolute'
-        this.overlay.style.backgroundColor = 'rgba(0,0,0,0.6)'
-        this.overlay.style.color = 'rgb(255, 255, 255)'
-        this.overlay.style.fontSize = '2rem'
-        this.overlay.style.display = 'flex'
-        this.overlay.style.justifyContent = 'center'
-        this.overlay.style.alignItems = 'center'
-        this.overlay.style.width = '100%'
-        this.overlay.style.height = '100%'
-        this.overlay.innerText = _('map.pan')
-        mapContainer.appendChild(this.overlay)
-        setTimeout(() => { this.overlay.remove() }, 1000);
-
+        //todo - debounce
+        showPanOverlay.set(true)
+        setTimeout(() => showPanOverlay.set(false), 1000);
     }
 
     touchEnd(event) {
@@ -68,7 +54,10 @@ class MultiTouch {
         return hypo1 / this.state.hypo;
     }
     touchMove(event) {
-        if (event.touches.length !== 2) return;
+        if (event.touches.length !== 2){
+            this.showMessage()
+            return;
+        }
 
         let scale = this.getScale(event);
 
