@@ -16,7 +16,7 @@
         <p class="is-6 subtitle" id="subtitle">{@html $_('site_header.subtitle')}</p>
         <p class="is-6 subtitle" id="subtitle">{@html $_('site_header.subtitle2')}</p>
     {:else}
-        <div id="title">
+        <div>
             <h3 class="title is-5">{$_('site_header.title')}</h3>
             <div class="buttons has-text-right">
                 <TranslationMenu className="is-small"/>
@@ -44,12 +44,11 @@
     }
 
     @media only screen and (max-width: 768px) {
-        .title {
-            margin-bottom: 10px;
+        .title{
+            margin-bottom: 10px !important;
         }
-
-        #title{
-            min-height: 5rem;
+        header{
+            display: block;
         }
 
         #subtitle {

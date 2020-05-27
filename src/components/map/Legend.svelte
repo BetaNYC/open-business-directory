@@ -14,10 +14,10 @@
     }, {})
 </script>
 
-<div class="legend">
+<div id="legend" id="legend">
     <div class="legend-title">
         <h5>Legend</h5>
-        <p><a href="#" on:click={() => opened = !opened}>{opened ? 'Hide' : 'Show'}</a></p>
+        <p><a href="#legend" aria-label="Hide map legend" on:click={() => opened = !opened}>{opened ? 'Hide' : 'Show'}</a></p>
     </div>
     {#if opened}
         {#each Object.values(groups) as group}
