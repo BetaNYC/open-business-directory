@@ -4,9 +4,9 @@ export const categoryGroups = [
 ]
 
 export const styles = [
-    //group, category name, sub-category, fill color, border color, icon
+    //group, category name, sub-category, fillColor, strokeColor, icon
     ['Grocery','Grocery Store', '', '#1aa139','#000','grocery.png'],
-    ['Grocery', 'Grocery Store - Supermarket', '', '#1aa139','#000', 'supermarket.png'],
+    ['Grocery', 'Grocery Store', 'supermarket', '#1aa139','#000', 'supermarket.png'],
     ['Grocery', 'Bakery', '', '#69b657','#000', 'bread.png'],
     ['Food & Beverage', 'Restaurant', '', '#2637cc','#000','restaurant.png'],
     ['Food & Beverage', 'Coffee Shop', '', '#1eb0a9','#000','coffee.png'],

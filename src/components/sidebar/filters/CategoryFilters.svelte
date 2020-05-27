@@ -17,14 +17,24 @@
             selectedCategories = []
             //set up SlimSelect options
             let options = categoryGroups.reduce((groups, groupLabel) => {
+                const options = styles
+                        .filter(cat => cat[0] === groupLabel)
+                        .map(cat => ({
+                            text: cat[1],
+                            value: cat[1],
+                            innerHTML: `<span style="padding-left: 5px; border-left: 5px solid ${cat[3]};">${cat[1]}</span>`
+                        }))
+
+                const uniqueOptions = options.filter((item1, index, self) => {
+                    const findIndex = self.findIndex(item2 => item1.text === item2.text)
+                    return findIndex === index
+                })
+
                 const group = {
                     label: groupLabel,
-                    options: styles.filter(cat => cat[0] === groupLabel).map(cat => ({
-                        text: cat[1],
-                        value: cat[1],
-                        innerHTML: `<span style="padding-left: 5px; border-left: 5px solid ${cat[3]};">${cat[1]}</span>`
-                    }))
+                    options: uniqueOptions
                 }
+
                 return [...groups, group]
             }, [])
 

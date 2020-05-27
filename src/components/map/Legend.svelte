@@ -7,9 +7,16 @@
     const groups = styles.filter(i => i[0]).reduce((groups, i) => {
         const color = i[3],
                 name = i[1]
-        if (!(color in groups)) groups[color] = {names: [], color}
+        if (!(color in groups)){
+            //setup object
+            groups[color] = {names: [], color}
+        }
 
-        groups[color].names.push(name)
+        if(!groups[color].names.includes(name)){
+            //only push if unique
+            groups[color].names.push(name)
+        }
+
         return groups
     }, {})
 </script>

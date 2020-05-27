@@ -1,9 +1,16 @@
-import { csvParse } from 'd3-dsv'
-import { styles } from '../constants'
+import {csvParse} from 'd3-dsv'
+import {styles} from '../constants'
 
-function getColors(rows){
+function getColors(rows) {
     //get colors and icons from constants
     return rows.map(row => {
+        const subLookup = styles.find(style => {
+            const subCategory = row['Sub-Category'].toLowerCase().trim()
+            if(subCategory.length === 0 || style[2].length === 0){
+                return false
+            }
+            return style[1] === row.Category && subCategory.includes(style[2])
+        })
         const lookup = styles.find(style => style[1] === row.Category)
 
         //defaults
@@ -12,7 +19,12 @@ function getColors(rows){
             icon = 'blank.png',
             _closed = !row.Status.toLowerCase().includes('open')
 
-        if(lookup){
+        if (subLookup) {
+            fillColor = subLookup[3]
+            strokeColor = subLookup[4]
+            icon = subLookup[5]
+        } else if (lookup) {
+            //const [group, category, subCategory, fillColor, strokeColor, icon] = lookup
             fillColor = lookup[3]
             strokeColor = lookup[4]
             icon = lookup[5]
@@ -22,7 +34,7 @@ function getColors(rows){
     })
 }
 
-function removeOverlap(rows){
+function removeOverlap(rows) {
     //create coordinates array
     const coordRows = rows.map(row => {
         const digits = 4
