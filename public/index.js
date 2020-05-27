@@ -66,7 +66,7 @@ async function main() {
             }
         })
         return nRow
-    })
+    }).sort((a, b) => a.id - b.id)
 
     console.log(' :: Updating data files')
     const csv = json2csvParser.parse(rows);
