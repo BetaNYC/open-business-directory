@@ -1,0 +1,45 @@
+name: Get data from airtable every hour or update to master
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  get-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sleep for 2 minutes
+        uses: jakejarvis/wait-action@master
+        with:
+          time: '100s'
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 2
+      - name: Checkout gh-pages
+        run: |
+          git fetch origin gh-pages
+          git checkout gh-pages
+      - name: Setup Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12
+      - name: Run
+        run: |
+          npm install
+          npm run start
+        env:
+            AIRTABLE_API_KEY: ${{ secrets.AIRTABLE_API_KEY }}
+            AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
+      - name: Commit updates
+        uses: EndBug/add-and-commit@v4
+        with:
+          author_name: bot
+          author_email: bot@example.com
+          message: "Update rows.csv"
+          add: "*.csv"
+          ref: gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
