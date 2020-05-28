@@ -4,9 +4,9 @@
     let opened = true
 
     //group similar colors
-    const groups = styles.filter(i => i[0]).reduce((groups, i) => {
-        const color = i[3],
-                name = i[1]
+    const groups = styles.filter(i => i.group).reduce((groups, i) => {
+        const color = i.fillColor,
+                name = i.categoryName
         if (!(color in groups)){
             //setup object
             groups[color] = {names: [], color}

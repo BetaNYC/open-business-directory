@@ -18,11 +18,11 @@
             //set up SlimSelect options
             let options = categoryGroups.reduce((groups, groupLabel) => {
                 const options = styles
-                        .filter(cat => cat[0] === groupLabel)
+                        .filter(cat => cat.group === groupLabel)
                         .map(cat => ({
-                            text: cat[1],
-                            value: cat[1],
-                            innerHTML: `<span style="padding-left: 5px; border-left: 5px solid ${cat[3]};">${cat[1]}</span>`
+                            text: cat.categoryName,
+                            value: cat.categoryName,
+                            innerHTML: `<span style="padding-left: 5px; border-left: 5px solid ${cat.fillColor};">${cat.categoryName}</span>`
                         }))
 
                 const uniqueOptions = options.filter((item1, index, self) => {
@@ -41,7 +41,7 @@
             //get unique categories from rows
             const uniqueCategories = Array.from(new Set(rows.map(({Category}) => Category)))
             //filter for items not in groups
-            const otherGroup = uniqueCategories.filter(cat => !styles.map(i => i[1]).includes(cat))
+            const otherGroup = uniqueCategories.filter(cat => !styles.map(i => i.categoryName).includes(cat))
 
             categoryOptions = {
                 data: [...options, {

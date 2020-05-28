@@ -137,8 +137,8 @@
             //load icon and symbol layer
             Promise.all(
                     styles.map(style => ({
-                        url: `./icons/${style[5]}`,
-                        id: style[5]
+                        url: `./icons/${style.icon}`,
+                        id: style.icon
                     })).map(img => new Promise((resolve, reject) => {
                         map.loadImage(img.url, function (error, res) {
                             map.addImage(img.id, res)

@@ -6,12 +6,12 @@ function getColors(rows) {
     return rows.map(row => {
         const subLookup = styles.find(style => {
             const subCategory = row['Sub-Category'].toLowerCase().trim()
-            if(subCategory.length === 0 || style[2].length === 0){
+            if(subCategory.length === 0 || !style.subcategoryName){
                 return false
             }
-            return style[1] === row.Category && subCategory.includes(style[2])
+            return style.categoryName === row.Category && subCategory.includes(style.subcategoryName)
         })
-        const lookup = styles.find(style => style[1] === row.Category)
+        const lookup = styles.find(style => style.categoryName === row.Category)
 
         //defaults
         let fillColor = '#909090',
@@ -20,14 +20,14 @@ function getColors(rows) {
             _closed = !row.Status.toLowerCase().includes('open')
 
         if (subLookup) {
-            fillColor = subLookup[3]
-            strokeColor = subLookup[4]
-            icon = subLookup[5]
+            fillColor = subLookup.fillColor
+            strokeColor = subLookup.strokeColor
+            icon = subLookup.icon
         } else if (lookup) {
             //const [group, category, subCategory, fillColor, strokeColor, icon] = lookup
-            fillColor = lookup[3]
-            strokeColor = lookup[4]
-            icon = lookup[5]
+            fillColor = lookup.fillColor
+            strokeColor = lookup.strokeColor
+            icon = lookup.icon
         }
 
         return {...row, fillColor, strokeColor, icon, _closed}
