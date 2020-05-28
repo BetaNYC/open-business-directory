@@ -14,8 +14,8 @@
         <div class="header-bar">
             <h3 class="title is-3" id="title">Essentially Open North Brooklyn</h3>
             <div class="buttons has-text-right">
-                <TranslationMenu/>
-                <button class="button {opened ? 'is-clicked' : ''}" on:click={() => opened = !opened}>
+                <TranslationMenu className="is-small"/>
+                <button class="button is-small {opened ? 'is-clicked' : ''}" on:click={() => opened = !opened}>
                     <MaterialIcon icon="info"></MaterialIcon>
                 </button>
             </div>

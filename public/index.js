@@ -4,10 +4,10 @@ const fs = require('fs')
 const Airtable = require('airtable')
 
 require('dotenv').config()
-const API_KEY = process.env.AIRTABLE_API_KEY
-const BASE = process.env.AIRTABLE_BASE_ID
-const TABLE_NAME = "what's open north brooklyn"
-const outputPath = './data/rows.csv'
+const AIRTABLE_API_KEY = process.env.AIRTABLE_API_KEY
+const AIRTABLE_BASE_ID = process.env.AIRTABLE_BASE_ID
+const AIRTABLE_TABLE_NAME = process.env.AIRTABLE_TABLE_NAME
+const directory = __dirname + '/data';
 
 const json2csvParser = new Parser()
 
@@ -46,15 +46,14 @@ function setupDirectory(dir) {
 }
 
 async function main() {
-    const directory = __dirname + '/data';
     console.log(' :: Setting up directory structure')
     setupDirectory(directory)
 
-    console.log(` :: Getting rows from ${TABLE_NAME}`)
+    console.log(` :: Getting rows from ${AIRTABLE_TABLE_NAME}`)
     const base = new Airtable({
-        apiKey: API_KEY
-    }).base(BASE)
-    const records = await getAllRecords(base, TABLE_NAME)
+        apiKey: AIRTABLE_API_KEY
+    }).base(AIRTABLE_BASE_ID)
+    const records = await getAllRecords(base, AIRTABLE_TABLE_NAME)
     const rows = records.map(row => row.fields).map(row => {
         let nRow = {}
         Object.entries(row).forEach(([key, value]) => {

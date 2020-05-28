@@ -5,7 +5,6 @@ on:
       - master
   schedule:
     - cron: "0 * * * *"
-
 jobs:
   get-data:
     runs-on: ubuntu-latest
@@ -22,10 +21,6 @@ jobs:
         run: |
           git fetch origin gh-pages
           git checkout gh-pages
-      - name: Setup Node
-        uses: actions/setup-node@v1
-        with:
-          node-version: 12
       - name: Run
         run: |
           npm install
@@ -33,6 +28,7 @@ jobs:
         env:
             AIRTABLE_API_KEY: ${{ secrets.AIRTABLE_API_KEY }}
             AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
+            AIRTABLE_TABLE_NAME: ${{ secrets.AIRTABLE_TABLE_NAME }}
       - name: Commit updates
         uses: EndBug/add-and-commit@v4
         with:

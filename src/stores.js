@@ -7,7 +7,7 @@ function createSelectedItem() {
         subscribe,
         select: (row, map, center) => {
             //go to latlng
-            if(center){
+            if(map && center){
                 const zoom = 17
                 map.flyTo({center, zoom})
             }
