@@ -4,16 +4,18 @@
     export let lastUpdated = ''
     export let source = ''
 
+
+    $: date = new Date(lastUpdated).toLocaleString()
     $: sourceIsLink = source.includes('http')
 </script>
 
 <p class="has-text-grey-light">
     {#if sourceIsLink}
-        <a href={getValidUrl(source)}>Updated: {lastUpdated}</a>
+        <a href={getValidUrl(source)}>Updated: {date}</a>
     {:else if source.trim().length > 0}
-        <abbr title={source}>Updated: {lastUpdated}</abbr>
+        <abbr title={source}>Updated: {date}</abbr>
     {:else}
-        Updated: {lastUpdated}
+        Updated: {date}
     {/if}
 </p>
 
