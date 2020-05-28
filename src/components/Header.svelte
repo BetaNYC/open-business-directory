@@ -11,12 +11,23 @@
 
 <header>
     {#if innerWidth > 768}
-        <h3 class="title is-3" id="title">{$_('site_header.title')}</h3>
-        <TranslationMenu/>
-        <p class="is-6 subtitle" id="subtitle">{@html $_('site_header.subtitle')}</p>
-        <p class="is-6 subtitle" id="subtitle">{@html $_('site_header.subtitle2')}</p>
+        <div class="header-bar">
+            <h3 class="title is-3" id="title">{$_('site_header.title')}</h3>
+            <div class="buttons has-text-right">
+                <TranslationMenu/>
+                <button class="material-icons button {opened ? 'is-clicked' : ''}"
+                        on:click={() => opened = !opened}>info
+                </button>
+            </div>
+        </div>
+        {#if opened}
+            <div id="subtitle">
+                <p class="is-6 subtitle">{@html $_('site_header.subtitle')}</p>
+                <p class="is-6 subtitle">{@html $_('site_header.subtitle2')}</p>
+            </div>
+        {/if}
     {:else}
-        <div>
+        <div class="header-bar">
             <h3 class="title is-5">{$_('site_header.title')}</h3>
             <div class="buttons has-text-right">
                 <TranslationMenu className="is-small"/>
@@ -35,7 +46,7 @@
 </header>
 
 <style>
-    header {
+    .header-bar {
         margin: 1rem 0rem;
         display: flex;
         flex-direction: row;
@@ -43,13 +54,11 @@
         justify-content: space-between;
     }
 
+    .title {
+        margin-bottom: 10px !important;
+    }
+
     @media only screen and (max-width: 768px) {
-        .title{
-            margin-bottom: 10px !important;
-        }
-        header{
-            display: block;
-        }
 
         #subtitle {
             margin-top: 5px;
