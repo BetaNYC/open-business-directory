@@ -82,7 +82,7 @@
                 filter: (row) => {
                     if (selectedCategories.length) {
                         if (selectedSubCategories.length) {
-                            return selectedCategories.includes(row.Category) && selectedSubCategories.includes(row['Sub-Category'])
+                            return selectedCategories.includes(row.Category) && row['Sub-Category'].includes(selectedSubCategories)
                         } else {
                             return selectedCategories.includes(row.Category)
                         }
