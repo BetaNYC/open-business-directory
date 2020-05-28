@@ -1,30 +1,34 @@
 <script>
-    import {locale} from 'svelte-i18n'
+    import MaterialIcon from './MaterialIcon.svelte'
+    import {onDestroy} from 'svelte'
 
     export let className = ""
     export let opened = false
 
-    const languages = [
-        {locale: 'en', text: 'English'},
-        {locale: 'es', text: 'Español'}
-    ]
 </script>
+
+<svelte:head>
+    <script type="text/javascript">
+        window.translateElement = null
+
+        function googleTranslateElementInit() {
+            if (window.translateElement) return
+            window.translateElement = google.translate.TranslateElement(
+                {pageLanguage: 'en'},
+                'google_translate_element'
+            );
+        }
+    </script>
+
+    <script type="text/javascript"
+            src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</svelte:head>
 
 <div class="has-text-right translation-menu">
     <button class="button {className} {opened ? 'is-clicked' : ''}" on:click={()=> opened = !opened}>
-        <span class="material-icons">translate</span>
+        <MaterialIcon icon="translate"/>
     </button>
-    {#if opened}
-        <div class="menu">
-            <div class="select is-small">
-                <select name="translate-menu" id="translate-menu" on:change="{(e) => locale.set(e.target.value)}">
-                    {#each languages as language}
-                        <option value={language.locale}>{language.text}</option>
-                    {/each}
-                </select>
-            </div>
-        </div>
-    {/if}
+    <div id="google_translate_element" class="menu {opened ? '' : 'is-hidden'}"></div>
 </div>
 
 <style>
@@ -36,13 +40,15 @@
         position: absolute;
         right: 2rem;
         z-index: 2;
+        background-color: rgba(239, 239, 239, 1);
+        padding: 0.2rem 1rem;
     }
 
     .is-clicked {
         background-color: #ecf1f8;
     }
 
-    .translation-menu{
+    .translation-menu {
         z-index: 3;
     }
 </style>

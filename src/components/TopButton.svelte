@@ -1,4 +1,6 @@
 <script>
+    import MaterialIcon from './MaterialIcon.svelte'
+
     let scrollY
     let innerHeight
 
@@ -12,7 +14,7 @@
 
 {#if scrollY + innerHeight > document.body.offsetHeight + 15}
     <button class="button is-rounded" on:click={scrollTop}>
-        <span class="material-icons">keyboard_arrow_up</span>
+        <MaterialIcon icon="keyboard_arrow_up"/>
     </button>
 {/if}
 

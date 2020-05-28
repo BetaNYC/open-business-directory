@@ -2,6 +2,7 @@
     import CategoryFilters from './CategoryFilters.svelte'
     import OpenedFilter from './OpenedFilter.svelte'
     import PickupDeliveryFilter from './PickupDeliveryFilter.svelte'
+    import MaterialIcon from '../../MaterialIcon.svelte'
 
     let opened = false
 
@@ -9,7 +10,7 @@
 
 <CategoryFilters/>
 <button class="full" on:click={() => opened = !opened}>
-    More Filters <span class="material-icons">{opened? 'expand_less' : 'expand_more'}</span>
+    More Filters <MaterialIcon size="small" icon="{opened? 'expand_less' : 'expand_more'}"/>
 </button>
 <div class={opened ? '' : 'hidden'}>
     <OpenedFilter/>
@@ -23,10 +24,6 @@
         border: solid 1px #d5d5d5;
         border-radius: 4px;
         padding: 5px 10px;
-    }
-
-    .material-icons {
-        font-size: 0.8em;
     }
 
     .hidden{

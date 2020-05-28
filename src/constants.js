@@ -1,4 +1,3 @@
-//todo - add to i18n dicts
 export const categoryGroups = [
     'Grocery', 'Food & Beverage', 'Health & Wellness', 'Shops & Services'
 ]

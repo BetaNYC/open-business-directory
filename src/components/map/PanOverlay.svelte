@@ -1,12 +1,11 @@
 <script>
     import { fade } from 'svelte/transition';
-    import {_} from 'svelte-i18n'
     import {showPanOverlay} from '../../stores'
 
     $: console.log($showPanOverlay)
 </script>
 {#if $showPanOverlay}
-<div class="overlay" transition:fade>{$_('map.pan')}</div>
+<div class="overlay" transition:fade>Use two fingers to pan on the map</div>
 {/if}
 
 <style>

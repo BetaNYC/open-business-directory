@@ -8,7 +8,6 @@
 
 
     import {onMount} from 'svelte'
-    import {_} from 'svelte-i18n'
     import importData from './utils/importData'
 
     $: items = $rows.filter(row => $filters.every(f => f.filter(row)))

@@ -1,5 +1,4 @@
 <script>
-    import {_} from 'svelte-i18n'
     import {rows, filters} from '../../../stores'
     import Fuse from 'fuse.js'
 
@@ -42,12 +41,12 @@
 </script>
 
 <div class="field">
-    <label class="label">{$_('search.search_by_name')}</label>
+    <label class="label">Search by name</label>
     <div class="field">
         <div class="control is-expanded">
             <input
                     id="text-input"
-                    placeholder="{$_('search.search_placeholder')}"
+                    placeholder="Search here"
                     type="text"
                     name="text-input"
                     bind:value

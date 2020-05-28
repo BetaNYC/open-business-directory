@@ -1,5 +1,6 @@
 <script>
     import {formatPhoneNumber, getValidUrl} from '../../../utils/textFormatting'
+    import MaterialIcon from '../../MaterialIcon.svelte'
 
     export let text = ''
     export let url = ''
@@ -12,24 +13,24 @@
     {#if type === 'email'}
         <a href="mailto:{text}">
             <p class="info">
-                <span class="material-icons">{icon}</span>{text}
+                <MaterialIcon icon={icon}/>{text}
             </p>
         </a>
     {:else if type === 'phone'}
         <a href="tel:{formatPhoneNumber(text)}">
             <p class="info">
-                <span class="material-icons">{icon}</span>{text}
+                <MaterialIcon icon={icon}/>{text}
             </p>
         </a>
     {:else if type === 'website'}
         <a target="_blank" href="{getValidUrl(url)}">
             <p class="info">
-                <span class="material-icons">{icon}</span>{text}
+                <MaterialIcon icon={icon}/>{text}
             </p>
         </a>
     {:else}
         <p class="info">
-            <span class="material-icons">{icon}</span>{text}
+            <MaterialIcon icon={icon}/>{text}
         </p>
     {/if}
 {/if}

@@ -5,6 +5,7 @@
     import PickupDelivery from './PickupDelivery.svelte'
     import LastUpdated from './LastUpdated.svelte'
     import Status from './Status.svelte'
+    import MaterialIcon from '../../MaterialIcon.svelte'
 
     $: item = $selectedItem
 
@@ -20,16 +21,16 @@
 <div class="details">
     <div class="header">
         <button class="button is-small back" on:click={resetSelect}>
-            <span class="material-icons">keyboard_backspace</span>
+            <MaterialIcon icon="keyboard_backspace"/>
         </button>
         <img class="icon" src="./icons/{item.icon}"/>
     </div>
     <div class="content">
         <h4 class="is-5 subtitle is-marginless">{item.Name}</h4>
         <p class="address">
-            {item.Address}
+            <span class="notranslate" translate="no">{item.Address}</span>
             <a href="http://maps.google.com/?q={item.Address}" target="_blank">
-                <span class="material-icons">pin_drop</span>
+                <MaterialIcon icon="pin_drop"/>
             </a>
         </p>
         <Status status={item.Status}/>

@@ -1,5 +1,6 @@
 <script>
     import {selectedItem, mapObject} from '../../stores'
+    import MaterialIcon from '../MaterialIcon.svelte'
 
     export let item
 
@@ -13,13 +14,13 @@
 
 <div class="item">
     <a class="link" role="listitem" href="#" on:click={() => selectItem(item)}>
-        <p class="is-6 subtitle is-marginless">{item.Name}</p>
+        <p class="is-6 subtitle is-marginless notranslate" translate="no">{item.Name}</p>
         <div class="icons">
             {#if pickup}
-                <span class="material-icons">local_mall</span>
+                <MaterialIcon icon="local_mall"/>
             {/if}
             {#if delivery}
-                <span class="material-icons">local_shipping</span>
+                <MaterialIcon icon="local_shipping"/>
             {/if}
         </div>
     </a>
@@ -57,9 +58,6 @@
         display: flex;
         flex-direction: row;
         align-items: flex-end;
-    }
-
-    .material-icons {
         font-size: 1.2rem;
     }
 
