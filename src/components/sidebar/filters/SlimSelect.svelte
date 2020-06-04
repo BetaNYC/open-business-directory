@@ -25,6 +25,13 @@
         slimSelect = new SlimSelect({select, onChange, ...options, placeholder: `All ${text}`})
     })
 
+    $: {
+        //when options change setData
+        if(slimSelect && 'data' in options && options.data.length){
+            slimSelect.setData(options.data)
+        }
+    }
+
     onDestroy(() => {
         if (slimSelect) slimSelect.destroy()
     })
