@@ -9,7 +9,7 @@
 
 </script>
 
-{#if url.trim()}
+{#if (url && url.trim()) || text}
     {#if type === 'email'}
         <a href="mailto:{text}">
             <p class="info">
