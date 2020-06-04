@@ -20,7 +20,7 @@
                 <MaterialIcon icon="local_mall" alt="Pickup Offered"/>
             {/if}
             {#if delivery}
-                <MaterialIcon icon="local_shipping" alt="Delivery Offered"/>
+                <MaterialIcon icon="moped" alt="Delivery Offered"/>
             {/if}
         </div>
     </a>
