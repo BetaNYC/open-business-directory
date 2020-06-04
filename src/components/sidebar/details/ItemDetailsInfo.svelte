@@ -13,19 +13,19 @@
     {#if type === 'email'}
         <a href="mailto:{text}">
             <p class="info">
-                <MaterialIcon icon={icon}/>{text}
+                <MaterialIcon icon={icon} alt="Email Address"/>{text}
             </p>
         </a>
     {:else if type === 'phone'}
         <a href="tel:{formatPhoneNumber(text)}">
             <p class="info">
-                <MaterialIcon icon={icon}/>{text}
+                <MaterialIcon icon={icon} alt="Phone Number"/>{text}
             </p>
         </a>
     {:else if type === 'website'}
         <a target="_blank" href="{getValidUrl(url)}">
             <p class="info">
-                <MaterialIcon icon={icon}/>{text}
+                <MaterialIcon icon={icon} alt="Website"/>{text}
             </p>
         </a>
     {:else}

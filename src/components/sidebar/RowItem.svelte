@@ -17,10 +17,10 @@
         <p class="is-6 subtitle is-marginless notranslate" translate="no">{item.Name}</p>
         <div class="icons">
             {#if pickup}
-                <MaterialIcon icon="local_mall"/>
+                <MaterialIcon icon="local_mall" alt="Pickup Offered"/>
             {/if}
             {#if delivery}
-                <MaterialIcon icon="local_shipping"/>
+                <MaterialIcon icon="local_shipping" alt="Delivery Offered"/>
             {/if}
         </div>
     </a>

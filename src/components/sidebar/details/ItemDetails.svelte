@@ -26,7 +26,7 @@
         <img class="icon" src="./icons/{item.icon}"/>
     </div>
     <div class="content">
-        <h4 class="is-5 subtitle is-marginless">{item.Name}</h4>
+        <h4 class="is-5 subtitle is-marginless notranslate" translate="no">{item.Name}</h4>
         <p class="address">
             <span class="notranslate" translate="no">{item.Address}</span>
             <a href="http://maps.google.com/?q={item.Address}" target="_blank">

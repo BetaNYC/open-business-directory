@@ -135,10 +135,12 @@
             });
 
             //load icon and symbol layer
+            const uniqueStyleIcons = [...new Set(styles.map(style => style.icon))]
+
             Promise.all(
-                    styles.map(style => ({
-                        url: `./icons/${style.icon}`,
-                        id: style.icon
+                    uniqueStyleIcons.map(icon => ({
+                        url: `./icons/${icon}`,
+                        id: icon
                     })).map(img => new Promise((resolve, reject) => {
                         map.loadImage(img.url, function (error, res) {
                             map.addImage(img.id, res)
