@@ -1,16 +1,17 @@
 <script>
     import Legend from './map/Legend.svelte'
-    import {mapObject, selectedItem} from '../stores'
+    import {mapObject, selectedItem, filters, rows, filterExtent} from '../stores'
     import {styles} from '../constants'
     import {onMount} from 'svelte'
-    import MultiTouch from '../utils/multiTouch'
 
-    export let items
     let map
     let container;
     let loaded = false
     let popup
     let previousSelectedItem
+
+    //filter using everything but map-extent
+    $: items = $rows.filter(row => $filters.filter(f => f.label !== 'map-extent').every(f => f.filter(row)))
 
     function generateFeatures(items) {
         return {
@@ -201,6 +202,33 @@
                         map.on('click', 'markers', (e) => {
                             const feature = e.features[0]
                             selectedItem.select(feature.properties)
+                        });
+
+                        map.on('moveend', () => {
+                            function updateFilter(ids, filterExtent) {
+                                if ($filters) {
+                                    //remove existing filter
+                                    const _filters = $filters
+                                    const filter = _filters.findIndex(f => f.label === 'map-extent')
+                                    if (filter > -1) _filters.splice(filter, 1)
+                                    if (filterExtent) {
+                                        //generate new filter
+                                        const mapExtentFilter = {
+                                            label: 'map-extent',
+                                            filter: row => ids.includes(row.id)
+                                        }
+                                        filters.set([..._filters, mapExtentFilter])
+                                    } else {
+                                        filters.set(_filters)
+                                    }
+                                }
+                            }
+
+                            const features = map.queryRenderedFeatures({layers: ['markers', 'points']});
+                            if (features) {
+                                const unqiueIds = [...new Set(features.map(feature => feature.properties.id))]
+                                updateFilter(unqiueIds, $filterExtent)
+                            }
                         });
 
                     })

@@ -24,7 +24,7 @@
             <Sidebar {items}/>
         </div>
         <div class="map">
-            <MapView {items}/>
+            <MapView />
         </div>
     </div>
 </main>

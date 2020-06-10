@@ -3,13 +3,15 @@
     import NameSearch from './sidebar/filters/NameSearch.svelte'
     import RowItems from './sidebar/RowItems.svelte'
     import ItemDetails from './sidebar/details/ItemDetails.svelte'
-    import OtherFilters from "./sidebar/filters/OtherFilters.svelte";
+    import OtherFilters from './sidebar/filters/OtherFilters.svelte'
+    import AddressSearch from './sidebar/AddressSearch.svelte'
 
     export let items = []
 </script>
 
 <div class="sidebar-content">
     <div class="search">
+        <AddressSearch/>
         <NameSearch/>
         <OtherFilters/>
     </div>

@@ -24,3 +24,4 @@ export const selectedItem = createSelectedItem()
 
 export const mapObject = writable(null)
 export const showPanOverlay = writable(false)
+export const filterExtent = writable(true)
