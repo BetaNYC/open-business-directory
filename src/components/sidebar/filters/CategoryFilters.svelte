@@ -77,7 +77,7 @@
             const filter = _filters.findIndex(f => f.label === 'categories')
             if (filter > -1) _filters.splice(filter, 1)
             //generate new filter
-            if(selectedCategories.length || selectedSubCategories.length){
+            if(selectedCategories || selectedSubCategories){
                 const categoryFilter = {
                     label: 'categories',
                     filter: (row) => {
