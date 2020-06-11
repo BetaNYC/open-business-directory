@@ -9,6 +9,7 @@
     let loaded = false
     let popup
     let previousSelectedItem
+    let lastFeature
 
     //filter using everything but map-extent
     $: items = $rows.filter(row => $filters.filter(f => f.label !== 'map-extent').every(f => f.filter(row)))
@@ -111,15 +112,26 @@
                 const {Name, Category, Address} = feature.properties
                 const description = `<h6>${Name}</h6><p>${Category}</p><p>${Address}</p>`
 
-                while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
-                    coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
-                }
-
                 popup
                         .setLngLat(coordinates)
                         .setHTML(description)
                         .addTo(map);
             })
+
+            map.on('mousemove', 'points', e => {
+                const feature = map.queryRenderedFeatures(e.point)[0];
+                if (feature.properties.id !== lastFeature) {
+                    lastFeature = feature.properties.id;
+                    const coordinates = feature.geometry.coordinates.slice();
+                    const {Name, Category, Address} = feature.properties
+                    const description = `<h6>${Name}</h6><p>${Category}</p><p>${Address}</p>`
+                    popup.remove();
+                    popup
+                            .setLngLat(coordinates)
+                            .setHTML(description)
+                            .addTo(map);
+                }
+            });
 
             map.on('mouseleave', 'points', () => {
                 map.getCanvas().style.cursor = '';
@@ -184,15 +196,26 @@
                             const {Name, Category, Address} = feature.properties
                             const description = `<h6>${Name}</h6><p>${Category}</p><p>${Address}</p>`
 
-                            while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
-                                coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
-                            }
-
                             popup
                                     .setLngLat(coordinates)
                                     .setHTML(description)
                                     .addTo(map);
                         })
+
+                        map.on('mousemove', 'markers', e => {
+                            const feature = map.queryRenderedFeatures(e.point)[0];
+                            if (feature.properties.id !== lastFeature) {
+                                lastFeature = feature.properties.id;
+                                const coordinates = feature.geometry.coordinates.slice();
+                                const {Name, Category, Address} = feature.properties
+                                const description = `<h6>${Name}</h6><p>${Category}</p><p>${Address}</p>`
+                                popup.remove();
+                                popup
+                                        .setLngLat(coordinates)
+                                        .setHTML(description)
+                                        .addTo(map);
+                            }
+                        });
 
                         map.on('mouseleave', 'markers', () => {
                             map.getCanvas().style.cursor = '';
