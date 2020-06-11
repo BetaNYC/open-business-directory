@@ -11,11 +11,20 @@
             isCaseSensitive: false,
             includeMatches: true,
             minMatchCharLength: 1,
-            threshold: 0.4,
+            threshold: 0.2,
             keys: [
-                "Name",
-                "Category",
-                "Sub-Category"
+                {
+                    name: 'Name',
+                    weight: 0.5
+                },
+                {
+                    name: 'Category',
+                    weight: 0.3
+                },
+                {
+                    name: 'Sub-Category',
+                    weight: 0.2
+                }
             ]
         });
     }
