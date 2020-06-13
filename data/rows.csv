@@ -563,8 +563,8 @@ Offering free delivery and video call shopping
 ",
 "Lavanderia Express 4",201,"718-384-4580",,,"North Williamsburg","Laundromat","25",40.71253,-73.944388,"287 Graham Avenue, Brooklyn, NY 11211","11211","Open",,"Yes","No","Daily: 7am-8pm
 ","2020-05-06T15:43:22.000Z","2020-04-29T00:34:13.000Z","Location",,,,,
-"Le Crocodile",202,"718-460-8004",,"https://www.instagram.com/lecrocodilebk/","North Williamsburg","Restaurant","13",40.72205,-73.95804,"80 Wythe Ave.","11249","Open",,"Yes","Yes","Daily: 12pm-8pm
-","2020-05-27T19:29:44.000Z","2020-04-29T01:01:15.000Z","Instagram","Order via their website for pickup or delivery: <https://www.toasttab.com/lecrocodile>
+"Le Crocodile",202,"718-460-8004",,"https://www.instagram.com/lecrocodilebk/","North Williamsburg","Restaurant","13",40.72205,-73.95804,"80 Wythe Ave.","11249","Open",,"Yes","Yes","Mon-Fri: 12pm-8pm / Sat-Sun: 10am-8pm
+","2020-06-13T17:33:55.000Z","2020-04-29T01:01:15.000Z","Instagram","Order via their website for pickup or delivery: <https://www.toasttab.com/lecrocodile>
 ",,"French",,
 "Le Fanfare",203,"347-987-4244",,"https://www.instagram.com/lefanfare/","Greenpoint","Restaurant","1",40.73623,-73.955497,"1103 Manhattan Ave.","11222","Open",,"Yes","Yes","Daily: 11am-3pm & 5:30pm-9:30pm
 ","2020-05-27T19:26:01.000Z","2020-04-29T01:01:15.000Z","Instagram","Order delivery via Grubhub, link on their Instagram.
@@ -1082,9 +1082,9 @@ Offering Online lessons
 "Eleva",423,"(646) 789-3114",,"https://www.elevagplorders.com/","Greenpoint","Coffee Shop","1",40.736854,-73.958588,"7 Bell Slip","11222","Open",,"Yes","No","Daily: 10am-6pm
 ","2020-05-13T23:22:04.000Z","2020-05-03T19:29:12.000Z","Location","Order online or at the store.
 ",,,,
-"Tend",424,"(718) 383-5869","greenthumb@tendgreenpoint.com","https://www.tendgreenpoint.com","Greenpoint","Hardware Store","2",40.734829,-73.958201,"252 Franklin Street, Brooklyn NY","11222","Open",,"Yes","No","Non-Weds: Closed / Thurs-Sun: 12pm-5pm 
-","2020-05-06T15:43:22.000Z","2020-05-04T00:19:06.000Z",,"Pickup only. Follow instructions on website. 
-",,,,
+"Tend",424,"(718) 383-5869","greenthumb@tendgreenpoint.com","https://www.tendgreenpoint.com","Greenpoint","Other","2",40.734829,-73.958201,"252 Franklin Street, Brooklyn NY","11222","Open",,"Yes","No","Thu-Fri: 12pm-5pm / Sat-Sun: 11pm-5pm
+","2020-06-13T17:23:34.000Z","2020-05-04T00:19:06.000Z",,"Pickup only. Follow instructions on website. 
+",,"Gardening",,
 "Vera Cruz",425,"(718) 486-3333",,"https://www.instagram.com/veracruzbk/","North Williamsburg","Restaurant",,40.71871,-73.957806,"195 Bedford Ave.","11211","Open",,"Yes","No","5/5/20: 2-8pm
 ","2020-05-06T16:21:36.000Z","2020-05-05T22:00:54.000Z",,"Open 2-8pm on 5/5/20
 ","https://www.gofundme.com/f/vera-cruz-staff-fund","Mexican",,
@@ -1614,4 +1614,9 @@ Also delivery via Caviar, Doordash, GrubHub and Seamless (but those services tak
 "Not Today Maybe Tomorrow",635,"(347) 763-0591",,"https://www.instagram.com/nottodaymaybetomorrowtavern/","East Williamsburg","Bar",,40.71456,-73.94439,"749 Metropolitan Avenue","11211","Open",,"Yes",,,"2020-06-11T12:47:00.000Z","2020-06-11T12:45:34.000Z","Location",,,,,
 "Bushwick Country Club",636,"(718) 388-2114","john@bushwickcountryclub.com","https://www.instagram.com/bushwick_country_club/","East Williamsburg","Bar",,40.71075,-73.95052,"518 Grand Street",,"Open",,"Yes","No","1pm-8pm
 ","2020-06-12T20:45:43.000Z","2020-06-12T20:42:12.000Z","Location",,"https://www.gofundme.com/f/staff-relief-for-bushwick-country-club-staff/",,,
-"Greenery Unlimited",637,"646.543.3797","INFO@GREENERYUNLIMITED.CO","https://www.instagram.com/greeneryunlimited/","Greenpoint","Other",,40.7294,-73.95924,"91 West St., Brooklyn","11222","Open",,,"Yes",,"2020-06-13T16:53:11.000Z","2020-06-13T16:50:23.000Z","Instagram",,,"Gardening & Home Improvement",,
+"Greenery Unlimited",637,"646.543.3797","INFO@GREENERYUNLIMITED.CO","https://www.instagram.com/greeneryunlimited/","Greenpoint","Other",,40.7294,-73.95924,"91 West St., Brooklyn","11222","Open",,,"Yes",,"2020-06-13T17:09:52.000Z","2020-06-13T16:50:23.000Z","Instagram",,,"Gardening",,
+"Flying Squirrel",639,,"info@flyingsquirrelbaby.com/","https://www.instagram.com/flyingsquirrelbk/","Greenpoint","Other",,40.7278,-73.95724,"87 Oak St","11222","Closed",,,,,"2020-06-13T17:38:47.000Z","2020-06-13T17:17:11.000Z","Instagram",,,,"Liquidated May 2020
+",
+"Line & Label",640,"(347) 384-2678","info@lineandlabel.com","https://www.lineandlabel.com/","Greenpoint","Other",,40.72247,-73.94975,"568 Manhattan Ave","11222","Open",,"Yes",,,"2020-06-13T18:01:46.000Z","2020-06-13T17:37:52.000Z","Instagram","Order online for pickup
+",,,,
+,641,,,,,,,,,,,,,,,,,"2020-06-13T18:01:28.000Z",,,,,,
