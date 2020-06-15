@@ -1,38 +1,34 @@
 <script>
     import {rows, filters} from '../../../stores'
-    import Fuse from 'fuse.js'
+    import FlexSearch from 'flexsearch'
 
     export let textSearch = ''
     let value = ''
-    let fuse = null
+    let index;
 
-    $: if ($rows) {
-        fuse = new Fuse($rows, {
-            isCaseSensitive: false,
-            includeMatches: true,
-            minMatchCharLength: 1,
-            threshold: 0.2,
-            keys: [
-                {
-                    name: 'Name',
-                    weight: 0.5
-                },
-                {
-                    name: 'Category',
-                    weight: 0.3
-                },
-                {
-                    name: 'Sub-Category',
-                    weight: 0.2
-                }
-            ]
-        });
+    $: if($rows){
+        index = new FlexSearch({
+            tokenize: "forward",
+            encode: "advanced",
+            resolution: 3,
+            depth: 3,
+            threshold: 3,
+            doc: {
+                id: "id",
+                field: [
+                    "Name",
+                    "Category",
+                    "Sub-Category"
+                ]
+            }
+        })
+        index.add($rows);
     }
 
 
     function _search() {
-        const matchedRows = fuse.search(value);
-        const matchedIds = matchedRows.map(({item}) => item.id)
+        const matchedRows = index.search(value)
+        const matchedIds = matchedRows.map((item) => item.id)
         //remove existing filter
         const _filters = $filters
         const filter = _filters.findIndex(f => f.label === 'name')
