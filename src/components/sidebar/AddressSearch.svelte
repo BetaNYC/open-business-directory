@@ -141,4 +141,12 @@
         font-size: 0.8rem !important;
         font-weight: 400;
     }
+
+    label {
+        margin-right: 1em;
+    }
+
+    input{
+        margin-right: 0.5em;
+    }
 </style>
