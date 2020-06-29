@@ -1,16 +1,18 @@
-"Name","id","Phone","Email","Website/Social Media","Neighborhood","Category","Pod","Latitude","Longitude","Address","Zip Code","Status","Special Accommodation Hours","Pickup Offered","Delivery Offered","Hours","Last Updated","Created time","Source","Delivery/Pickup Notes","Donate","Sub-Category","Notes","SNAP/EBT"
+"Name","id","Phone","Email","Website/Social Media","Neighborhood","Category","Pod","Latitude","Longitude","Address","Zip Code","Status","Special Accommodation Hours","Pickup Offered","Delivery Offered","Hours","Last Updated","Created time","Source","Delivery/Pickup Notes","Donate","Sub-Category","Admin Notes","SNAP/EBT"
 "4 Season Paint Store ",1,"718-784-5103","4seasonpaintstore@gmail.com","https://www.facebook.com/4seasonpaint/","Greenpoint","Hardware Store","1",40.735448,-73.955433,"1077 Manhattan Ave. Brooklyn NY ","11222","Open","None","Yes (Call ahead)","Yes (Call for delivery)","Mon-Sat: 8am-4pm / Sunday: Closed
 ","2020-05-06T15:43:22.000Z","2020-04-29T00:34:13.000Z",,,,,,
 "21 Greenpoint",2,"718-383-8833","info@21greenpoint.com","https://www.instagram.com/21greenpoint/","Greenpoint","Bar","4",40.729892,-73.959945,"21 Greenpoint Ave., Brooklyn, NY 11222","11222","Open",,"Yes","Yes","Weds-Sun: 2pm-7pm
-","2020-05-21T13:23:17.000Z","2020-04-29T01:01:15.000Z","North Brooklyn Neighbors","Takeout window open. Free wine delivery, email info@21greenpoint.com for wine list. 
+","2020-06-29T18:22:04.000Z","2020-04-29T01:01:15.000Z","North Brooklyn Neighbors","Takeout window open. Free wine delivery, email info@21greenpoint.com for wine list. 
 Same day delivery available for orders placed by 5pm.
-","https://www.gofundme.com/f/21-greenpoint-staff","American",,
+","https://www.gofundme.com/f/21-greenpoint-staff","American","Donation Link Last Checked: 6/29/20
+",
 "Acapulco Deli & Restaurant",3,"718-349-8429","info@acapulcodeliandrestaurant.com","http://www.acapulcodeliandrestaurant.com/","Greenpoint","Restaurant","1",40.73671,-73.955092,"1116 Manhattan Ave, Brooklyn, NY 11222","11222","Open",,"Yes","Yes","Mon-Fri: 7am-10pm / Sat-Sun: 9am-10pm
 ","2020-05-15T15:40:44.000Z","2020-04-29T01:01:15.000Z","Instagram","Please call for all delivery and pickup orders
 ",,"Mexican",,
 "Achilles Heel",4,"347-987-3666",,"https://www.instagram.com/achillesheelbk/","Greenpoint","Bar","2",40.733178,-73.959613,"180 West Street","11222","Open",,"Yes","No","Fri-Sun: 1pm-7pm
-","2020-06-23T00:36:53.000Z","2020-04-29T01:01:15.000Z",,"Order food & drinks via their website.
-","https://www.gofundme.com/f/staff-of-achilles-heel-relief-support","American","Staff fundraiser for Marlow Collective: <https://shop.dinernyc.com/store/c49/Staff_Fundraiser.html>
+","2020-06-29T18:26:54.000Z","2020-04-29T01:01:15.000Z",,"Order food & drinks via their website.
+Side Note: Additional staff fundraiser for Marlow Collective here: https://shop.dinernyc.com/store/c49/Staff\_Fundraiser.html
+","https://www.gofundme.com/f/staff-of-achilles-heel-relief-support","American","Donation Link Last Checked 6/29/20
 ",
 "Acme Smoked Fish",5,"718-383-8585",,"https://www.instagram.com/acmesmokedfish/","Greenpoint","Restaurant","7",40.725038,-73.956246,"30 Gem St. Brooklyn, NY 11222","11222","Open",,"Yes","No","Fri: 8am-2pm (must pre-order)
 ","2020-05-15T15:45:06.000Z","2020-04-29T01:01:15.000Z",,"Ordering opens at noon on Tuesdays for pick-up on Friday ONLY. Curbside pick-up only. No walk-ins. Orders must be placed by 10AM on Fridays. Pickup times available between 8am-2pm Friday.  <https://acmesmokedfish.smartonlineorder.com/>
@@ -20,8 +22,9 @@ Same day delivery available for orders placed by 5pm.
 ","2020-05-28T20:38:16.000Z","2020-04-29T01:01:15.000Z","Instagram","Delivery via Seamless, Grubhub, Doordash and Caviar, or call to save the restaurant the 3rd party fee.
 ","https://www.gofundme.com/f/adelina039s-staff-donation","Italian,Vegetarian,Vegan",,
 "Alameda ",7,"347-227-7296",,"https://www.instagram.com/alamedagreenpoint/","Greenpoint","Bar","2",40.733515,-73.958431,"195 Franklin St.","11222","Open",,"Yes","No","Sat-Sun: 3pm-8pm
-","2020-06-23T00:04:56.000Z","2020-04-29T01:01:15.000Z","Instagram","Check Instagram for food menu.
-","https://www.gofundme.com/f/alameda-staff-support","American",,
+","2020-06-29T18:27:46.000Z","2020-04-29T01:01:15.000Z","Instagram","Check Instagram for food menu.
+","https://www.gofundme.com/f/alameda-staff-support","American","Donation Link Last Checked 6/29/20
+",
 "All Fresh Supermarket",8,"(718) 302-1818",,,"South Williamsburg","Grocery Store","33",40.705532,-73.953463,"46 Harrison Avenue, Brooklyn, NY 11211","11211","Follow-up",,,,,"2020-05-04T20:57:09.000Z","2020-04-29T00:34:13.000Z",,,,,,
 "All in 1 Petshop",9,"347-763-2228","None","https://allin1petshop.com/","Greenpoint","Pet Supplies","6",40.72897,-73.953501,"846 Manhattan Avenue, Brooklyn, NY 11222","11222","Open",,,,"Mon, Wed, Fri-Sat: 12pm-6pm
 ","2020-05-07T18:21:13.000Z","2020-04-29T00:34:13.000Z","North Brooklyn Neighbors",,,,"<https://www.instagram.com/allin1petshop/>
@@ -104,14 +107,15 @@ sd yes
 ","2020-05-18T14:47:52.000Z","2020-04-29T01:01:15.000Z","Instagram/Location","Takeout and Delivery only, order on their site - <http://www.baoburg.com/> or 15% discount for direct orders by phone. Survivor Meals for $5 - 12pm-8pm, cash and pickup only. Check their IG Stories for more info on menu.
 ",,"Thai,Asian","
 ",
-"bar velo ",36,"718-599-6895",,"https://instagram.com/barvelobrooklyn?igshid=ynrp1be4zxd4","South Williamsburg","Bar","29",40.707075,-73.954438,"394 Broadway","11211","Closed",,,,,"2020-05-18T14:46:36.000Z","2020-04-29T01:01:15.000Z","Instagram",,"https://www.gofundme.com/f/s4ddu-help-our-staff-during-this-difficult-time","Restaurant",,
+"bar velo ",36,"718-599-6895",,"https://instagram.com/barvelobrooklyn?igshid=ynrp1be4zxd4","South Williamsburg","Bar","29",40.707075,-73.954438,"394 Broadway","11211","Closed",,,,,"2020-06-29T18:28:05.000Z","2020-04-29T01:01:15.000Z","Instagram",,"https://www.gofundme.com/f/s4ddu-help-our-staff-during-this-difficult-time","Restaurant","Donation Link Last Checked 6/29/20
+",
 "Barano",37,"347-987-4500",,"https://www.instagram.com/baranobk/","South Williamsburg","Restaurant","28",40.710488,-73.967919,"26 Broadway","11249","Open",,"Yes","Yes","Tues-Sun: 2pm-8pm
 ","2020-05-06T15:43:22.000Z","2020-04-29T01:52:36.000Z","Location","Will deliver to GP. Order on their site - <https://www.baranobk.com/>
 ","https://www.gofundme.com/f/barano-employee-fund","Italian","Several items to make-at-home (Strip steak is $10)
 ",
 "Barcade",38,"(718) 302-6464",,"https://www.instagram.com/barcade/","South Williamsburg","Bar","25",40.712046,-73.950969,"388 Union Ave.","11211","Open",,"Yes","No","Daily: 12pm-8pm
-","2020-05-18T14:51:54.000Z","2020-04-29T01:01:15.000Z","Instagram/Location","Pickup only, call to order. Growlers available.
-","https://www.gofundme.com/f/support-your-barcade-brooklyn-staff",,"
+","2020-06-29T18:28:32.000Z","2020-04-29T01:01:15.000Z","Instagram/Location","Pickup only. Growlers available.
+","https://www.gofundme.com/f/support-your-barcade-brooklyn-staff",,"Donation Link Last Checked 6/29/20
 ",
 "Bell Drugs, Inc.",39,"(718) 388-4307",,,"East Williamsburg","Pharmacy","21",40.706229,-73.942794,"138 Graham Ave, Brooklyn, NY 11206","11206","Follow-up",,,,"Mon-Fri: 10am-4pm / Sat: 10am-2pm / Sun: Closed
 ","2020-05-06T15:43:22.000Z","2020-04-29T00:34:13.000Z",,,,,"Open. Follow up needed for pick up and delivery info.
@@ -165,8 +169,8 @@ Social Distancing
 ","2020-05-13T20:46:42.000Z","2020-04-29T01:01:15.000Z","North Brooklyn Neighbors","Cocktails (and food) for takeout Call ahead. Delivery on Seamless or Grubhub (but they recommend calling/pickup for best service). Text them at (917) 740-5181.
 ",,"American","
 ",
-"Brooklyn Safehouse",58,"(718) 349-6895",,"https://instagram.com/brooklyn_safehouse","Greenpoint","Bar","6",40.728869,-73.957202,"120 Franklin St, Brooklyn, NY 11222","11222","Open",,"Yes","No",,"2020-05-22T19:44:33.000Z","2020-04-29T01:01:15.000Z","Website/Location","To-go table for drinks/food at door.
-","https://www.gofundme.com/f/support-your-safehouse-staff","Restaurant","
+"Brooklyn Safehouse",58,"(718) 349-6895",,"https://instagram.com/brooklyn_safehouse","Greenpoint","Bar","6",40.728869,-73.957202,"120 Franklin St, Brooklyn, NY 11222","11222","Open",,"Yes","No",,"2020-06-29T18:28:59.000Z","2020-04-29T01:01:15.000Z","Website/Location","To-go table for drinks/food at door.
+","https://www.gofundme.com/f/support-your-safehouse-staff","Restaurant","Donation Link Last Checked 6/29/20
 ",
 "Brooklynites Laundry",59,"718-609-1212",,"http://www.brooklyniteslaundry.com/Home_Page_2.html","Greenpoint","Laundromat","5",40.73017,-73.950862,"212 McGuinness Blvd, Brooklyn, NY 11222","11222","Open",,"Yes","Yes","Daily: 9am-5pm
 ","2020-05-06T15:43:22.000Z","2020-04-29T00:34:13.000Z","Location",,,,,
@@ -246,8 +250,8 @@ Social Distancing
 "CityMD",89,"(718) 414-2013",,"citymd.com","North Williamsburg","Health and Wellness","15",40.71792,-73.958313,"154 North 7th St., Brooklyn, NY 11249","11249","Open",,,,"Daily: 8am-8pm
 ","2020-05-06T15:43:22.000Z","2020-05-01T23:18:39.000Z","Website (Covid updates)",,,,,
 "Clem's",90,"718-387-9617",,"https://www.instagram.com/clems_bar/","South Williamsburg","Bar","27",40.7132,-73.958602,"264 Grand St., Brooklyn, NY 11211","11211","Open",,"Yes","No","Fri: 2pm-8pm/Sat-Mon: 12pm-8pm
-","2020-05-22T19:37:47.000Z","2020-04-29T01:01:15.000Z","Instagram","Order drinks and food on their website or via their to-go window: <https://www.clemsbrooklyn.com/online-ordering/clems/menu>. Masks required.
-","https://www.gofundme.com/f/federales-and-tips-for-your-bartender",,"
+","2020-06-29T18:29:36.000Z","2020-04-29T01:01:15.000Z","Instagram","Order drinks and food on their website or via their to-go window: <https://www.clemsbrooklyn.com/online-ordering/clems/menu>. Masks required.
+","https://www.gofundme.com/f/federales-and-tips-for-your-bartender",,"Donation Link Last Checked 6/29/20
 ",
 "Coast & Valley",91,"917-838-7559",,"https://www.instagram.com/coastandvalleywine/","Greenpoint","Restaurant","12",40.722808,-73.950479,"587 Manhattan Ave.","11222","Open",,"Yes","No","Mon-Fri: 4pm-9pm / Sat-Sun: 12pm-9pm
 ","2020-06-23T00:32:31.000Z","2020-04-29T01:01:15.000Z","Email blast","Order pickup via their website: <https://coast-and-valley.square.site/>
@@ -328,8 +332,9 @@ Social Distancing
 ",,"Grocery Store","Growler fills are happening! Call or order online.
 ",
 "Easy Lover",120,"N/A",,"https://www.instagram.com/easyloverbk/","East Williamsburg","Bar","18",40.714494,-73.942528,"790 Metropolitan Ave., Brooklyn, NY 11211","11211","Open",,"Yes","No","Thu-Sun: 1:30pm-8pm
-","2020-06-23T00:17:05.000Z","2020-04-29T01:01:15.000Z",,"Open starting June 25th.
-","https://www.gofundme.com/f/easy-lover-staff-relief-fund",,"Download a virtual Zoom background of the bar and donate. <https://www.virtualcheers.org/>
+","2020-06-29T18:32:19.000Z","2020-04-29T01:01:15.000Z",,"Side Note: Additional way to support them is to download a virtual Zoom background of the bar and donate:
+<https://www.virtualcheers.org/product-page/2-virtual-martinis-at-easy-lover>
+","https://www.gofundme.com/f/easy-lover-staff-relief-fund",,"Donation Link Last Checked 6/29/20
 ",
 "Echo Drugs",121,"(718) 782-3030",,"https://echodrugs.net/","South Williamsburg","Pharmacy","29",40.708806,-73.959459,"260 Broadway # 1, Brooklyn, NY 11211","11211","Open",,"Yes","Yes","Mon-Thurs: 9am-7:30pm / Fri: 9am-6pm / Sun: 10am-5pm
 ","2020-05-07T18:34:27.000Z","2020-04-29T00:34:13.000Z",,,,,"888-782-3031 possible alt #
@@ -348,8 +353,8 @@ Has a go fund me
 "El Cortez",126,"(347) 599-2976","events@elcortezbushwick.com","elcortezbushwick.com","East Williamsburg","Bar","21",40.707114,-73.933096,"17 Ingraham St, Brooklyn, NY 11206","11206","Closed",,,,,"2020-05-06T15:21:17.000Z","2020-05-03T04:16:46.000Z","Instagram",,,"Restaurant","Order food/drinks from sister bar, The Commodore.
 ",
 "Elder Green",127,"718-389-0878",,"https://www.instagram.com/eldergreenebk/","Greenpoint","Bar","4",40.726866,-73.957017,"60 Franklin St., Brooklyn, NY 11222","11222","Open",,"Yes","Yes","Daily: 12pm-9:30pm
-","2020-05-06T16:52:59.000Z","2020-04-29T01:01:15.000Z","Location","Delivery via Seamless or Grubhub
-","https://www.gofundme.com/f/vortex-hospitality-staff-fund","Restaurant","To-go drinks
+","2020-06-29T18:33:58.000Z","2020-04-29T01:01:15.000Z","Location","Delivery via Seamless or Grubhub
+","https://www.gofundme.com/f/vortex-hospitality-staff-fund","Restaurant","Donation Link Last Checked 6/29/20
 ",
 "Esme ",128,"718-383-0999",,"https://www.instagram.com/esmebk","Greenpoint","Restaurant","2",40.733191,-73.955024,"999 Manhattan Ave.","11222","Closed",,,,,"2020-05-06T16:52:59.000Z","2020-04-29T01:01:15.000Z",,,"https://www.gofundme.com/f/esme-staff-support-fund-love-not-squalor","American","Please donate or purcase gift cards.
 ",
@@ -366,9 +371,9 @@ Pharmacy hours are Mon-Fri: 10am-8pm / Sat: 10am-6pm / Sun: Closed
 ","2020-05-06T15:43:22.000Z","2020-04-29T01:52:36.000Z",,"Seamless, Grubhub, and Caviar for takeout/delivery.
 ",,"Barbecue","Open until they run out of food
 ",
-"Fiction",135,"(718) 599-5151",,"https://www.instagram.com/fiction.bk/","South Williamsburg","Bar","29",40.707246,-73.953752,"308  Hooper St, Brooklyn, NY 11211","11211","Open",,,,"Daily, 7 am to 4 pm
-","2020-05-13T20:03:23.000Z","2020-04-29T01:01:15.000Z",,,"virtual tip jar via Venmo","Coffee Shop","Coffee and alcohol to go
-
+"Fiction",135,"(718) 599-5151",,"https://www.instagram.com/fiction.bk/","South Williamsburg","Bar","29",40.707246,-73.953752,"308  Hooper St, Brooklyn, NY 11211","11211","Open",,"Yes",,"Daily: 7am-4pm
+","2020-06-29T18:37:49.000Z","2020-04-29T01:01:15.000Z","Instagram","Coffee and alcohol to-go
+","https://www.gofundme.com/f/fiction-staff?sharetype=teams&member=4185130&utm_medium=social&utm_source=instagram&utm_campaign=p_na+share-sheet","Coffee Shop","Donation Link Last Checked 6/29/20
 ",
 "Five Leaves ",136,"718-383-5345","info@fiveleavesny.com","https://www.instagram.com/fiveleavesny/","Greenpoint","Restaurant","12",40.723736,-73.951642,"18 Bedford Ave.","11222","Open",,"Yes","Yes","Mon-Fri: 12pm-9pm / Sat-Sun: 10am-9pm
 ","2020-05-19T18:23:56.000Z","2020-04-29T01:01:15.000Z","Instagram","Call for pickup. Delivery via Caviar.
@@ -395,8 +400,8 @@ Pharmacy hours are Mon-Fri: 10am-8pm / Sat: 10am-6pm / Sun: Closed
 ",,"Restaurant,Italian","Delivery thru Grubhub & Seamless. Pickup by calling 347.335.0056
 ",
 "Four Horsemen & Daymoves",144,"718-599-4900",,"https://www.instagram.com/fourhorsemenbk/","South Williamsburg","Bar","26",40.713159,-73.957244,"295 Grand St.","11211","Open",,"Yes","Yes","Mon-Thu: 12pm-6pm / Fri-Sun: 1pm-7pm
-","2020-06-23T00:00:22.000Z","2020-04-29T01:01:15.000Z",,"Order online to pick up. <https://nextdoorspacebk.com/> Delivery to 11211, 11222, 11206, and 11249
-","https://www.gofundme.com/f/295grandstreet","American","Wine, beer, cocktails, coffee, pantry items, merch.
+","2020-06-29T18:40:18.000Z","2020-04-29T01:01:15.000Z",,"Wine, beer, cocktails, coffee, pantry items, merch. Order online to pick up. <https://nextdoorspacebk.com/> Delivery to 11211, 11222, 11206, and 11249
+",,"American","
 ",
 "Frankel's",145,"718-389-2302","frankelsdeli@gmail.com","https://www.instagram.com/frankelsdeli/","Greenpoint","Restaurant","12",40.723826,-73.951047,"631 Manhattan Ave.","11222","Open",,"Yes","Yes","Fri-Sun: 10am-4pm
 ","2020-05-15T15:59:20.000Z","2020-04-29T01:01:15.000Z",,"Order on their website; if ordering is closed it means they sold out for that week so check back on Monday. <https://www.frankelsdelicatessen.com/>
@@ -406,7 +411,8 @@ Pharmacy hours are Mon-Fri: 10am-8pm / Sat: 10am-6pm / Sun: Closed
 ","2020-05-06T15:43:22.000Z","2020-04-29T00:34:13.000Z",,"Order online, select items: <https://www.freddysfoodmarket.com/>
 ",,"Grocery Store",,
 "George and Jack’s",147,,,"https://www.instagram.com/georgeandjacks/","North Williamsburg","Bar","14",40.719,-73.958354,"103 Berry St, Brooklyn NY","11211","Open",,"Yes","No","Sat-Sun: 1pm-8pm
-","2020-05-14T17:57:24.000Z","2020-05-01T21:24:09.000Z","Submission Update",,"https://www.gofundme.com/f/support-your-local-staff",,,
+","2020-06-29T18:40:51.000Z","2020-05-01T21:24:09.000Z","Submission Update",,"https://www.gofundme.com/f/support-your-local-staff",,"Donation Link Last Checked 6/29/20
+",
 "Getaway ",148,"929-337-6025",,"https://www.instagram.com/getawaybrooklyn/","Greenpoint","Coffee Shop","2",40.733565,-73.955101,"158 Green St., Brooklyn, NY 11222","11222","Open",,"Yes","No","Daily: 7:30am-12pm
 ","2020-06-13T16:47:31.000Z","2020-04-29T01:01:15.000Z","Instagram","
 ","https://www.gofundme.com/f/getaway-staff-fund","Coffee Shop,Bar","Non-alcoholic bar and cafe. Gift Cards <https://squareup.com/gift/Q165KGQWER3HC/order> 
@@ -418,8 +424,9 @@ Pharmacy hours are Mon-Fri: 10am-8pm / Sat: 10am-6pm / Sun: Closed
 ",,"Mediterranean","Order meals, select grocery items, booze.
 ",
 "Goldie’s",152,"718-389-2348",,"https://www.instagram.com/goldiesbrooklyn/","Greenpoint","Bar","11",40.725714,-73.945138,"195 Nassau Ave., Brooklyn, NY 11222","11222","Open",,"Yes","No","Mon-Thurs: 4pm-9pm / Fri-Sun: 2pm-9pm
-","2020-06-23T00:33:41.000Z","2020-04-29T01:01:15.000Z","Location","Pickup window now open.
-","Staff Venmo: @goldies-staff + https://www.gofundme.com/f/goldie039s-tip-jar",,,
+","2020-06-29T18:41:26.000Z","2020-04-29T01:01:15.000Z","Location","Pickup window now open.
+","Staff Venmo: @goldies-staff + https://www.gofundme.com/f/goldie039s-tip-jar",,"Donation Link Last Checked 6/29/20
+",
 "Gracie Baked",153,,,"graciebaked.com","North Williamsburg","Bakery","14",40.716945,-73.96184,"103 N 3rd St North 3rd Street, Market, Brooklyn, NY 11249","11249","Open",,,"Yes",,"2020-05-22T20:10:52.000Z","2020-05-01T04:28:56.000Z",,"Order cookies and cakes online. Offering snack packs with cookie dough
 ",,,,
 "Graham Bicycle",154,"(718) 782-5741",,,"East Williamsburg","Bike Shops","21",40.707849,-73.942965,"178 Graham Avenue, Brooklyn, NY 11206","11206",,,,,,"2020-05-04T20:57:09.000Z","2020-04-29T00:34:13.000Z",,,,,,
@@ -467,7 +474,9 @@ We’re not doing boarding at the moment.
 ",
 "Happy Tails Holistic Pet Grooming",163,"718-383-2590","Happytailsbrooklyn@gmail.com","happytailsbrooklyn.com","Greenpoint","Pet Supplies","10",40.72316,-73.941547,"67 Driggs Ave #1, Brooklyn, NY 11222","11222",,,,,,"2020-05-06T15:21:17.000Z","2020-04-29T00:34:13.000Z",,,,,"Groomer
 ",
-"Harefield Road",164,"718-388-6870",,"https://www.instagram.com/harefieldroad/","East Williamsburg","Bar","18",40.714824,-73.943424,"769 Metropolitan Ave","11211","Closed",,,,,"2020-05-06T16:52:59.000Z","2020-04-29T01:01:15.000Z",,,"https://www.gofundme.com/f/harefield-road-bar-staff-fund",,"Harefield Road is offering 50 cents to the $1 for every $1 donated; so if you donate $10 you'll have a $5 credit there when they reopen.
+"Harefield Road",164,"718-388-6870",,"https://www.instagram.com/harefieldroad/","East Williamsburg","Bar","18",40.714824,-73.943424,"769 Metropolitan Ave","11211","Closed",,,,,"2020-06-29T18:49:16.000Z","2020-04-29T01:01:15.000Z","Instagram","Side Note: Harefield Road is offering 50 cents to the $1 for every $1 donated; so if you donate $10 you'll have a $5 credit there when they reopen.
+","https://www.gofundme.com/f/harefield-road-bar-staff-fund",,"Harefield Road is offering 50 cents to the $1 for every $1 donated; so if you donate $10 you'll have a $5 credit there when they reopen.
+Tentatively reopening August 2020.
 ",
 "Have & Meyer",165,"718-387-0722",,"https://www.instagram.com/haveandmeyer/","South Williamsburg","Restaurant","26",40.713172,-73.956173,"103 Havemeyer St.","11211","Open",,"Yes","Yes","Daily: 2pm-9pm
 ","2020-05-18T21:57:26.000Z","2020-04-29T01:01:15.000Z","Instagram/Location","Delivery via Caviar and on their site. Email pickup orders at info@haveandmeyer.com. Order wine at <https://www.haveandmeyerewine.com/>
@@ -480,8 +489,9 @@ We’re not doing boarding at the moment.
 "Home Meds Pharmacy",169,"(718) 534-1199",,,"South Williamsburg","Pharmacy","27",40.713163,-73.963648,"97 S 3rd St, Brooklyn, NY 11249","11249","Follow-up",,,,"Sun: 11am-3pm / Mon-Thurs: 10am-8pm / Fri: 10am-2pm
 ","2020-05-06T15:43:22.000Z","2020-04-29T00:34:13.000Z",,,,,,
 "Hotel Delmano",170,"718-387-1945",,"https://www.instagram.com/hoteldelmano/","North Williamsburg","Bar","13",40.719751,-73.958081,"82 Berry Street","11211","Open",,"Yes","No","Thurs-Fri: 4pm-7pm / Sat-Sun: 12pm-6pm
-","2020-05-06T16:52:59.000Z","2020-04-29T01:01:15.000Z",,"Batch cocktails and wine to go. Check their IG on Thursdays at 5pm for a pre-order wine list. $100 donation to Gofundme gets you 2 dozen oysters and 2 glasses of rose when they open.
-","https://www.gofundme.com/f/hotel-delmano-employee-family-fund",,,
+","2020-06-29T18:49:46.000Z","2020-04-29T01:01:15.000Z",,"Batch cocktails and wine to go. Check their IG on Thursdays at 5pm for a pre-order wine list. $100 donation to Gofundme gets you 2 dozen oysters and 2 glasses of rose when they open.
+","https://www.gofundme.com/f/hotel-delmano-employee-family-fund",,"Donation Link Last Checked 6/29/20
+",
 "House of Sudz III",171,"718-578-5335",,,"Greenpoint","Laundromat","1",40.735775,-73.954911,"1090 Manhattan Avenue, Brooklyn, NY 11222","11222","No Answer",,,,,"2020-05-27T17:24:44.000Z","2020-04-29T00:34:13.000Z",,,,,"Unknown is open or closed.
 ",
 "Hummus Market",172,"718-599-5600",,"https://www.instagram.com/hummusmarketnyc/","North Williamsburg","Restaurant","17",40.715389,-73.944779,"361 Graham Ave.","11211","Open",,"Yes","Yes","Daily: 12pm-10pm
@@ -494,9 +504,10 @@ We’re not doing boarding at the moment.
 ",,"Thai",,
 "Jaslowiczanka Bakery",175,"718-389-0263",,,"Greenpoint","Bakery","11",40.725252,-73.94688,"163 Nassau Avenue, Brooklyn, NY 11222","11222","Open",,,,"Mon-Sun: 10am-8pm
 ","2020-05-13T20:31:10.000Z","2020-04-29T00:34:13.000Z","Location",,,,,
-"Jimmy’s Diner",176,"718-218-7174",,"https://www.instagram.com/jimmysdinerbrooklyn/","North Williamsburg","Restaurant","16",40.717698,-73.952461,"577 Union Avenue .","11211","Open",,"Yes","No","Sat-Sun: 9am-5pm
-","2020-05-09T22:20:32.000Z","2020-04-29T01:01:15.000Z","Instagram","Call for pickup.
-","https://www.gofundme.com/f/jimmy039s-diner-employee-fund","American",,
+"Jimmy’s Diner",176,"718-218-7174",,"https://www.instagram.com/jimmysdinerbrooklyn/","North Williamsburg","Restaurant","16",40.717698,-73.952461,"577 Union Avenue .","11211","Closed",,"No","No","
+","2020-06-29T18:43:01.000Z","2020-04-29T01:01:15.000Z","Owner email","
+","https://www.gofundme.com/f/jimmy039s-diner-employee-fund","American","Permanently closed. Donations will still go to staff via link last checked 6/29/20.
+",
 "Jungle Cafe",177,"347-987-4981",,"www.junglecafenyc.com","Greenpoint","Restaurant","6",40.730342,-73.954845,"131 Greenpoint Ave.","11222","Open",,"Yes","Yes","Mon-Sat, 12 pm to 10 pm
 ","2020-05-28T20:37:38.000Z","2020-04-29T01:01:15.000Z",,"Order on their site. Use code JUNGLE2020 when ordering for a 10% discount.
 ",,"Vegan,Vegetarian",,
@@ -559,8 +570,9 @@ Offering free delivery and video call shopping
 ","2020-05-06T16:52:59.000Z","2020-04-29T01:01:15.000Z",,"Call or show up to order.
 ",,"Mexican",,
 "Lake St.",198,"718-609-0005",,"https://www.instagram.com/lakestbrooklyn/","Greenpoint","Bar","7",40.725733,-73.951714,"706 Manhattan Ave, Brooklyn, NY 11222","11222","Open",,"Yes","No","Sat-Sun: 2pm-8pm
-","2020-05-06T16:52:59.000Z","2020-04-29T01:01:15.000Z","Location","Pickup at door now open.
-","https://www.gofundme.com/f/lake-st-staff",,,
+","2020-06-29T18:49:57.000Z","2020-04-29T01:01:15.000Z","Location","Pickup at door now open.
+","https://www.gofundme.com/f/lake-st-staff",,"Donation Link Last Checked 6/29/20
+",
 "Lam Supply Inc. ",199,"718-389-8882",,,"East Williamsburg","Hardware Store","18",40.722506,-73.938383,"530 Morgan Ave, Brooklyn NY ","11222","No Answer",,,,,"2020-05-06T15:21:17.000Z","2020-04-29T00:34:13.000Z",,,,,"Called number but message said it has been disconnected
 ",
 "Laundry Land 2",200,"718-383-3587",,,"Greenpoint","Laundromat","6",40.728335,-73.951657,"269 Eckford Street, Brooklyn, NY 11222","11222","Open",,"Yes","No","Daily: 9:30am-6:30pm
@@ -617,7 +629,8 @@ Offering free delivery and video call shopping
 "Loconsolo Paints",217,"(718) 384-6595","orderswb@loconsolo.com","https://www.instagram.com/loconsolopaints/","East Williamsburg","Hardware Store",,40.71569,-73.94483,"371 Graham Ave.","11222","Open",,"Yes","Yes","Daily: 7am-3pm
 ","2020-05-07T13:13:52.000Z","2020-05-03T19:29:23.000Z",,"Call or email for curbside pickup or delivery
 ",,,,
-"Loosie Rouge",218,"718-309-0231",,"https://www.instagram.com/loosierouge/","South Williamsburg","Bar","28",40.71103,-73.96489,"91 S 6th St.","11249","Closed",,,,,"2020-05-06T16:52:59.000Z","2020-04-29T01:01:15.000Z","Location",,"https://www.gofundme.com/f/loosies-etiquette-employee-relief-fund",,"Download a virtual Zoom background of the bar & donate - <https://www.virtualcheers.org/>
+"Loosie Rouge",218,"718-309-0231",,"https://www.instagram.com/loosierouge/","South Williamsburg","Bar","28",40.71103,-73.96489,"91 S 6th St.","11249","Closed",,,,,"2020-06-29T18:54:52.000Z","2020-04-29T01:01:15.000Z","Location","Side Note: Download a virtual Zoom background of the bar & donate - <https://www.virtualcheers.org/>
+","https://www.gofundme.com/f/loosies-etiquette-employee-relief-fund",,"Donation Link Last Checked 6/29/20
 ",
 "Loosie's Kitchen",219,"718-309-0231",,"https://www.instagram.com/loosieskitchen/","South Williamsburg","Restaurant","28",40.71103,-73.96489,"91A S 6th St.","11249","Closed",,,,,"2020-05-06T16:52:59.000Z","2020-04-29T01:01:15.000Z",,,"https://www.gofundme.com/f/loosies-etiquette-employee-relief-fund","American",,
 "Luckybird Bakery",220,,"amy@luckybirdbakes.com","luckybirdbakes.com","East Williamsburg","Bakery","21",40.707565,-73.94269,"163 Montrose Ave, Brooklyn, NY 11206","11206","Open",,"Yes","No","By Appointment Only 
@@ -633,19 +646,21 @@ Offering free delivery and video call shopping
 "M.A. Surgical Supplies Inc.",223,"(718) 388-3355",,,"South Williamsburg","Pharmacy","28",40.708979,-73.961266,"314 Roebling St, Brooklyn, NY 11211","11211","Open",,"Yes","Yes","Mon-Thurs: 9am-5pm / Fri: 9am-3pm / Sat-Sun: Closed
 ","2020-05-06T15:43:22.000Z","2020-04-29T00:34:13.000Z",,,,,"Surgical and medical supplies. Not a pharmacy.
 ",
-"Macri Park",224,"(718) 599-4999",,"https://www.instagram.com/macripark/","North Williamsburg","Bar","17",40.714311,-73.951433,"462 Union Ave.","11211","Closed",,,,,"2020-05-06T16:52:59.000Z","2020-04-29T01:01:15.000Z",,,"https://www.gofundme.com/f/1xlhhdlrqo",,,
+"Macri Park",224,"(718) 599-4999",,"https://www.instagram.com/macripark/","North Williamsburg","Bar","17",40.714311,-73.951433,"462 Union Ave.","11211","Closed",,,,,"2020-06-29T18:55:10.000Z","2020-04-29T01:01:15.000Z",,,,,,
 "Madre",225,"718) 389-8700",,"https://www.instagram.com/madre_nyc/","Greenpoint","Restaurant","2",40.733063,-73.957818,"214 Franklin St","11222","Closed",,,,,"2020-05-06T16:52:59.000Z","2020-04-29T01:01:15.000Z",,,"https://www.gofundme.com/f/room11staffdonation","American",,
 "Magazine",226,,,"https://www.instagram.com/magazinebk666/?hl=en","Greenpoint","Bar","6",40.729364,-73.957307,"130 Franklin St. Brooklyn NY","11222","Open",,"Yes",,"Mon-Fri: 1pm-10pm / Sat-Sun: 1pm-11pm
-","2020-06-23T00:02:48.000Z","2020-05-03T01:54:53.000Z","Instagram/Location","
-","https://www.gofundme.com/f/help-the-magazine-bar-staff",,,
+","2020-06-29T18:55:46.000Z","2020-05-03T01:54:53.000Z","Instagram/Location","
+","https://www.gofundme.com/f/help-the-magazine-bar-staff",,"Donation Link Last Checked 6/29/20
+",
 "Magdalene",227,"347-689-2988",,"https://www.instagram.com/magdalenenyc/","East Williamsburg","Restaurant","25",40.712521,-73.948894,"524 Lorimer St.","11211","Open",,"Yes","Yes","Daily: 12pm-11pm
 ","2020-06-23T00:27:51.000Z","2020-04-29T01:01:15.000Z","Location","Delivery on Ubereats, Grubhub, Seamless, DoorDash, and Caviar and phone in orders for pick up.
 ",,"Mediterranean,Middle Eastern",,
 "Maison Premiere
 ",228,"347 335 0446",,"https://www.instagram.com/maisonpremiere/","South Williamsburg","Restaurant","27",40.714259,-73.961651,"298 Bedford Ave., Brooklyn, NY 11211","11211","Closed",,,,,"2020-05-06T16:52:59.000Z","2020-04-29T01:01:15.000Z","Instagram",,"https://www.gofundme.com/f/friends-of-maison-premiere","Seafood",,
 "Maman",229,"(347) 689-9195",,"https://www.instagram.com/_mamannyc_/","Greenpoint","Bakery","4",40.730221,-73.957915,"80 Kent St, Brooklyn, NY 11222","11222","Open",,"Yes",,"5/9-5/10: 9am-3pm
-","2020-05-13T20:31:14.000Z","2020-04-30T05:24:17.000Z","Instagram","Open for Mothers Day weekend only, 9am-3pm
-","https://www.gofundme.com/f/maman-staff-relief-fund","Coffee Shop",,
+","2020-06-29T18:21:06.000Z","2020-04-30T05:24:17.000Z","Instagram","Open for Mothers Day weekend only, 9am-3pm
+","https://www.gofundme.com/f/maman-staff-relief-fund","Coffee Shop","Donation Link Last Checked: 6/29/20
+",
 "Manhattan Three Decker",230,"(718) 389-6664",,,"Greenpoint","Restaurant","7",40.72528,-73.9518,"695 Manhattan Avenue","11222","Open",,"Yes","Yes","Daily: 7am-5pm
 ","2020-05-14T16:01:07.000Z","2020-05-03T18:49:05.000Z","Submission",,,"Diner",,
 "Markowa Apteka Pharmacy",231,"(718) 389-0389","markowapharmacy@gmail.com","https://www.markowaapteka.com/","Greenpoint","Pharmacy","6",40.728528,-73.953743,"831 Manhattan Ave, Brooklyn, NY 11222","11222","Open",,"Yes",,"Mon-Sat: 10am-8pm
@@ -673,7 +688,8 @@ Offering free delivery and video call shopping
 ","2020-05-18T21:21:21.000Z","2020-04-29T00:34:13.000Z","Submission Update",,,"Supermarket",,
 "Metro Community Laundromat",239,"718-384-6757",,"https://metropolitanlaundromat.com/","North Williamsburg","Laundromat","17",40.714246,-73.950282,"561 Metropolitan Avenue, Brooklyn, NY 11211","11211",,,"Yes","Yes","Mon-Fri: 8am-9pm Sat-Sun: 9am-7pm
 ","2020-05-06T15:43:22.000Z","2020-04-29T00:34:13.000Z",,,,,,
-"Metropolitan",240,"(718) 599-4444",,"https://www.instagram.com/metropolitan_bk/","South Williamsburg","Bar","25",40.713621,-73.949496,"559 Lorimer Street","11211","Closed",,,,,"2020-05-06T16:52:59.000Z","2020-04-29T01:01:15.000Z",,,"https://www.gofundme.com/f/metropolitan-bar-staff",,"Check IG for virtual show info.
+"Metropolitan",240,"(718) 599-4444",,"https://www.instagram.com/metropolitan_bk/","South Williamsburg","Bar","25",40.713621,-73.949496,"559 Lorimer Street","11211","Closed",,,,,"2020-06-29T18:57:00.000Z","2020-04-29T01:01:15.000Z","Instagram","Currently closed, but check Instagram for virtual show listings.
+",,,"
 ",
 "MetroUrgicare",241,"(718) 638-7682",,"https://www.metrourgicare.com/location/ny/brooklyn/11211","East Williamsburg","Health and Wellness","20",40.712988,-73.943888,"308 Graham Avenue, Brooklyn, NY 11211","11211","Follow-up",,,,,"2020-05-06T15:21:17.000Z","2020-05-01T23:54:57.000Z",,,,,"Online appointments not currently available.
 ",
@@ -756,12 +772,14 @@ Temporary hours in effect until May 15th
 "NYC Pet",273,"718-387-4700","None ","https://nycpet.com/","South Williamsburg","Pet Supplies","25",40.712619,-73.943748,"300 Graham Ave., Brooklyn, NY 11211","11211","Open",,"Yes","Yes","Daily: 10am-6pm
 ","2020-05-06T15:43:22.000Z","2020-04-29T00:34:13.000Z","Location",,,,,
 "NYC Pet Direct",274,"718-963-4030","None ",,"East Williamsburg","Pet Supplies","31",40.705531,-73.942581,"122 Graham Ave, Brooklyn, NY 11206","11206",,,,,,"2020-05-05T20:28:33.000Z","2020-04-29T00:34:13.000Z",,,,,,
-"Oak & Iron",275,"(718) 349-2252",,"https://www.instagram.com/oakandiron/?hl=en","Greenpoint","Bar","4",40.731458,-73.95808,"147 Franklin St.","11222","Closed",,,,,"2020-05-13T20:32:15.000Z","2020-04-29T01:01:15.000Z","Instagram",,"Staff Venmo @OakTenders",,,
+"Oak & Iron",275,"(718) 349-2252",,"https://www.instagram.com/oakandiron/?hl=en","Greenpoint","Bar","4",40.731458,-73.95808,"147 Franklin St.","11222","Closed",,,,,"2020-06-29T18:57:43.000Z","2020-04-29T01:01:15.000Z","Instagram",,"Staff Venmo @OakTenders",,"Donation Link Last Checked 6/29/20
+",
 "Odd Fox Coffee",276,"N/A",,"https://www.instagram.com/odd_fox_coffee/","Greenpoint","Coffee Shop","4",40.732727,-73.954424,"984 Manhattan Ave., Brooklyn, NY 11222","11222","Open",,"Yes","No","Daily: 9am-4pm
 ","2020-05-13T20:33:13.000Z","2020-04-29T01:01:15.000Z","Instagram",,,,,
 "Old Polish Bakery",277,"(718) 349-7900",,"https://www.facebook.com/pages/Old-Poland-Bakery-Restaurant/111594692212464","Greenpoint","Bakery","4",40.731048,-73.954124,"926 Manhattan Ave, Brooklyn, NY 11222","11222",,,,,,"2020-05-13T20:31:17.000Z","2020-04-30T05:43:49.000Z",,,,,,
 "Oneg Bakery",278,"(718) 797-0971",,"https://www.onegbakery.com/","South Williamsburg","Bakery","36",40.702018,-73.956044,"188 Lee Ave, Brooklyn, NY 11211","11211",,,,,,"2020-05-13T20:42:25.000Z","2020-05-01T04:26:40.000Z",,,,,,
-"Ontario",279,"N/A",,"https://www.instagram.com/ontario.bar/","South Williamsburg","Bar","25",40.711348,-73.94923,"559 Grand St.","11211","Closed",,,,,"2020-05-13T20:32:16.000Z","2020-04-29T01:01:15.000Z","Instagram",,"https://www.gofundme.com/f/ontario-bar-staff-relief",,"T-shirts available - <https://stores.inksoft.com/life_vest/shop/product-detail/1000246>
+"Ontario",279,"N/A",,"https://www.instagram.com/ontario.bar/","South Williamsburg","Bar","25",40.711348,-73.94923,"559 Grand St.","11211","Closed",,,,,"2020-06-29T18:58:26.000Z","2020-04-29T01:01:15.000Z","Instagram","T-shirts available - <https://stores.inksoft.com/life_vest/shop/product-detail/1000246>
+","https://www.gofundme.com/f/ontario-bar-staff-relief",,"Donation Link Last Checked 6/29/20
 ",
 "Organic Planet Pharmacy",280,"(347) 799-2213",,"http://organicplanetpharmacy.com/","North Williamsburg","Pharmacy","15",40.718059,-73.954765,"205 N 9th St, Brooklyn, NY 11211","11211","Open",,"Yes",,"Mon-Fri: 12pm-6pm / Sat: 12pm-3pm / Sun: Closed 
 ","2020-05-07T17:41:14.000Z","2020-04-29T00:34:13.000Z","St Nicks","Note: Pharmacy has different hours than the store.
@@ -844,12 +862,14 @@ Sat, 10 am to 4 pm
 "Rafieh Pharmacy",310,"(718) 387-0021",,,"South Williamsburg","Pharmacy","35",40.705504,-73.959988,"70 Lee Ave # 1, Brooklyn, NY 11211","11211","Open",,"Yes","Yes","Sun-Thurs: 10am-7:30pm / Fri: 10am-4pm / Sat: Closed 
 ","2020-05-06T15:43:22.000Z","2020-04-29T00:34:13.000Z",,,,,,
 "Ramona",311,"347-227-8164",,"https://www.instagram.com/ramonabarnyc/","Greenpoint","Bar","4",40.730221,-73.957915,"113 Franklin St.","11222","Open",,"Yes","No","Wed-Sun: 2pm-9pm
-","2020-06-23T00:11:08.000Z","2020-04-29T01:01:15.000Z","Location","
-","https://www.gofundme.com/f/elsa-ramona-staff-support",,,
+","2020-06-29T18:58:41.000Z","2020-04-29T01:01:15.000Z","Location","
+","https://www.gofundme.com/f/elsa-ramona-staff-support",,"Donation Link Last Checked 6/29/20
+",
 "Rampa Millennium",312,"(718) 389-1818","INFO@RAMPAMILL.COM","https://rampamill.wordpress.com/","Greenpoint","Shipping Services/Post Office","4",40.730305,-73.954611,"133 Greenpoint Ave, Brooklyn, NY 11222","11222",,,,,,"2020-05-04T20:57:09.000Z","2020-04-29T03:34:25.000Z",,,,,,
 "Reclamation",313,"718-387-5178",,"https://www.instagram.com/reclamationbar/","East Williamsburg","Bar","18",40.714871,-73.941589,"817 Metropolitan Ave.","11211","Open",,"Yes","Yes","Daily: 12pm-11pm
-","2020-06-22T23:53:01.000Z","2020-04-29T01:01:15.000Z","Location","Delivery available on their website or via IG DM - <https://www.reclamationbar.com/>
-","https://www.gofundme.com/f/reclamation-bar-staff-help",,,
+","2020-06-29T18:58:55.000Z","2020-04-29T01:01:15.000Z","Location","Delivery available on their website or via IG DM - <https://www.reclamationbar.com/>
+","https://www.gofundme.com/f/reclamation-bar-staff-help",,"Donation Link Last Checked 6/29/20
+",
 "Remedies Pharmacy",314,"(718) 855-0214",,,"South Williamsburg","Pharmacy","36",40.699575,-73.956762,"711 Bedford Ave, Brooklyn, NY 11206","11206","Open",,"Yes","Yes","Sun-Thu: 10am-8pm / Fri: 10am-2pm
 ","2020-05-07T19:07:48.000Z","2020-04-29T00:34:13.000Z",,,,,,
 "Ringolevio",315,"347-335-0056",,"https://www.instagram.com/ringoleviobk/","North Williamsburg","Restaurant","18",40.719126,-73.943232,"490 Humboldt Street","11222","Open",,"Yes","Yes","Tue-Sat: 4pm-10pm
@@ -860,8 +880,9 @@ Sat, 10 am to 4 pm
 ","2020-05-13T20:38:13.000Z","2020-04-29T00:34:13.000Z",,,,"Grocery Store",,
 "Rivera Grocery Store",318,"(718) 389-5466",,,"Greenpoint","Grocery Store","1",40.736022,-73.9555,"1095 Manhattan Avenue, Brooklyn, NY 11222","11222",,,,,,"2020-05-04T20:57:09.000Z","2020-04-29T00:34:13.000Z",,,,,,
 "Rocka Rolla",319,,,"https://www.instagram.com/rockarolla_bk/","South Williamsburg","Bar","17",40.71389,-73.952827,"486 Metropolitan Ave.","11211","Open",,"Yes","No","Daily: 1pm-8pm
-","2020-05-14T18:00:30.000Z","2020-04-29T01:01:15.000Z","Submission Update","Takeout only.
-","https://www.gofundme.com/f/support-your-local-staff",,,
+","2020-06-29T18:59:09.000Z","2020-04-29T01:01:15.000Z","Submission Update","Takeout only.
+","https://www.gofundme.com/f/support-your-local-staff",,"Donation Link Last Checked 6/29/20
+",
 "Rule of Thirds",320,"347-334-6684",,"https://www.instagram.com/thirdsbk/","North Williamsburg","Restaurant","7",40.724681,-73.954812,"171 Banker St.","11222","Open",,"No","Yes","Fri-Sat: 4pm-8pm
 ","2020-05-27T19:09:40.000Z","2020-04-29T01:01:15.000Z","Instagram","Delivery via Caviar.
 ","https://www.gofundme.com/f/in-this-together-help-our-staff","Japanese",,
@@ -910,7 +931,8 @@ Sat, 10 am to 4 pm
 "Sisto Pharmacy",341,"(718) 387-2665",,,"South Williamsburg","Pharmacy","25",40.71132,-73.945144,"682 Grand St, Brooklyn, NY 11211","11211","Open",,"Yes","Yes","Mon-Fri: 9:30am-5pm / Sat: 10am-3pm / Sun: Closed 
 ","2020-05-06T15:43:22.000Z","2020-04-29T00:34:13.000Z",,,,,,
 "Skinny Dennis",342,"(212) 555-1212",,"https://www.instagram.com/skinnydennis/","South Williamsburg","Bar","27",40.715866,-73.962181,"152 Metropolitan Ave, Brooklyn, NY 11211","11211","Open",,"Yes","No","Daily: 1pm-8pm
-","2020-05-14T18:05:47.000Z","2020-04-29T01:01:15.000Z","Submission Update",,"https://www.gofundme.com/f/support-your-local-staff",,"Download a virtual Zoom background of the bar & donate - <https://www.virtualcheers.org/>
+","2020-06-29T18:59:59.000Z","2020-04-29T01:01:15.000Z","Submission Update","Side Note: Download a virtual Zoom background of the bar & donate - <https://www.virtualcheers.org/>
+","https://www.gofundme.com/f/support-your-local-staff",,"Donation Link Last Checked 6/29/20
 ",
 "South 2nd Pharmacy",343,"(718) 599-5991",,,"South Williamsburg","Pharmacy","26",40.711222,-73.957999,"168 Havemeyer St, Brooklyn, NY 11211","11211","Open",,"Yes","Yes","Mon-Fri: 9am-4:30pm / Sat: 9am-2pm / Sun: Closed 
 ","2020-05-06T15:43:22.000Z","2020-04-29T00:34:13.000Z",,,,,,
@@ -947,14 +969,16 @@ Sat, 10 am to 4 pm
 ","2020-05-13T20:47:10.000Z","2020-04-29T01:01:15.000Z",,,,,,
 "Syrena Bakery",359,"(718) 349-0560",,"http://www.syrenabakery.com/home.html","Greenpoint","Bakery","8",40.72755,-73.945475,"207 Norman Avenue, Brooklyn NY 11222","11222","Open",,"Yes",,"Mon-Fri: 6am-6pm / Sat: 6am-5pm / Sun: Closed
 ","2020-05-13T20:43:23.000Z","2020-04-29T00:34:13.000Z","Location",,,,,
-"Teddy's Bar & Grill",360,"718-384-9787","info@teddys.nyc","https://www.instagram.com/teddysnyc/","North Williamsburg","Bar","14",40.719376,-73.958486,"96 Berry St., Brooklyn, NY 11249","11249","Closed",,,,,"2020-05-06T16:52:59.000Z","2020-04-29T01:01:15.000Z","Instagram",,"https://www.gofundme.com/f/financial-assistance-for-teddy039s-staff","Restaurant,American","Download a virtual Zoom background of the bar & donate - <https://www.virtualcheers.org/>
+"Teddy's Bar & Grill",360,"718-384-9787","info@teddys.nyc","https://www.instagram.com/teddysnyc/","North Williamsburg","Bar","14",40.719376,-73.958486,"96 Berry St., Brooklyn, NY 11249","11249","Closed",,,,,"2020-06-29T19:00:42.000Z","2020-04-29T01:01:15.000Z","Instagram","Side Note: Download a virtual Zoom background of the bar & donate - <https://www.virtualcheers.org/>
+","https://www.gofundme.com/f/financial-assistance-for-teddy039s-staff","Restaurant,American","Donation Link Last Checked 6/29/20
 ",
 "Temkin's ",361,"929-397-0330","None","https://www.instagram.com/temkinsnyc/","Greenpoint","Bar","6",40.730455,-73.953569,"155 Greenpoint Ave, Brooklyn, NY 11222","11222","Open",,"Yes","No","Daily: 2pm-9pm
 ","2020-06-23T00:28:57.000Z","2020-04-29T01:01:15.000Z","Instagram","
 ",,,,
 "The Blue Stove",362,"(718) 766-7419",,"https://www.instagram.com/thebluestove/","East Williamsburg","Bakery","16",40.717448,-73.945108,"415 Graham Ave, Brooklyn, NY ","11211","Open",,"Yes",,"Thu-Tues: 10am-4pm
-","2020-06-08T18:21:58.000Z","2020-05-01T04:34:23.000Z","Instagram",,"https://www.thebluestove.com/store/gift-cards","Coffee Shop",,
-"The Breakers",363,"(718) 384-8900","thebreakersbk@gmail.com","https://www.instagram.com/thebreakersbk/","North Williamsburg","Bar","16",40.717396,-73.949252,"307 Meeker Ave., Brooklyn, NY 11211","11211","Closed",,,,,"2020-05-06T16:52:59.000Z","2020-04-29T01:01:15.000Z","Instagram",,"https://www.gofundme.com/f/the-breakers-staff-relief-fund",,,
+","2020-06-29T18:21:38.000Z","2020-05-01T04:34:23.000Z","Instagram",,,"Coffee Shop",,
+"The Breakers",363,"(718) 384-8900","thebreakersbk@gmail.com","https://www.instagram.com/thebreakersbk/","North Williamsburg","Bar","16",40.717396,-73.949252,"307 Meeker Ave., Brooklyn, NY 11211","11211","Closed",,,,,"2020-06-29T19:01:03.000Z","2020-04-29T01:01:15.000Z","Instagram",,"https://www.gofundme.com/f/the-breakers-staff-relief-fund",,"Donation Link Last Checked 6/29/20
+",
 "The Commodore",364,"718-218-7632","None","https://www.instagram.com/thecommodorebar/","South Williamsburg","Bar","26",40.713898,-73.9558,"366 Metropolitan Ave., Brooklyn, NY 11211","11211","Open",,"Yes","Yes","Daily: 11am-11pm
 ","2020-05-13T20:47:16.000Z","2020-04-29T01:01:15.000Z","Instagram","Delivery via Caviar/Call for takeout.
 ",,"Restaurant,American","Full food menu and frozen cocktails to go.
@@ -967,11 +991,14 @@ Offering Online lessons
 "The Drift",367,"718-504-7776","party@thedriftbrooklyn.com","https://www.instagram.com/thedriftbrooklyn/","Greenpoint","Bar","10",40.721526,-73.942479,"579 Meeker Ave #5056, Brooklyn, NY 11211","11211","Open",,"Yes","No","Sat-Sun: 12pm-8pm
 ","2020-05-27T19:40:19.000Z","2020-04-29T01:01:15.000Z","Instagram",,,"Restaurant,American","
 ",
-"The Gutter",368,"(718) 387-3585","gutterbar@gmail.com","https://www.instagram.com/gutterbar/?hl=en","North Williamsburg","Bar","12",40.722688,-73.955604,"200 North 14th St, Brooklyn, NY 11249","11249","Closed",,,,,"2020-05-06T16:52:59.000Z","2020-04-29T01:01:15.000Z","Employee",,"https://www.gofundme.com/f/donations-for-gutter-williamsburg-staff",,,
+"The Gutter",368,"(718) 387-3585","gutterbar@gmail.com","https://www.instagram.com/gutterbar/?hl=en","North Williamsburg","Bar","12",40.722688,-73.955604,"200 North 14th St, Brooklyn, NY 11249","11249","Closed",,,,,"2020-06-29T19:01:42.000Z","2020-04-29T01:01:15.000Z","Employee",,"https://www.gofundme.com/f/donations-for-gutter-williamsburg-staff",,"Donation Link Last Checked 6/29/20
+This location reopening for Phase 3, hours tba.
+",
 "The Laundry on Graham",369,"718-389-2554",,,"North Williamsburg","Laundromat","16",40.717636,-73.945159,"423 Graham Ave., Brooklyn, NY 11211","11211",,,,,"Daily: 7:30am-10pm
 ","2020-05-06T15:43:22.000Z","2020-04-29T00:34:13.000Z",,,,,,
-"The Levee",370,"718-218-8787","beerboozepooldogs@gmail.com","https://www.instagram.com/theleveebk/","North Williamsburg","Bar","14",40.716339,-73.961699,"212 Berry Street, Brooklyn, NY 11249","11249","Closed",,,,,"2020-05-13T20:32:32.000Z","2020-04-29T01:01:15.000Z","Location","Purchase a quarantine t-shirt: <https://www.bonfire.com/store/theleveebk/>
-","https://www.bonfire.com/store/theleveebk/",,"Download a virtual Zoom background of the bar and donate. <https://www.virtualcheers.org/>
+"The Levee",370,"718-218-8787","beerboozepooldogs@gmail.com","https://www.instagram.com/theleveebk/","North Williamsburg","Bar","14",40.716339,-73.961699,"212 Berry Street, Brooklyn, NY 11249","11249","Closed",,,,,"2020-06-29T19:02:25.000Z","2020-04-29T01:01:15.000Z","Location","Purchase a quarantine t-shirt: <https://www.bonfire.com/store/theleveebk/>
+","https://www.bonfire.com/store/theleveebk/",,"Donation Link Last Checked 6/29/20
+Download a virtual Zoom background of the bar and donate. <https://www.virtualcheers.org/>
 ",
 "The Meatball Shop",371,"718-551-0520",,"https://www.instagram.com/meatballers/","North Williamsburg","Restaurant","15",40.718242,-73.957533,"170 Bedford Ave., Brooklyn, NY 11249","11249",,,,,,"2020-05-06T16:52:59.000Z","2020-04-29T01:01:15.000Z",,,"https://www.gofundme.com/f/Meatball-heroes-for-heroes","Italian","Donate on Gofundme to give a sandwich to a healthcare worker. Order online for pickup or delivery - <https://www.themeatballshop.com/order-online/>
 ",
@@ -1215,7 +1242,8 @@ Open Sundays as of 5/24. And they will have a marketplace inside the bar which c
 "Butler Bake Shop & Espresso Bar",477,,,"http://instagram.com/butlerbakeshop","North Williamsburg","Restaurant",,40.719857,-73.959044,"101 N 8th St",,"Open",,"Yes",,"Mon-Fri: 7am-4pm / Sat-Sun: 8am-4pm
 ","2020-05-13T20:25:09.000Z","2020-05-06T16:43:25.000Z","North Brooklyn Neighbors",,"https://www.gofundme.com/f/butler-bake-shop-staff-relief-fund-coronavirus","Coffee Shop",,
 "Butler Bake Shop & Espresso Bar",478,,,"http://instagram.com/butlerbakeshop","South Williamsburg","Bakery",,40.71182,-73.96453,"95 S 5th St",,"Open",,"Yes",,"Mon-Fri: 7am-4pm / Sat-Sun: 8am-4pm
-","2020-05-13T20:28:11.000Z","2020-05-06T16:43:51.000Z","North Brooklyn Neighbors",,"https://www.gofundme.com/f/butler-bake-shop-staff-relief-fund-coronavirus","Coffee Shop",,
+","2020-06-29T18:20:09.000Z","2020-05-06T16:43:51.000Z","North Brooklyn Neighbors",,"https://www.gofundme.com/f/butler-bake-shop-staff-relief-fund-coronavirus","Coffee Shop","Donation Link Last Checked: 6/29/20
+",
 "Cafe Argentino",479,"(718) 782-9477",,"https://www.instagram.com/cafeargentinony/","South Williamsburg","Restaurant",,40.711127,-73.951426,"499 Grand St",,"Open",,"Yes",,"Thurs-Sun, 2 pm to 9 pm 
 ","2020-05-07T18:08:12.000Z","2020-05-06T16:45:46.000Z","North Brooklyn Neighbors",,,"Argentinian",,
 "Kilo Bravo",480,"(347) 987-4379",,"https://www.instagram.com/kilobravobar/","North Williamsburg","Bar",,40.718934,-73.955406,"180 N 10th St",,"Open",,,,"Mon-Fri: 3pm-8pm / Sat-Sun: 12pm-8pm
@@ -1337,8 +1365,9 @@ Under $40, $10 delivery fee; in Williamsburg only
 ",,"American","
 ",
 "Fresh Kills Bar",522,"(718) 599-7888",,"https://www.instagram.com/freshkillsbar/","South Williamsburg","Bar",,40.714717,-73.961568,"161 Grand St, Brooklyn, NY 11249",,"Open",,"Yes","No","Daily: 2pm-10pm
-","2020-05-13T20:32:06.000Z","2020-05-06T20:56:51.000Z","North Brooklyn Neighbors","Offering a soup of the day.
-","https://www.gofundme.com/f/fresh-kills-bar-employee-relief-fund",,,
+","2020-06-29T18:40:38.000Z","2020-05-06T20:56:51.000Z","North Brooklyn Neighbors","Offering a soup of the day.
+","https://www.gofundme.com/f/fresh-kills-bar-employee-relief-fund",,"Donation Link Last Checked 6/29/20
+",
 "Blue Angel Wines",523,"(718) 388-2210",,"https://blueangelwines.com/","East Williamsburg","Liquor Store/Distillery",,40.711479,-73.946611,"638 Grand Street","11211","Open",,"Yes","Yes","Tuesday–Thursday: 1pm–7pm / Friday-Saturday: 1pm–6:30pm / Sunday: 1pm-6:45pm
 ","2020-05-06T21:31:41.000Z","2020-05-06T21:27:59.000Z","St Nick's","Pick-up or delivery, also through Blue Angel Wines App
 ",,,,
@@ -1422,7 +1451,8 @@ Under $40, $10 delivery fee; in Williamsburg only
 "Silver Light Tavern",557,"(718) 963-0384",,,"North Williamsburg","Bar",,40.718251,-73.950063,"689 Lorimer Street",,"Open",,"Yes","No","Weds-Fri: 4pm-8pm / Sat-Sun: 2pm-8pm
 ","2020-05-14T00:44:26.000Z","2020-05-07T23:12:23.000Z","Instagram",,,,,
 "The Gibson",558,"(718) 387-6296",,"https://www.instagram.com/thegibsonbklyn/","North Williamsburg","Bar",,40.72048,-73.955451,"108 Bedford Ave","11211","Open",,"Yes","No","Daily: 2pm-6pm
-","2020-05-13T20:32:31.000Z","2020-05-07T23:31:23.000Z",,,"https://www.gofundme.com/f/the-gibson-crew",,,
+","2020-06-29T19:01:12.000Z","2020-05-07T23:31:23.000Z",,,"https://www.gofundme.com/f/the-gibson-crew",,"Donation Link Last Checked 6/29/20
+",
 "Homecoming (Greenpoint)",559,"(347) 457-5385",,"https://www.instagram.com/homecoming/","Greenpoint","Coffee Shop","6",40.72958,-73.95779,"107 Franklin Street","11222","Open",,"Yes","No","Sat-Sun: 9am-1pm
 ","2020-05-27T19:23:14.000Z","2020-05-08T16:37:16.000Z",,"Order coffee and plants on their website: <https://homecomingnyc.square.site/>
 ",,,,
@@ -1507,22 +1537,25 @@ Also delivery via Caviar, Doordash, GrubHub and Seamless (but those services tak
 ","2020-05-14T23:04:25.000Z","2020-05-14T23:00:35.000Z","Location","Delivery within a 4 block radius, $10 minimum. Order on their website.
 ",,"Diner",,
 "A Bar",592,"(347) 687-4703",,"https://www.instagram.com/abarbrooklyn/","Greenpoint","Bar",,40.723066,-73.950675,"597 Manhattan Ave.","11222","Open",,"Yes","No","Daily: 2pm-8pm
-","2020-06-23T00:36:11.000Z","2020-05-15T15:51:24.000Z","Instagram",,"https://www.gofundme.com/f/abar-again","Bar",,
+","2020-06-29T18:23:26.000Z","2020-05-15T15:51:24.000Z","Instagram",,"https://www.gofundme.com/f/abar-again","Bar","Donation Link Last Checked: 6/29/20
+",
 "Vittoria Cafe",593,"718-388.3118",,"https://www.instagram.com/vittoria_caffe/","North Williamsburg","Coffee Shop",,40.718356,-73.957445,"166 Bedford Ave.","11249","Open",,"Yes","No","Daily: ""All Day""
 ","2020-05-15T16:03:19.000Z","2020-05-15T15:59:59.000Z","Submission",,,,,
 "Cato's Army Navy",594,"(718) 383-3004","catos@verizon.net","https://www.instagram.com/catosarmynavy/","Greenpoint","Other",,40.724608,-73.950961,"654 Manhattan Ave","11222","Open",,"Yes",,"Weds & Sat: 11am-4pm
 ","2020-05-15T16:06:33.000Z","2020-05-15T16:04:17.000Z","Submission","Call or email to place your order.
 ",,,,
 "Good Bar",595,,,"https://www.instagram.com/goodbarbk/","Greenpoint","Bar",,40.72387,-73.95107,"1 Bedford Avenue","11222","Open",,"Yes","No","Fri-Sun: 12pm-7pm
-","2020-05-15T21:52:53.000Z","2020-05-15T21:49:56.000Z","Location",,"https://www.gofundme.com/f/good-bar-employee-fund",,,
+","2020-06-29T18:41:40.000Z","2020-05-15T21:49:56.000Z","Location",,"https://www.gofundme.com/f/good-bar-employee-fund",,"Donation Link Last Checked 6/29/20
+",
 "Gran Torino",596,"9173858586","info@grantorinonyc.com","https://www.instagram.com/grantorinonyc/","North Williamsburg","Restaurant",,40.71835,-73.959,"131 Berry St",,"Open",,"Yes","Yes","Daily: 12pm-9pm
 ","2020-05-17T17:36:07.000Z","2020-05-17T17:33:01.000Z","Submission",,,"Grocery Store,Deli",,
 "Bunna Cafe",597,"347-295-2227","ssaverance@gmail.com","https://bunnaethiopia.net/","South Williamsburg","Restaurant",,40.70484,-73.92775,"1084 Flushing Avenue",,"Open",,"Yes","Yes","Daily: 12pm-9pm
 ","2020-05-17T17:44:09.000Z","2020-05-17T17:40:36.000Z","Submission","Order on Caviar or Doordash
 ",,"Ethiopian",,
 "One Stop Beer Shop",598,"(718) 599-0128",,"https://www.instagram.com/onestopbeershop/","East Williamsburg","Bar",,40.72106,-73.94061,"134 Kingsland Ave.","11222","Open",,"Yes",,"Thurs-Sun: 1pm-8pm
-","2020-06-04T19:23:00.000Z","2020-05-18T14:52:16.000Z","Location","Free shots June 4-7
-","https://www.gofundme.com/f/relief-fund-for-one-stop-beer-shop-employees",,,
+","2020-06-29T18:57:57.000Z","2020-05-18T14:52:16.000Z","Location","
+","https://www.gofundme.com/f/relief-fund-for-one-stop-beer-shop-employees",,"Donation Link Last Checked 6/29/20
+",
 "PPL",599,,,"https://www.instagram.com/pplnyc/","South Williamsburg","Coffee Shop",,40.71329,-73.9583,"189 Roebling St.",,"Open",,"Yes","No","Daily: 9am-4pm
 ","2020-05-18T21:05:04.000Z","2020-05-18T21:02:41.000Z","Submission",,,,,
 "Simple Cafe & Restaurant",600,,"Simplecafesam@gmail.com","https://www.instagram.com/simplecafebrooklyn/","South Williamsburg","Restaurant",,40.71244,-73.96275,"346 Bedford Avenue","11249","Open",,"Yes","Yes","Thu-Fri: 12pm-8pm / Sat-Sun 9am-4pm
@@ -1617,8 +1650,9 @@ Also delivery via Caviar, Doordash, GrubHub and Seamless (but those services tak
 "Uncle Louie G's",633,"(718) 354 – 5777",,,"East Williamsburg","Restaurant",,40.71465,-73.94446,"341 Graham Avenue",,"Open",,"Yes","No",,"2020-06-11T12:42:33.000Z","2020-06-11T12:40:45.000Z","Location",,,"Ice Cream Parlor",,
 "Mother's",634,"(718) 384-7778",,,"East Williamsburg","Restaurant",,40.71485,-73.94474,"347 Graham Avenue",,"Closed",,,,,"2020-06-11T12:44:59.000Z","2020-06-11T12:43:13.000Z","Location",,"https://www.gofundme.com/f/mother039s-covid19-relief","American,Bar",,
 "Not Today Maybe Tomorrow",635,"(347) 763-0591",,"https://www.instagram.com/nottodaymaybetomorrowtavern/","East Williamsburg","Bar",,40.71456,-73.94439,"749 Metropolitan Avenue","11211","Open",,"Yes",,,"2020-06-11T12:47:00.000Z","2020-06-11T12:45:34.000Z","Location",,,,,
-"Bushwick Country Club",636,"(718) 388-2114","john@bushwickcountryclub.com","https://www.instagram.com/bushwick_country_club/","East Williamsburg","Bar",,40.71075,-73.95052,"518 Grand Street",,"Open",,"Yes","No","1pm-8pm
-","2020-06-12T20:45:43.000Z","2020-06-12T20:42:12.000Z","Location",,"https://www.gofundme.com/f/staff-relief-for-bushwick-country-club-staff/",,,
+"Bushwick Country Club",636,"(718) 388-2114","john@bushwickcountryclub.com","https://www.instagram.com/bushwick_country_club/","East Williamsburg","Bar",,40.71075,-73.95052,"518 Grand Street",,"Open",,"Yes","No","Daily: 1pm-8pm
+","2020-06-29T18:29:17.000Z","2020-06-12T20:42:12.000Z","Location",,"https://www.gofundme.com/f/staff-relief-for-bushwick-country-club-staff/",,"Donation Link Last Checked 6/29/20
+",
 "Greenery Unlimited",637,"646.543.3797","INFO@GREENERYUNLIMITED.CO","https://www.instagram.com/greeneryunlimited/","Greenpoint","Other",,40.7294,-73.95924,"91 West St., Brooklyn","11222","Open",,,"Yes","Mon-Fri: 12pm-8pm / Sat: 11am-8pm / Sun: 11am-6pm
 ","2020-06-13T20:41:38.000Z","2020-06-13T16:50:23.000Z","Instagram","Plant deliveries are currently on Wednesdays, Thursdays, Fridays and Saturdays, 9am to 5pm.
 
