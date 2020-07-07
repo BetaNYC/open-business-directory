@@ -46,6 +46,13 @@
             {/if}
         </div>
 
+        {#if item['Outdoor Space'].trim().length}
+            <div class="category">
+                <strong>Outdoor Space -</strong>
+                <p><span class="tag is-primary is-small">{item['Outdoor Space']}</span></p>
+            </div>
+        {/if}
+
         <ItemDetailsInfo text={item.Email} icon="email" type="email"/>
         <ItemDetailsInfo text={item.Phone} icon="local_phone" type="phone"/>
         <ItemDetailsInfo url={item['Website/Social Media']} text="Website/Instagram" icon="public" type="website"/>
