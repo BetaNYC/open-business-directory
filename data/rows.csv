@@ -176,9 +176,9 @@ Social Distancing
 ","2020-06-30T17:34:22.000Z","2020-04-29T01:01:15.000Z","North Brooklyn Neighbors","Cocktails (and food) for takeout Call ahead. Delivery on Seamless or Grubhub (but they recommend calling/pickup for best service). Text them at (917) 740-5181.
 ","
 ",,"American","Street Seating",
-"Brooklyn Safehouse",58,"(718) 349-6895",,"https://instagram.com/brooklyn_safehouse","Greenpoint","Bar","6",40.728869,-73.957202,"120 Franklin St, Brooklyn, NY 11222","11222","Open",,"Yes","No",,"2020-06-29T18:28:59.000Z","2020-04-29T01:01:15.000Z","Website/Location","To-go table for drinks/food at door.
+"Brooklyn Safehouse",58,"(718) 349-6895",,"https://instagram.com/brooklyn_safehouse","Greenpoint","Bar","6",40.728869,-73.957202,"120 Franklin St, Brooklyn, NY 11222","11222","Open",,"Yes","No",,"2020-07-09T18:25:19.000Z","2020-04-29T01:01:15.000Z","Website/Location","To-go table for drinks/food at door.
 ","Donation Link Last Checked 6/29/20
-","https://www.gofundme.com/f/support-your-safehouse-staff","Restaurant",,
+","https://www.gofundme.com/f/support-your-safehouse-staff","Restaurant","Street Seating",
 "Brooklynites Laundry",59,"718-609-1212",,"http://www.brooklyniteslaundry.com/Home_Page_2.html","Greenpoint","Laundromat","5",40.73017,-73.950862,"212 McGuinness Blvd, Brooklyn, NY 11222","11222","Open",,"Yes","Yes","Daily: 9am-5pm
 ","2020-05-06T15:43:22.000Z","2020-04-29T00:34:13.000Z","Location",,,,,,
 "Brouwerij Lane",60,"347-529-6133",,"https://www.instagram.com/brouwerijlane/","Greenpoint","Bar","6",40.729724,-73.957794,"78 Greenpoint Ave., Brooklyn, NY 11222","11222","Open",,"Yes","No","Daily: 2pm-8pm
@@ -365,10 +365,10 @@ Has a go fund me
 "El Cortez",126,"(347) 599-2976","events@elcortezbushwick.com","elcortezbushwick.com","East Williamsburg","Bar","21",40.707114,-73.933096,"17 Ingraham St, Brooklyn, NY 11206","11206","Closed",,,,,"2020-05-06T15:21:17.000Z","2020-05-03T04:16:46.000Z","Instagram",,"Order food/drinks from sister bar, The Commodore.
 ",,"Restaurant",,
 "Elder Green",127,"718-389-0878",,"https://www.instagram.com/eldergreenebk/","Greenpoint","Bar","4",40.726866,-73.957017,"60 Franklin St., Brooklyn, NY 11222","11222","Open",,"Yes","Yes","Daily: 12pm-9:30pm
-","2020-06-29T18:33:58.000Z","2020-04-29T01:01:15.000Z","Location","Delivery via Seamless or Grubhub
+","2020-07-09T18:26:12.000Z","2020-04-29T01:01:15.000Z","Location","Delivery via Seamless or Grubhub
 ","Donation Link Last Checked 6/29/20
-","https://www.gofundme.com/f/vortex-hospitality-staff-fund","Restaurant",,
-"Esme ",128,"718-383-0999",,"https://www.instagram.com/esmebk","Greenpoint","Restaurant","2",40.733191,-73.955024,"999 Manhattan Ave.","11222","Closed",,,,,"2020-07-09T17:03:36.000Z","2020-04-29T01:01:15.000Z",,"Donate or purchase gift cards.
+","https://www.gofundme.com/f/vortex-hospitality-staff-fund","Restaurant","Street Seating",
+"Esme ",128,"718-383-0999",,"https://www.instagram.com/esmebk","Greenpoint","Restaurant","2",40.733191,-73.955024,"999 Manhattan Ave.","11222","Open",,,,,"2020-07-09T18:49:42.000Z","2020-04-29T01:01:15.000Z",,"
 ","Donation Link Last Checked 6/29/20
 ","https://www.gofundme.com/f/esme-staff-support-fund-love-not-squalor","American","Backyard/Open Space",
 "Euro Chemist",129,"(718) 349-6696",,,"Greenpoint","Pharmacy","12",40.72467,-73.951597,"669 Manhattan Ave, Brooklyn, NY 11222","11222","Open",,"Yes","Yes","Business store hours are Mon-Fri: 9am-8pm / Sat: 9:30am-6pm / Sun: 11am-4pm
@@ -451,9 +451,9 @@ Deliveries on Monday, Wednesday, Friday.
 "Greenman Pharmacy",156,"(718) 389-0900",,,"Greenpoint","Pharmacy","6",40.729744,-73.95435,"881 Manhattan Ave, Brooklyn, NY 11222","11222","No Answer",,,,,"2020-05-06T15:21:17.000Z","2020-04-29T00:34:13.000Z",,,"Incorrect #
 ",,,,
 "Greenpoint Beer & Ale",157,"347-725-3061",,"https://www.instagram.com/greenpoint.beer/","Greenpoint","Bar","1",40.737669,-73.955155,"1150 Manhattan Ave.","11222","Open",,"Yes","No","Daily: 2pm-8pm
-","2020-06-30T16:04:04.000Z","2020-04-29T01:01:15.000Z","North Brooklyn Neighbors","Tasty beer and merch. Call to pre-order rotating food specials.
+","2020-07-09T18:26:43.000Z","2020-04-29T01:01:15.000Z","North Brooklyn Neighbors","Tasty beer and merch. Call to pre-order rotating food specials.
 ","
-",,"Brewery",,
+",,"Brewery","Backyard/Open Space",
 "Greenpoint Fish & Lobster ",158,"718-313-1913",,"https://www.instagram.com/greenpointfish/","Greenpoint","Restaurant","12",40.724156,-73.949114,"114 Nassau Ave.","11222","Open",,"Yes","Yes","Weds-Sun: 12pm-7pm
 ","2020-07-09T17:03:51.000Z","2020-04-29T01:01:15.000Z","North Brooklyn Neighbors","Order delivery through Mercato. Sundays 5pm-7pm FREE meal to restaurant industry workers.
 ","Donation Link Last Checked 6/29/20
@@ -641,7 +641,8 @@ Offering free delivery and video call shopping
 ","Check IG for updates. For gift cards email reservations@llamainnnyc.com
 ",,"Peruvian",,
 "Lobster Joint",216,"718-389-8990",,"https://www.instagram.com/lobsterjoint/","Greenpoint","Restaurant","2",40.735386,-73.95536,"1073 Manhattan Ave.","11222","Open",,"Yes","Yes","Daily: 12pm-10pm
-","2020-07-02T22:06:30.000Z","2020-04-29T01:01:15.000Z","Location","Delivery via Seamless.
+","2020-07-09T18:32:35.000Z","2020-04-29T01:01:15.000Z","Location","Delivery via Seamless.
+For orders to-stay, no bathroom access.
 ","Donation Link Last Checked 6/29/20
 ","https://www.gofundme.com/f/lobster-joint-greenpoint-staff-relief-fund","Seafood","Street Seating",
 "Loconsolo Paints",217,"(718) 384-6595","orderswb@loconsolo.com","https://www.instagram.com/loconsolopaints/","East Williamsburg","Hardware Store",,40.71569,-73.94483,"371 Graham Ave.","11222","Open",,"Yes","Yes","Daily: 7am-3pm
@@ -714,9 +715,9 @@ Offering free delivery and video call shopping
 ",,,,
 "MetroUrgicare",241,"(718) 638-7682",,"https://www.metrourgicare.com/location/ny/brooklyn/11211","East Williamsburg","Health and Wellness","20",40.712988,-73.943888,"308 Graham Avenue, Brooklyn, NY 11211","11211","Follow-up",,,,,"2020-05-06T15:21:17.000Z","2020-05-01T23:54:57.000Z",,,"Online appointments not currently available.
 ",,,,
-"Milk and Roses ",242,"718-389-0160",,"https://www.instagram.com/milkandrosesbistro/","Greenpoint","Restaurant","1",40.736412,-73.955045,"1110 Manhattan Ave.","11222","Open",,"Yes","No","Fri-Sun: 11am-4pm
-","2020-05-18T15:00:24.000Z","2020-04-29T01:01:15.000Z","Instagram","Coffee, beer, and wine to go
-",,,"Coffee Shop",,
+"Milk and Roses ",242,"718-389-0160",,"https://www.instagram.com/milkandrosesbistro/","Greenpoint","Restaurant","1",40.736412,-73.955045,"1110 Manhattan Ave.","11222","Open",,"Yes","No","Mon-Thurs: 12pm-11pm/Fri: 12pm-12am/Sun: 10am-10pm
+","2020-07-09T18:34:42.000Z","2020-04-29T01:01:15.000Z","Instagram","
+",,,"Coffee Shop","Backyard/Open Space",
 "Misi",243,"347-566-3262",,"https://www.instagram.com/misinewyork/","South Williamsburg","Restaurant","28",40.713431,-73.966624,"329 Kent Ave.","11249","Open",,"Yes","No","Thurs-Sun
 ","2020-06-29T19:26:47.000Z","2020-04-29T01:01:15.000Z","Instagram","Pre-order on their website: <https://www.mpnewyork.nyc/> and pickup Thursday-Sunday
 ","Donation Link Last Checked 6/29/20
@@ -1060,9 +1061,9 @@ Offering Online lessons
 ","2020-06-29T19:05:52.000Z","2020-04-29T01:01:15.000Z","Instagram","Order here: <https://torstnyc.myshopify.com/>
 ",,,"American",,
 "Troost",385,"347-889-6761","troostnyc@gmail.com","https://www.instagram.com/troostnyc/?hl=en","Greenpoint","Bar","2",40.733463,-73.955035,"1011 Manhattan Ave, Brooklyn NY","11222","Open",,"Yes","No","Fri-Sun: 3pm-8pm
-","2020-06-29T19:06:14.000Z","2020-05-03T01:53:25.000Z","Instagram","Beer, wine and cocktails to-go.
+","2020-07-09T18:28:24.000Z","2020-05-03T01:53:25.000Z","Instagram","Beer, wine and cocktails to-go.
 ","Donation Link Last Checked 6/29/20
-","https://www.gofundme.com/f/fund-to-support-the-troost-staff","American",,
+","https://www.gofundme.com/f/fund-to-support-the-troost-staff","American","Backyard/Open Space",
 "Tuffet",386,"(718) 388-7434","contact@tuffetnyc.com","https://www.instagram.com/tuffetbar/","East Williamsburg","Bar","20",40.712127,-73.943749,"286 Graham Avenue, Brooklyn, NY 11211","11211","Open",,"Yes","No","Mon-Thu: 3pm-10pm / Fri: 3pm-12am / Sat: 1pm-12am / Sun: 1pm-10pm
 ","2020-06-30T17:44:21.000Z","2020-04-29T01:01:15.000Z","Airtable submission","Taking garden reservations for parties over 4. Contact@tuffetnyc.com
 ","
@@ -1231,8 +1232,8 @@ Sat, 10 am to 6 pm
 "Vinnie's Pizzeria",459,"(718) 782-7078",,"https://www.instagram.com/vinniesbrooklyn/","North Williamsburg","Restaurant",,40.718899,-73.956843,"148 Bedford Ave",,"Open",,"Yes","Yes","Sun-Thu: 11:30am-12am / Fri-Sat: 11:30am-3am
 ","2020-06-30T17:38:04.000Z","2020-05-06T16:25:12.000Z","Instagram/Website","Order on their website or on Seamless. <https://www.vinniesbrooklyn.com/>
 ",,,"Pizzeria","Sidewalk Seating,Street Seating",
-"The Diamond",460,"718-383-5030",,"https://www.instagram.com/diamondgpt/","Greenpoint","Bar","7",40.726753,-73.957476,"43 Franklin St","11222","Open",,"Yes","No","Mon-Thu: 5pm-8pm / Fri-Sun: 2pm-8pm
-","2020-06-23T00:13:03.000Z","2020-05-06T16:27:59.000Z","Instagram",,,,,,
+"The Diamond",460,"718-383-5030",,"https://www.instagram.com/diamondgpt/","Greenpoint","Bar","7",40.726753,-73.957476,"43 Franklin St","11222","Open",,"Yes","No","Mon-Fri: 5pm-8pm / Sat-Sun: 2pm-10pm
+","2020-07-09T18:27:27.000Z","2020-05-06T16:27:59.000Z","Instagram",,,,,"Backyard/Open Space",
 "Mad for Chicken",461,"(917) 909-1353",,"https://www.instagram.com/mfc_bk/","East Williamsburg","Restaurant",,40.711515,-73.947522,"617 Grand St","11211","Open",,"Yes","Yes","Daily: 12pm-8:30pm
 ","2020-05-07T13:11:14.000Z","2020-05-06T16:28:51.000Z","North Brooklyn Neighbors","Our phone lines are down for a couple of days, please order through Doordash or Chownow. You can also text us through Google for any questions or concerns.
 ",,,"Korean",,
@@ -1276,8 +1277,8 @@ Sat, 10 am to 6 pm
 ","2020-05-17T17:29:09.000Z","2020-05-06T16:42:55.000Z","Submission Update","Order here: <https://www.donnabklyn.com/order-here>
 Open Sundays as of 5/24. And they will have a marketplace inside the bar which can be shopped online.
 ",,,,,
-"Butler Bake Shop & Espresso Bar",477,,,"http://instagram.com/butlerbakeshop","North Williamsburg","Restaurant",,40.719857,-73.959044,"101 N 8th St",,"Open",,"Yes",,"Mon-Fri: 7am-4pm / Sat-Sun: 8am-4pm
-","2020-06-29T19:19:50.000Z","2020-05-06T16:43:25.000Z","North Brooklyn Neighbors",,"Donation Link Last Checked 6/29/20
+"Butler Bake Shop & Espresso Bar",477,,,"http://instagram.com/butlerbakeshop","North Williamsburg","Restaurant","13",40.719857,-73.959044,"101 N 8th St","11249","Open",,"Yes",,"Mon-Fri: 7am-4pm / Sat-Sun: 8am-4pm
+","2020-07-09T18:23:55.000Z","2020-05-06T16:43:25.000Z","North Brooklyn Neighbors",,"Donation Link Last Checked 6/29/20
 ","https://www.gofundme.com/f/butler-bake-shop-staff-relief-fund-coronavirus","Coffee Shop",,
 "Butler Bake Shop & Espresso Bar",478,,,"http://instagram.com/butlerbakeshop","South Williamsburg","Bakery",,40.71182,-73.96453,"95 S 5th St",,"Open",,"Yes",,"Mon-Fri: 7am-4pm / Sat-Sun: 8am-4pm
 ","2020-06-29T18:20:09.000Z","2020-05-06T16:43:51.000Z","North Brooklyn Neighbors",,"Donation Link Last Checked: 6/29/20
@@ -1495,8 +1496,8 @@ Under $40, $10 delivery fee; in Williamsburg only
 ","2020-06-29T19:01:12.000Z","2020-05-07T23:31:23.000Z",,,"Donation Link Last Checked 6/29/20
 ","https://www.gofundme.com/f/the-gibson-crew",,,
 "Homecoming (Greenpoint)",559,"(347) 457-5385",,"https://www.instagram.com/homecoming/","Greenpoint","Coffee Shop","6",40.72958,-73.95779,"107 Franklin Street","11222","Open",,"Yes","No","Sat-Sun: 9am-1pm
-","2020-05-27T19:23:14.000Z","2020-05-08T16:37:16.000Z",,"Order coffee and plants on their website: <https://homecomingnyc.square.site/>
-",,,,,
+","2020-07-09T18:28:50.000Z","2020-05-08T16:37:16.000Z",,"Order coffee and plants on their website: <https://homecomingnyc.square.site/>
+",,,,"Street Seating",
 "Homecoming (Williamsburg)",560,"(347) 599-1949",,"https://www.instagram.com/homecoming/","North Williamsburg","Coffee Shop",,40.71954,-73.95843,"92 Berry Street","11211","Open",,"Yes","No","
 ","2020-05-27T19:23:58.000Z","2020-05-08T16:38:18.000Z",,"Order coffee and plants on their website: <https://homecomingnyc.square.site/>
 ",,,,,
@@ -1509,8 +1510,8 @@ Under $40, $10 delivery fee; in Williamsburg only
 ",,,,
 "Copper Mug Coffee",565,"(631) 536-5209",,"https://www.instagram.com/coppermugcoffee/","North Williamsburg","Coffee Shop","15",40.716532,-73.959781,"131 North 4th Street, Brooklyn, NY","11249","Open",,"Yes","Yes","Mon-Fri: 8am-5pm / Sat: 9am-6pm / Sun: 9am-5pm
 ","2020-06-30T17:36:36.000Z","2020-05-13T21:25:53.000Z","Location/Instagram",,,,"Juice Bar","Backyard/Open Space",
-"Blank Cafe",566,,,"https://www.instagram.com/blankbrooklyn/?hl=en","Greenpoint","Coffee Shop","7",40.72626,-73.954677,"64 Meserole Avenue, Brooklyn, NY","11222","Open",,"Yes","No","Daily: 9am-2pm
-","2020-06-29T19:07:29.000Z","2020-05-13T21:40:35.000Z","Instagram",,"Donation Link Last Checked 6/29/20
+"Blank Cafe",566,,,"https://www.instagram.com/blankbrooklyn/?hl=en","Greenpoint","Coffee Shop","7",40.72626,-73.954677,"64 Meserole Avenue, Brooklyn, NY","11222","Open",,"Yes","No","Mon-Thurs: 9am-2pm/Fri-Sun: 9am-3pm
+","2020-07-09T18:18:52.000Z","2020-05-13T21:40:35.000Z","Instagram",,"Donation Link Last Checked 6/29/20
 ","https://www.gofundme.com/f/blank-cafe-reopening-support-fund?utm_medium=social&utm_source=instagram&utm_campaign=p_nacp+share-sheet",,,
 "Hungry Ghost Coffee (Bedford)",567,,,"https://www.instagram.com/hungryghostcoffee/","North Williamsburg","Coffee Shop","15",40.71467,-73.94509,"231 Bedford Avenue, Brooklyn, NY","11211","Open",,"Yes","No","Daily: 7am-5pm
 ","2020-05-13T21:57:19.000Z","2020-05-13T21:54:35.000Z","Instagram",,,,,,
@@ -1788,7 +1789,7 @@ Also delivery via Caviar, Doordash, GrubHub and Seamless (but those services tak
 "Ore Bar",675,,,"https://www.instagram.com/orebar/","East Williamsburg","Bar",,40.71193,-73.94422,"277 Graham Avenue",,"Open",,"Yes","No","Fri-Sun: 2pm-10pm
 ","2020-06-22T23:57:49.000Z","2020-06-22T23:55:25.000Z","Location",,,,,,
 "Grand Republic",677,,,"https://www.instagram.com/grandrepubliccocktail/","Greenpoint","Bar",,40.72992,-73.96002,"19 Greenpoint Avenue",,"Open",,"Yes","No","Daily: 2pm-11pm
-","2020-06-23T00:40:20.000Z","2020-06-23T00:37:49.000Z","Instagram",,,,,,
+","2020-07-09T18:26:27.000Z","2020-06-23T00:37:49.000Z","Instagram",,,,,"Casual Chairs",
 "Basik",678,,,"https://www.instagram.com/basikbrooklyn/","East Williamsburg","Bar",,40.71397,-73.94459,"323 Graham Avenue","11211","Closed",,,,,"2020-06-23T00:47:39.000Z","2020-06-23T00:46:40.000Z","Instagram/Location",,,,,,
 "Dobbin St Co-Op (Gpt)",679,,,"https://www.instagram.com/dobbinstcoop/","Greenpoint","Other",,40.72489,-73.95414,"39 Norman Avenue",,"Open",,"Yes",,"Thu-Sun: 12pm-5pm
 ","2020-06-23T00:53:55.000Z","2020-06-23T00:51:32.000Z",,"Opening June 25
@@ -1806,3 +1807,7 @@ Also delivery via Caviar, Doordash, GrubHub and Seamless (but those services tak
 ","2020-07-01T17:09:01.000Z","2020-07-01T16:54:27.000Z","Instagram",,,,"Coffee Shop",,
 "Brew Inn",684,,,,"Greenpoint","Bar",,,,,"11222","Open",,"Yes",,,"2020-07-02T22:09:07.000Z","2020-07-02T22:08:14.000Z","Location",,,,"American,Polish","Sidewalk Seating,Street Seating",
 "Slick Willie's",685,,,,"Greenpoint","Restaurant",,,,,"11222","Open",,"Yes",,,"2020-07-03T00:45:45.000Z","2020-07-03T00:28:33.000Z","North Brooklyn Mutual Aid",,,"https://www.gofundme.com/f/stand-support-amp-help-minority-cafe-vs-eviction?sharetype=teams&member=4668376&utm_medium=sms&utm_source=customer&utm_campaign=p_na+share-sheet&rcid=0512ce0c87b34c5da2696a94b7b1a610","American","Casual Chairs",
+"Azure Gourmet",686,,,,"Greenpoint","Grocery Store","4",40.73024,-73.9578,"113 Franklin Street","11222","Open",,"Yes","No","
+","2020-07-09T18:13:42.000Z","2020-07-09T18:08:30.000Z","Instagram","
+","
+",,"Deli",,"No"
