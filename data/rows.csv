@@ -104,8 +104,8 @@ sd yes
 ","2020-06-29T20:22:16.000Z","2020-04-29T00:34:13.000Z","Instagram","Order delivery via their website.
 ","
 ",,"Coffee Shop",,
-"Bakeri (Williamsburg)",34,"(718) 388-8037",,"bakeribrooklyn.com","North Williamsburg","Bakery","14",40.720022,-73.960103,"150 Wythe Ave, Brooklyn NY","11211","Closed",,"No","No","
-","2020-05-18T14:44:51.000Z","2020-05-01T03:51:07.000Z","Instagram","Take out some Sundays
+"Bakeri (Williamsburg)",34,"(718) 388-8037",,"bakeribrooklyn.com","North Williamsburg","Bakery","14",40.720022,-73.960103,"150 Wythe Ave, Brooklyn NY","11211","Closed",,"Yes","No","Wed-Mon: 8am-3pm
+","2020-07-16T22:57:32.000Z","2020-05-01T03:51:07.000Z","Instagram","
 ",,,"Coffee Shop",,
 "Baoburg",35,"718-349-0011",,"https://www.instagram.com/baoburg/","Greenpoint","Restaurant","12",40.723474,-73.950392,"614 Manhattan Ave.","11222","Open",,"Yes","Yes","Daily: 12pm-8pm
 ","2020-05-18T14:47:52.000Z","2020-04-29T01:01:15.000Z","Instagram/Location","Takeout and Delivery only, order on their site - <http://www.baoburg.com/> or 15% discount for direct orders by phone. Survivor Meals for $5 - 12pm-8pm, cash and pickup only. Check their IG Stories for more info on menu.
@@ -159,9 +159,9 @@ Social Distancing
 "Bread Brothers Bagel Cafe - Greenpoint",51,"(718) 576-3837",,"breadbrotherscafe.com","Greenpoint","Restaurant","4",40.730608,-73.95407,"912 Manhattan Ave, Brooklyn, NY 11222","11222","Closed",,,,,"2020-05-13T20:01:15.000Z","2020-04-30T05:50:56.000Z",,,"Greenpoint location might reopen, Bushwick currently open for take away and delivery
 ",,"Bagel Shop",,
 "Broken Land",52,"718-349-2901","brokenlandbar@gmail.com","https://www.instagram.com/brokenlandbar/","Greenpoint","Bar","6",40.729522,-73.957799,"105 Franklin St., Brooklyn, NY 11222","11222","Open",,"Yes","No","Mon-Fri: 4pm-10pm / Sat-Sun: 2pm-10pm
-","2020-06-30T17:00:46.000Z","2020-04-29T01:01:15.000Z","Instagram","Drink menu on website.
+","2020-07-16T23:02:16.000Z","2020-04-29T01:01:15.000Z","Instagram","Drink menu on website.
 ","Reservations being taken for garden seating in 2 hour blocks. Inquire at brokenlandbar@gmail.com. Last seating at 9pm.
-",,"Restaurant","Backyard/Open Space",
+",,"Restaurant","Backyard/Open Space,Street Seating",
 "Brooklyn Bicycle Co",53,"(800) 631-0630","info@brooklynbicycleco.com","brooklynbicycleco.com","Greenpoint","Bike Shops","4",40.730026,-73.958373,"61 Greenpoint Avenue, Suite 410, Brooklyn, NY 11222","11222","Open",,,,"By Appointment Only
 ","2020-05-06T15:43:22.000Z","2020-04-29T00:34:13.000Z","North Brooklyn Neighbors",,,,,,
 "Brooklyn Bike Peddler",54,"347-799-2014",,"https://www.instagram.com/brooklynpeddler/?utm_source=ig_embed","North Williamsburg","Bike Shops","17",40.715937,-73.949497,"636 Lorimer Street, Brooklyn, NY 11211","11211","Open",,,,"Tues-Sun: 12 pm to 6 pm
@@ -679,10 +679,10 @@ For orders to-stay, no bathroom access.
 "Maison Premiere
 ",228,"347 335 0446",,"https://www.instagram.com/maisonpremiere/","South Williamsburg","Restaurant","27",40.714259,-73.961651,"298 Bedford Ave., Brooklyn, NY 11211","11211","Closed",,,,,"2020-06-29T19:26:24.000Z","2020-04-29T01:01:15.000Z","Instagram",,"Donation Link Last Checked 6/29/20
 ","https://www.gofundme.com/f/friends-of-maison-premiere","Seafood",,
-"Maman",229,"(347) 689-9195",,"https://www.instagram.com/_mamannyc_/","Greenpoint","Bakery","4",40.730221,-73.957915,"80 Kent St, Brooklyn, NY 11222","11222","Open",,"Yes",,"5/9-5/10: 9am-3pm
-","2020-06-29T18:21:06.000Z","2020-04-30T05:24:17.000Z","Instagram","Open for Mothers Day weekend only, 9am-3pm
+"Maman",229,"(347) 689-9195",,"https://www.instagram.com/_mamannyc_/","Greenpoint","Bakery","4",40.730221,-73.957915,"80 Kent St, Brooklyn, NY 11222","11222","Open",,"Yes",,"Mon-Fri: 8am-5pm/Sat-Sun: 9am-5pm
+","2020-07-16T22:59:55.000Z","2020-04-30T05:24:17.000Z","Instagram","
 ","Donation Link Last Checked: 6/29/20
-","https://www.gofundme.com/f/maman-staff-relief-fund","Coffee Shop",,
+","https://www.gofundme.com/f/maman-staff-relief-fund","Coffee Shop","Street Seating",
 "Manhattan Three Decker",230,"(718) 389-6664",,,"Greenpoint","Restaurant","7",40.72528,-73.9518,"695 Manhattan Avenue","11222","Open",,"Yes","Yes","Daily: 7am-5pm
 ","2020-05-14T16:01:07.000Z","2020-05-03T18:49:05.000Z","Submission",,,,"Diner",,
 "Markowa Apteka Pharmacy",231,"(718) 389-0389","markowapharmacy@gmail.com","https://www.markowaapteka.com/","Greenpoint","Pharmacy","6",40.728528,-73.953743,"831 Manhattan Ave, Brooklyn, NY 11222","11222","Open",,"Yes",,"Mon-Sat: 10am-8pm
@@ -879,8 +879,8 @@ Temporary hours in effect until May 15th
 Free Delivery
 ",,,,
 "Pueblo Querido (Greenpoint)",307,"(929) 346-2986",,"https://www.instagram.com/pqcoffee/","Greenpoint","Bakery","4",40.73057,-73.95179,"195 Greenpoint Avenue, Brooklyn NY","11222","Open",,"Yes","Yes","Mon-Fri: 7am-2pm / Fri-Sat: 8am-2pm
-","2020-06-29T19:35:58.000Z","2020-04-29T00:34:13.000Z","North Brooklyn Neighbors","Delivery on Postmates
-","Delivery soon via Postmates
+","2020-07-16T23:00:25.000Z","2020-04-29T00:34:13.000Z","North Brooklyn Neighbors","Delivery on Postmates
+","
 ",,"Colombian,Coffee Shop",,
 "Qwik Pack and Ship",308,"(718) 388-8155","info@qwikpackandship.net","https://www.qwikpackandship.net/","South Williamsburg","Shipping Services/Post Office","25",40.711801,-73.944775,"697 Grand St, Brooklyn, NY 11211","11211","Open",,,,"Mon-Fri, 9 am to 7 pm
 Sat, 10 am to 4 pm
