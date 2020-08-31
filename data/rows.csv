@@ -412,10 +412,10 @@ Pharmacy hours are Mon-Fri: 10am-8pm / Sat: 10am-6pm / Sun: Closed
 ","2020-05-06T15:43:22.000Z","2020-04-29T01:52:36.000Z",,"Delivery thru Grubhub & Seamless. Pickup by calling.
 ","Delivery thru Grubhub & Seamless. Pickup by calling 347.335.0056
 ",,"Restaurant,Italian",,,
-"Four Horsemen & Daymoves",144,"718-599-4900",,"https://www.instagram.com/fourhorsemenbk/","South Williamsburg","Bar","26",40.713159,-73.957244,"295 Grand St.","11211","Open",,"Yes","Yes","Mon-Thu: 12pm-6pm / Fri-Sun: 1pm-7pm
-","2020-06-29T18:40:18.000Z","2020-04-29T01:01:15.000Z",,"Wine, beer, cocktails, coffee, pantry items, merch. Order online to pick up. <https://nextdoorspacebk.com/> Delivery to 11211, 11222, 11206, and 11249
+"The Four Horsemen",144,"718-599-4900",,"https://www.instagram.com/fourhorsemenbk/","South Williamsburg","Restaurant","26",40.713159,-73.957244,"295 Grand Street","11211","Open",,"Yes","Yes","Wed-Thurs: 5pm-10pm/Fri-Sun: 11am-10pm
+","2020-08-31T18:36:54.000Z","2020-04-29T01:01:15.000Z","Instagram/Website","Order online or pick up via <https://nextdoorspacebk.com/> Delivery to 11211, 11222, 11206, and 11249. Coffee available via Daymoves as well Mon-Thurs 8am-3pm and Sat-Sun until 4pm.
 ","
-",,"American",,,
+",,"American,Bar","Street Seating",,
 "Frankel's",145,"718-389-2302","frankelsdeli@gmail.com","https://www.instagram.com/frankelsdeli/","Greenpoint","Restaurant","12",40.723826,-73.951047,"631 Manhattan Ave.","11222","Open",,"Yes","Yes","Fri-Sun: 10am-4pm
 ","2020-06-29T19:24:10.000Z","2020-04-29T01:01:15.000Z",,"Order on their website; if ordering is closed it means they sold out for that week so check back on Monday. <https://www.frankelsdelicatessen.com/>
 ","Donation Link Last Checked 6/29/20
@@ -1514,10 +1514,10 @@ Under $40, $10 delivery fee; in Williamsburg only
 "RoseWolfCoffee",564,,,"https://www.instagram.com/rosewolfcoffee/","East Williamsburg","Coffee Shop","18",40.71478,-73.94,"867 Metropolitan Avenue, Brooklyn, NY 11211","11211","Open",,"Yes","No","Daily: 8am-4:30pm
 ","2020-05-28T17:07:42.000Z","2020-05-13T20:53:04.000Z","Instagram",,"Specializes in gluten-free goods
 ",,,,,
-"Copper Mug Coffee",565,"(631) 536-5209",,"https://www.instagram.com/coppermugcoffee/","North Williamsburg","Coffee Shop","15",40.716532,-73.959781,"131 North 4th Street, Brooklyn, NY","11249","Open",,"Yes","Yes","Mon-Fri: 8am-5pm / Sat: 9am-6pm / Sun: 9am-5pm
-","2020-06-30T17:36:36.000Z","2020-05-13T21:25:53.000Z","Location/Instagram",,,,"Juice Bar","Backyard/Open Space",,
-"Blank Cafe",566,,,"https://www.instagram.com/blankbrooklyn/?hl=en","Greenpoint","Coffee Shop","7",40.72626,-73.954677,"64 Meserole Avenue, Brooklyn, NY","11222","Open",,"Yes","No","Mon-Thurs: 9am-2pm/Fri-Sun: 9am-3pm
-","2020-07-09T18:18:52.000Z","2020-05-13T21:40:35.000Z","Instagram",,"Donation Link Last Checked 6/29/20
+"Copper Mug Coffee",565,"(631) 536-5209",,"https://www.instagram.com/coppermugcoffee/","North Williamsburg","Coffee Shop","15",40.716532,-73.959781,"131 North 4th Street, Brooklyn, NY","11249","Open",,"Yes","Yes","Daily: 8am-8:30pm
+","2020-08-31T18:18:34.000Z","2020-05-13T21:25:53.000Z","Instagram",,,,"Juice Bar","Backyard/Open Space",,
+"Blank Cafe",566,,,"https://www.instagram.com/blankbrooklyn/?hl=en","Greenpoint","Coffee Shop","7",40.72626,-73.954677,"64 Meserole Avenue, Brooklyn, NY","11222","Open",,"Yes","No","Daily: 8am-3pm
+","2020-08-31T18:16:28.000Z","2020-05-13T21:40:35.000Z","Instagram",,"Donation Link Last Checked 6/29/20
 ","https://www.gofundme.com/f/blank-cafe-reopening-support-fund?utm_medium=social&utm_source=instagram&utm_campaign=p_nacp+share-sheet",,,,
 "Hungry Ghost Coffee (Bedford)",567,,,"https://www.instagram.com/hungryghostcoffee/","North Williamsburg","Coffee Shop","15",40.71467,-73.94509,"231 Bedford Avenue, Brooklyn, NY","11211","Open",,"Yes","No","Daily: 7am-5pm
 ","2020-05-13T21:57:19.000Z","2020-05-13T21:54:35.000Z","Instagram",,,,,,,
@@ -1834,3 +1834,10 @@ Also delivery via Caviar, Doordash, GrubHub and Seamless (but those services tak
 "FlatFinders Realty Inc",692,"(718) 383-0077",,"https://www.myflatfinders.com/contact-us.html","Greenpoint","Other","7",40.7274412,-73.9516,"131 Meserole Avenue","11222","Open",,,,,"2020-08-12T16:46:25.000Z","2020-08-12T16:16:44.000Z","Submission",,"Contact email: 
 sam@myflatfinders.com
 ",,"Realty",,,
+"Daymoves",693,"718-599-4900",,"https://www.instagram.com/daymovesbk/","South Williamsburg","Coffee Shop","26",40.713159,-73.957244,"295 Grand Street","11211","Open",,"Yes","No","Daily: 8am-3pm
+","2020-08-31T18:35:32.000Z","2020-08-31T18:28:26.000Z","Instagram/Website","Reservations available via The Four Horsemen restaurant.
+","
+",,,"Street Seating",,
+"Fresh My Day",694,,,"instagram.com/freshmyday","Greenpoint","Restaurant",,,,"99 Franklin Street","11222","Open",,"Yes","No",,"2020-08-31T18:42:11.000Z","2020-08-31T18:39:38.000Z","Instagram",,,,"Juice Bar",,,
+"Edy's Grocer",695,"(718) 383-9063","edysgrocer@gmail.com","instagram.com/edysgrocer","Greenpoint","Grocery Store",,,,"136 Meserole Avenue","11222","Open",,"Yes","No","Mon-Fri: 7am-9pm/Sat: 8am-4pm
+","2020-08-31T18:46:23.000Z","2020-08-31T18:43:06.000Z","Instagram",,,,"Lebanese",,,
