@@ -1,6 +1,7 @@
 <script>
     import CategoryFilters from './CategoryFilters.svelte'
     import OutdoorSeating from './OutdoorSeating.svelte'
+    import IndoorSeating from './IndoorSeating.svelte'
     import OpenedFilter from './OpenedFilter.svelte'
     import PickupDeliveryFilter from './PickupDeliveryFilter.svelte'
     import MaterialIcon from '../../MaterialIcon.svelte'
@@ -11,6 +12,7 @@
 
 <CategoryFilters/>
 <OutdoorSeating/>
+<IndoorSeating/>
 <button class="full" on:click={() => opened = !opened}>
     More Filters <MaterialIcon size="small" icon="{opened? 'expand_less' : 'expand_more'}"/>
 </button>

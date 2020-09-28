@@ -11,6 +11,7 @@
     $: pickup = item['Pickup Offered'].toLowerCase().includes('yes')
     $: delivery = item['Delivery Offered'].toLowerCase().includes('yes')
     $: outsideSeating = item['Outdoor Space'].trim().length
+    $: indoorSeating = 'Indoor Seating' in item && item['Indoor Seating'].toLowerCase().includes('yes')
 </script>
 
 <div class="item">
@@ -19,6 +20,9 @@
         <div class="icons">
             {#if outsideSeating}
                 <MaterialIcon icon="deck" alt="Outdoor Space"/>
+            {/if}
+            {#if indoorSeating}
+                <MaterialIcon icon="foundation" alt="Indoor Dining"/>
             {/if}
             {#if pickup}
                 <MaterialIcon icon="local_mall" alt="Pickup Offered"/>

@@ -28,7 +28,7 @@
 
 <label class="checkbox">
     <MaterialIcon icon="deck" alt="Outdoor Space"/>
-    <input type="checkbox" bind:checked={showFilter}>Outdoor Space
+    <input type="checkbox" bind:checked={showFilter}>Outdoor Dining
 </label>
 
 <style>

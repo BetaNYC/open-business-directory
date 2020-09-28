@@ -15,7 +15,6 @@
     $: items = $rows.filter(row => $filters.filter(f => f.label !== 'map-extent').every(f => f.filter(row)))
 
     function updateExtentFilter(filterExtent) {
-        console.log('filtering')
         const features = map.queryRenderedFeatures({layers: ['markers', 'points']});
 
         if (features) {

@@ -48,8 +48,17 @@
 
         {#if item['Outdoor Space'].trim().length}
             <div class="category">
-                <strong>Outdoor Space -</strong>
+                <strong>Outdoor Seating -</strong>
                 <p><span class="tag is-primary is-small">{item['Outdoor Space']}</span></p>
+            </div>
+        {/if}
+
+        {#if item['Indoor Seating'] && item['Indoor Seating'].toLowerCase().includes('yes')}
+            <div class="category">
+                <strong>Indoor Dining - </strong>
+                <p><span
+                        class="tag is-primary is-small">{item['Indoor Seating'].replace(/^\w/, c => c.toUpperCase())}</span>
+                </p>
             </div>
         {/if}
 
