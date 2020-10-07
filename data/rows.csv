@@ -843,9 +843,9 @@ Temporary hours in effect until May 15th
 ","2020-05-07T19:04:16.000Z","2020-05-01T04:31:44.000Z","Instagram","Delivery via UberEats, Caviar, Postmates, Doordash
 ",,,"Bakery,French,Japanese",,,,,
 "Paulie Gee's",290,,,"https://www.instagram.com/pauliegee/?hl=en","Greenpoint","Restaurant","6",40.729544,-73.958571,"60 Greenpoint Avenue","11222","Open",,"Yes","No",,"2020-10-05T19:17:01.000Z","2020-05-02T04:14:17.000Z","Instagram",,,,"Pizzeria","Street Seating","{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,,"Yes"
-"Paulie Gee's Slice Shop",291,"N/A",,"https://www.instagram.com/pauliegees_sliceshop/","Greenpoint","Restaurant","6",40.728367,-73.957095,"110 Franklin St. Brooklyn NY 11222","11222","Open",,"Yes","Yes","Sun-Thurs: 12pm-9pm/Fri-Sat: 12pm-10pm
-","2020-07-02T16:04:19.000Z","2020-04-29T01:01:15.000Z","Location","Order delivery here: <https://squareup.com/gift/46R0Y9B9RT92J/order>
-",,,"Pizzeria","Street Seating","{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,,
+"Paulie Gee's Slice Shop",291,,,"https://www.instagram.com/pauliegees_sliceshop/","Greenpoint","Restaurant","6",40.728367,-73.957095,"110 Franklin Street","11222","Open",,"Yes","Yes","Sun-Thurs: 12pm-9pm/Fri-Sat: 12pm-10pm
+","2020-10-07T20:44:27.000Z","2020-04-29T01:01:15.000Z","Location","Order delivery here: <https://squareup.com/gift/46R0Y9B9RT92J/order>
+",,,"Pizzeria","Street Seating","{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,,"Yes"
 "Peking Express",292,"718-349-0968",,,"Greenpoint","Restaurant","10",40.725946,-73.942816,"237 Nassau Ave, Brooklyn, NY 11222","11222","Open",,,,,"2020-08-26T00:38:32.000Z","2020-04-29T01:01:15.000Z","Location",,,,"Chinese",,"{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,,
 "Pet Supplied",293,"347-987-3527","Alex@petsupplied.com","https://petsupplied.business.site/?hl=en","Greenpoint","Pet Supplies","6",40.729373,-73.959519,"87 West Street, Brooklyn, NY 11222","11222","Open",,"No","Yes","Delivery Only
 ","2020-05-06T15:43:22.000Z","2020-04-29T00:34:13.000Z",,,"Delivery only. Email Alex@petsupplied.com.
@@ -917,9 +917,9 @@ Sat, 10 am to 4 pm
 ","2020-10-06T00:33:31.000Z","2020-04-29T01:01:15.000Z","Instagram","
 ","Donation Link Last Checked 9/7/20 AR
 ","https://www.gofundme.com/f/support-your-local-staff",,"Backyard/Open Space","{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,,"Yes"
-"Rule of Thirds",320,"347-334-6684",,"https://www.instagram.com/thirdsbk/","North Williamsburg","Restaurant","7",40.724681,-73.954812,"171 Banker St.","11222","Open",,"No","Yes","Fri-Sat: 4pm-8pm
-","2020-05-27T19:09:40.000Z","2020-04-29T01:01:15.000Z","Instagram","Delivery via Caviar.
-",,,"Japanese",,"{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,,
+"Rule of Thirds",320,"347-334-6684",,"https://www.instagram.com/thirdsbk/","North Williamsburg","Restaurant","7",40.724681,-73.954812,"171 Banker Street","11222","Open",,"No","Yes","Sat-Sun: 10am-2:30pm/Wed-Mon: 5pm-10pm
+","2020-10-07T21:00:46.000Z","2020-04-29T01:01:15.000Z","Instagram/Location","
+",,,"Japanese","Sidewalk Seating","{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,,"No"
 "Russ Pizza",321,"(718) 383-9463",,"https://www.instagram.com/russ.pizza/","Greenpoint","Restaurant","7",40.726404,-73.952538,"745 Manhattan Avenue","11222","Open",,"Yes","Yes",,"2020-05-22T20:12:03.000Z","2020-04-29T04:11:13.000Z",,"Pickup from the window. 
 ",,,"Pizzeria",,"{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,,
 "S Bros Pharmacy",322,"(718) 855-3070","sbrospharmacy@gmail.com","http://www.sbrospharmacy.com/","South Williamsburg","Pharmacy","36",40.702465,-73.95666,"176 Lee Ave, Brooklyn, NY 11211","11211","Open",,"Yes","Yes","Sun-Thu: 10am-10pm / Fri: 10am-6pm / Sat: Motzei Shabbos-Midnight
@@ -1421,8 +1421,8 @@ Under $40, $10 delivery fee; in Williamsburg only
 ","2020-05-07T19:00:49.000Z","2020-05-06T20:55:56.000Z","Instagram","Delivery & Pick-up, Caviar
 ","
 ",,"American",,"{""id"":""usrhuKQ7QCL5IRzb0"",""email"":""meganificent@gmail.com"",""name"":""Megan Penmann""}",,,
-"Fresh Kills Bar",522,"(718) 599-7888",,"https://www.instagram.com/freshkillsbar/","South Williamsburg","Bar",,40.714717,-73.961568,"161 Grand St, Brooklyn, NY 11249",,"Open",,"Yes","No","Daily: 2pm-10pm
-","2020-05-13T20:32:06.000Z","2020-05-06T20:56:51.000Z","North Brooklyn Neighbors","Offering a soup of the day.
+"Fresh Kills Bar",522,"(718) 599-7888",,"https://www.instagram.com/freshkillsbar/","South Williamsburg","Bar",,40.714717,-73.961568,"161 Grand Street","112","Open",,"Yes","No","Daily: 2pm-10pm
+","2020-10-07T21:01:32.000Z","2020-05-06T20:56:51.000Z","Instagram","
 ","Donation Link Last Checked 9/7/20 AR
 ","https://www.gofundme.com/f/fresh-kills-bar-employee-relief-fund",,,"{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,,
 "Blue Angel Wines",523,"(718) 388-2210",,"https://blueangelwines.com/","East Williamsburg","Liquor Store/Distillery",,40.711479,-73.946611,"638 Grand Street","11211","Open",,"Yes","Yes","Tuesday–Thursday: 1pm–7pm / Friday-Saturday: 1pm–6:30pm / Sunday: 1pm-6:45pm
@@ -1723,9 +1723,9 @@ Also delivery via Caviar, Doordash, GrubHub and Seamless (but those services tak
 ",,,,"{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}","Permanent: Covid",,
 "Line & Label",640,"(347) 384-2678","info@lineandlabel.com","https://www.lineandlabel.com/","Greenpoint","Retail",,40.72247,-73.94975,"568 Manhattan Ave","11222","Open",,"Yes",,,"2020-06-30T17:51:39.000Z","2020-06-13T17:37:52.000Z","Instagram","Order online for pickup
 ",,,"Clothing",,"{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,,
-"WORD",641,"718-383-0096","BROOKLYN@WORDBOOKSTORES.COM","https://www.wordbookstores.com","Greenpoint","Other",,40.72907,-73.95719,"126 Franklin St","11222","Open",,"Yes","Yes","Mon-Fri: 11am-5pm
-","2020-06-13T22:54:34.000Z","2020-06-13T18:01:28.000Z","Website/Instagram","Order online for pickup Monday-Friday or shipping via USPS
-",,,,,"{""id"":""usrzmjXCviNJI9rig"",""email"":""adrianne.jeffries@gmail.com"",""name"":""Adrianne Jeffries""}",,,
+"WORD",641,"718-383-0096","BROOKLYN@WORDBOOKSTORES.COM","https://www.wordbookstores.com","Greenpoint","Retail","6",40.72907,-73.95719,"126 Franklin St","11222","Open",,"Yes","Yes","Daily: 11am-5pm
+","2020-10-07T20:35:14.000Z","2020-06-13T18:01:28.000Z","Website/Instagram","
+",,,"Bookstore",,"{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,,
 "Alter",642,"(718) 349-0203","Customerservice@alterbrooklyn.com","https://alterbrooklyn.com","Greenpoint","Retail",,40.729625,-73.957386,"140 Franklin St.","11222","Open",,"Yes","Yes","Daily: 12pm-2pm
 ","2020-06-29T20:38:45.000Z","2020-06-13T19:51:59.000Z","Location/Instagram","Order online for pickup 12 p.m. to 2 p.m. or shipping
 ",,,"Clothing",,"{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,,
@@ -1868,3 +1868,9 @@ sam@myflatfinders.com
 ","2020-10-03T21:05:05.000Z","2020-09-20T21:31:49.000Z","Instagram",,"New business Sept 2020
 ",,,"Casual Chairs","{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,,"No"
 "Connie O's",703,,,,"Greenpoint","Bar","8",40.7265498,-73.9502646,"158 Norman Avenue","11222","Open",,"Yes","No",,"2020-10-03T21:47:22.000Z","2020-10-03T21:38:50.000Z","Location",,,,,"Backyard/Open Space","{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,,"Yes"
+"Brooklyn Craft Company",704,"(646) 201-4049","hello@brooklyncraftcompany.com","linktr.ee/brooklyncraftcompany","Greenpoint","Retail","4",40.73042,-73.953134,"165 Greenpoint Avenue","11222","Open",,"Yes","No","Tues-Sat: 12pm-6pm/Sun: 12pm-5pm
+","2020-10-07T20:43:32.000Z","2020-10-07T20:37:16.000Z","Location/Website","Crafts shop & classes
+",,,,,"{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,,
+"Souvenir",705,,,"instagram.com/souvenirbrooklyn","Greenpoint","Retail","7",40.7265715,-73.9549519,"63 Meserole Avenue","11222","Open",,"Yes","No","Daily: 11am-6pm
+","2020-10-07T20:47:53.000Z","2020-10-07T20:45:43.000Z","Location/Instagram","Local designer & makers shop
+",,,,,"{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,,
