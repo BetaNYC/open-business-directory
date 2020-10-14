@@ -505,10 +505,10 @@ We’re not doing boarding at the moment.
 "Hi Mango Natural Market",168,"(718) 366-1403",,,"East Williamsburg","Grocery Store","23",40.704405,-73.930191,"1055 Flushing Ave, Brooklyn, NY 11237","11237",,,,,,"2020-05-01T17:41:55.000Z","2020-05-01T17:39:53.000Z",,,,,,,,,,
 "Home Meds Pharmacy",169,"(718) 534-1199",,,"South Williamsburg","Pharmacy","27",40.713163,-73.963648,"97 S 3rd St, Brooklyn, NY 11249","11249","Follow-up",,,,"Sun: 11am-3pm / Mon-Thurs: 10am-8pm / Fri: 10am-2pm
 ","2020-05-06T15:43:22.000Z","2020-04-29T00:34:13.000Z",,,,,,,,,,
-"Hotel Delmano",170,"718-387-1945",,"https://www.instagram.com/hoteldelmano/","North Williamsburg","Bar","13",40.719751,-73.958081,"82 Berry Street","11211","Open",,"Yes","No","Mon-Fri: 4pm-10pm/Sat-Sun: 2pm-10pm
-","2020-10-13T00:01:51.000Z","2020-04-29T01:01:15.000Z",,"Batch cocktails and wine to go. Check their IG on Thursdays at 5pm for a pre-order wine list. $100 donation to Gofundme gets you 2 dozen oysters and 2 glasses of rose when they open.
-","Donation Link Last Checked 9/7/20 AR
-","https://www.gofundme.com/f/hotel-delmano-employee-family-fund",,"Sidewalk Seating","{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,,
+"Hotel Delmano",170,"718-387-1945","info@hoteldelmano.com","https://www.instagram.com/hoteldelmano/","North Williamsburg","Bar","13",40.719751,-73.958081,"82 Berry Street","11211","Open",,"Yes","No","Mon-Fri: 4pm-10pm/Sat-Sun: 2pm-10pm
+","2020-10-14T19:21:24.000Z","2020-04-29T01:01:15.000Z","Eater NY/Website","
+","Donation Link Last Checked 10/14/20 AR
+","https://www.gofundme.com/f/hotel-delmano-employee-family-fund",,"Sidewalk Seating","{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}","No",,
 "House of Sudz III",171,"718-578-5335",,,"Greenpoint","Laundromat","1",40.735775,-73.954911,"1090 Manhattan Avenue, Brooklyn, NY 11222","11222","No Answer",,,,,"2020-05-27T17:24:44.000Z","2020-04-29T00:34:13.000Z",,,"Unknown is open or closed.
 ",,,,"{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}",,,
 "Hummus Market",172,"718-599-5600",,"https://www.instagram.com/hummusmarketnyc/","North Williamsburg","Restaurant","17",40.715389,-73.944779,"361 Graham Ave.","11211","Open",,"Yes","Yes","Daily: 12pm-10pm
@@ -869,9 +869,9 @@ Temporary hours in effect until May 15th
 "Polka Dot",300,"718-349-2884",,"https://instagram.com/polkadotgreenpoint","Greenpoint","Restaurant","7",40.726174,-73.951929,"726 Manhattan Ave.","11222","Open",,"Yes","Yes","Tues-Sun: 9am-8pm
 ","2020-05-13T20:21:10.000Z","2020-04-29T01:01:15.000Z","Location","Delivery through GrubHub, Postmates, UberEats. For takeout, call to order.
 ",,,"Polish,Coffee Shop",,"{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,,
-"Poke Zest",301,"(718) 349-8999",,"https://www.instagram.com/pokezestbkny/","Greenpoint","Restaurant","12",40.43265,-73.57037,"629 Manhattan Ave.","11222","Open",,"Yes","Yes","Daily: 11:30am-10pm
-","2020-05-06T15:43:22.000Z","2020-05-03T18:38:30.000Z","Location","Delivery via Doordash.
-",,,"Asian",,"{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,,
+"Poke Zest",301,"(718) 349-8999",,"https://www.instagram.com/pokezestbkny/","Greenpoint","Restaurant","12",40.43265,-73.57037,"629 Manhattan Avenue","11222","Open",,"Yes","Yes","Daily: 11:30am-10pm
+","2020-10-14T19:53:46.000Z","2020-05-03T18:38:30.000Z","Location","Delivery via Doordash.
+",,,"Asian","Casual Chairs","{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}","No",,
 "Polonez Shipping Inc.",302," (718) 389-6001",,"http://www.polonezshipping.com/","Greenpoint","Shipping Services/Post Office","11",40.725171,-73.947052,"159 Nassau Ave #1r, Brooklyn, NY 11222","11222",,,,,,"2020-04-29T03:53:33.000Z","2020-04-29T03:53:22.000Z",,,,,,,,,,
 "Ponyboy",303,"631-319-4641",,"https://www.instagram.com/ponyboyny/","Greenpoint","Bar","12",40.724014,-73.950666,"632 Manhattan Ave.","11222","Open",,"Yes","Yes","Thurs-Sun: 1pm-8pm
 ","2020-05-13T20:32:19.000Z","2020-04-29T01:52:36.000Z",,,"Large bottled cocktails - 10% of each sale will go to the artist who designed the label. <https://www.ponyboy.express/>
@@ -895,10 +895,10 @@ Sat, 10 am to 4 pm
 "Rachel's Garden",309,"718 349 8607","info@rachelsgardenny.com","http://www.rachelsgardenny.com/","Greenpoint","Grocery Store","12",40.724207,-73.948863,"116 Nassau Avenue, Brooklyn, NY 11222","11222","Open",,,,,"2020-05-15T21:59:12.000Z","2020-04-29T00:34:13.000Z","Greenpoint Strong Slack",,,,,,"{""id"":""usrhuKQ7QCL5IRzb0"",""email"":""meganificent@gmail.com"",""name"":""Megan Penmann""}",,,
 "Rafieh Pharmacy",310,"(718) 387-0021",,,"South Williamsburg","Pharmacy","35",40.705504,-73.959988,"70 Lee Ave # 1, Brooklyn, NY 11211","11211","Open",,"Yes","Yes","Sun-Thurs: 10am-7:30pm / Fri: 10am-4pm / Sat: Closed 
 ","2020-05-06T15:43:22.000Z","2020-04-29T00:34:13.000Z",,,,,,,,,,
-"Ramona",311,"347-227-8164",,"https://www.instagram.com/ramonabarnyc/","Greenpoint","Bar","4",40.730221,-73.957915,"113 Franklin St.","11222","Open",,"Yes","No","Wed-Sun: 2pm-9pm
-","2020-06-23T00:11:08.000Z","2020-04-29T01:01:15.000Z","Location","
-","Donation Link Last Checked 9/7/20 AR
-","https://www.gofundme.com/f/elsa-ramona-staff-support",,,"{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,,
+"Ramona",311,"347-227-8164",,"https://www.instagram.com/ramonabarnyc/","Greenpoint","Bar","4",40.730221,-73.957915,"113 Franklin Street","11222","Open",,"Yes","No","Wed-Fri: 4pm-11pm/Sat-Sun: 2pm-11pm
+","2020-10-14T19:22:59.000Z","2020-04-29T01:01:15.000Z","Location","
+","Donation Link Last Checked 10/14/20 AR
+","https://www.gofundme.com/f/elsa-ramona-staff-support",,,"{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}","No",,
 "Rampa Millennium",312,"(718) 389-1818","INFO@RAMPAMILL.COM","https://rampamill.wordpress.com/","Greenpoint","Shipping Services/Post Office","4",40.730305,-73.954611,"133 Greenpoint Ave, Brooklyn, NY 11222","11222",,,,,,"2020-04-29T03:46:49.000Z","2020-04-29T03:34:25.000Z",,,,,,,,,,
 "Reclamation",313,"718-387-5178",,"https://www.instagram.com/reclamationbar/","East Williamsburg","Bar","18",40.714871,-73.941589,"817 Metropolitan Avenue","11211","Open",,"Yes","Yes","Mon-Fri: 2pm-12am/Sat-Sun: 12pm-12am
 ","2020-10-07T21:09:50.000Z","2020-04-29T01:01:15.000Z","Instagram","Delivery available on their website or via IG DM - <https://www.reclamationbar.com/>
@@ -1016,10 +1016,10 @@ Sat, 10 am to 4 pm
 ","2020-06-08T18:21:58.000Z","2020-05-01T04:34:23.000Z","Instagram",,,,"Coffee Shop",,"{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,,
 "The Breakers",363,"(718) 384-8900","thebreakersbk@gmail.com","https://www.instagram.com/thebreakersbk/","North Williamsburg","Bar","16",40.717396,-73.949252,"307 Meeker Ave., Brooklyn, NY 11211","11211","Closed",,,,,"2020-05-06T16:52:59.000Z","2020-04-29T01:01:15.000Z","Instagram",,"Donation Link Last Checked 6/29/20
 ","https://www.gofundme.com/f/the-breakers-staff-relief-fund",,,"{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,"Temporary",
-"The Commodore",364,"718-218-7632","None","https://www.instagram.com/thecommodorebar/","South Williamsburg","Bar","26",40.713898,-73.9558,"366 Metropolitan Ave., Brooklyn, NY 11211","11211","Open",,"Yes","Yes","Daily: 11am-11pm
-","2020-05-13T20:32:26.000Z","2020-04-29T01:01:15.000Z","Instagram","Delivery via Caviar/Call for takeout.
-","Full food menu and frozen cocktails to go.
-",,"Restaurant,American",,"{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,,
+"The Commodore",364,"718-218-7632",,"https://www.instagram.com/thecommodorebar/","South Williamsburg","Bar","26",40.713898,-73.9558,"366 Metropolitan Avenue","11211","Open",,"Yes","Yes","Daily: 1pm-12am
+","2020-10-14T20:01:09.000Z","2020-04-29T01:01:15.000Z","Instagram","Delivery via Caviar/Call for takeout.
+","
+",,"Restaurant,American","Backyard/Open Space,Sidewalk Seating,Street Seating","{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}","No",,
 "The Daily Feed Deli",365,"(718) 599-8866","None","None","North Williamsburg","Grocery Store","14",40.716367,-73.962207,"135 Metropolitan Ave, Brooklyn, NY 11211","11211","Open",,"Yes","Yes",,"2020-05-22T20:11:15.000Z","2020-05-01T21:19:28.000Z","Location","Pick up or order on delivery.com
 ",,,,,"{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,,
 "The Dog Institute",366,"347-276-0882","info@thedoginstitute.com","https://www.thedoginstitute.com/","South Williamsburg","Other","17",40.714823,-73.95639,"125 Roebling Street","11211","Open",,,,,"2020-10-05T19:13:19.000Z","2020-04-29T00:34:13.000Z","Website","Virtual dog training services
@@ -1086,11 +1086,11 @@ Sat, 10 am to 4 pm
 "Turkey's Nest Tavern",387,"(718) 384-9774","None","https://www.instagram.com/turkeysnesttavern/","North Williamsburg","Bar","12",40.720615,-73.955025,"94 Bedford Ave, Brooklyn, NY 11249","11249","Open",,"Yes","No",,"2020-10-07T21:41:11.000Z","2020-04-29T01:52:36.000Z","Location","Open for to-go drinks, 1 person at a time.
 ","Donation link last checked 9/7/20
 ","https://www.spotfund.com/story/9715a756-1540-4ad3-8ea7-85d1c43384e4",,"Street Seating","{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,,
-"Union Pool",388,"(718) 609-0484",,"https://www.instagram.com/union_pool/","North Williamsburg","Bar","17",40.714996,-73.951551,"484 Union Ave., Brooklyn, NY 11211","11211","Open",,"Yes","No","Daily: 4pm-11pm
-","2020-08-25T23:55:55.000Z","2020-04-29T01:01:15.000Z","Instagram","
-","Donation link last checked 9/7/20
-Covid temporary closure planned for winter: last day of service 11/11/20 with reopening Spring 2021 - AR
-","https://www.gofundme.com/f/union-pool-employee-fund",,"Sidewalk Seating,Backyard/Open Space","{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,,
+"Union Pool",388,"(718) 609-0484",,"https://www.instagram.com/union_pool/","North Williamsburg","Bar","17",40.714996,-73.951551,"484 Union Avenue","11211","Open",,"Yes","No","Daily: 4pm-11pm
+","2020-10-14T19:43:49.000Z","2020-04-29T01:01:15.000Z","Instagram","Bar and El Diablo taco truck
+","Donation link last checked 10/14/20
+Covid temporary closure planned for winter: last day of service 11/11/20 with reopening March 2021 - AR
+","https://www.gofundme.com/f/union-pool-employee-fund","Mexican","Sidewalk Seating,Backyard/Open Space","{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}","No",,
 "United States Postal Service: East Williamsburg",389,"800-275-8777",,,"East Williamsburg","Shipping Services/Post Office","22",40.70203,-73.941229,"47 Debevoise St. Brooklyn NY ","11206","Open",,,,"New Hours Posted on Door
 ","2020-05-22T20:11:33.000Z","2020-04-29T00:34:13.000Z",,,,,,,"{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,,
 "United States Postal Service: Greenpoint",390,"800-275-8777",,,"Greenpoint","Shipping Services/Post Office","7",40.72626,-73.954482,"66 Meserole Ave, Brooklyn NY","11222","Open",,,,"New Hours Posted on Door 
@@ -1166,7 +1166,7 @@ Covid temporary closure planned for winter: last day of service 11/11/20 with re
 ","Donation link last checked 9/7/20
 ","https://www.gofundme.com/f/qvsq4c-help-the-employees-of-zona-rosa","Mexican",,"{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,,
 "Zukkie's",422,"(718) 456-0048",,"https://www.instagram.com/zukkiesbikeshop/?hl=en","East Williamsburg","Bike Shops","21",40.706513,-73.939449,"279 Bushwick Avenue, Brooklyn, NY 11206","11206","Closed",,,,,"2020-04-29T01:31:41.000Z","2020-04-29T00:34:13.000Z","Google/Yelp",,"
-",,,,"{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,"Permanently Closed: Unclear",
+",,,,"{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,"Closed: Status Level TBD",
 "Eleva",423,"(646) 789-3114",,"https://www.elevagplorders.com/","Greenpoint","Coffee Shop","1",40.736854,-73.958588,"7 Bell Slip","11222","Open",,"Yes","No","Daily: 10am-6pm
 ","2020-09-27T20:00:19.000Z","2020-05-03T19:29:12.000Z","Location","
 ",,,,"Street Seating,Sidewalk Seating","{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,,
@@ -1564,9 +1564,10 @@ Also delivery via Caviar, Doordash, GrubHub and Seamless (but those services tak
 "J&J Hooper Food",578,,,,"South Williamsburg","Grocery Store",,40.710158,-73.951158,"396 Hooper St","11211","Open",,"Yes","No","Sun-Tues: 8am-8pm / Weds-Thurs: 8am-8:45pm / Fri: 8am-6pm
 ","2020-05-14T17:01:35.000Z","2020-05-14T16:59:07.000Z","Submission","This bodega has a sidewalk taco stand.
 ",,,"Mexican",,"{""id"":""usrhuKQ7QCL5IRzb0"",""email"":""meganificent@gmail.com"",""name"":""Megan Penmann""}",,,
-"Evil Olive Pizza Bar",579,"718 387 0707",,"https://www.instagram.com/evil_olive_pizza/","South Williamsburg","Restaurant",,40.706439,-73.950077,"198 Union Ave.",,"Open",,"Yes","Yes","Tues-Thurs: 11am-11om / Fri-Sat: 11am-2:30am / Sun: 12pm-10pm
-","2020-05-14T17:06:59.000Z","2020-05-14T17:03:18.000Z","Submission","Order on their app called Evil Olive Pizza Bar, or via their website: <http://www.brooklyncraftpizza.com/> 
-",,,"Pizzeria",,"{""id"":""usrhuKQ7QCL5IRzb0"",""email"":""meganificent@gmail.com"",""name"":""Megan Penmann""}",,,
+"Evil Olive Pizza Bar",579,"718 387 0707",,"https://www.instagram.com/evil_olive_pizza/","South Williamsburg","Restaurant",,40.706439,-73.950077,"198 Union Ave.",,"Closed",,"Yes","Yes","~~Tues-Thurs: 11am-11om / Fri-Sat: 11am-2:30am / Sun: 12pm-10pm~~
+","2020-10-14T19:29:05.000Z","2020-05-14T17:03:18.000Z","Business FB Post","
+","Closed October 2020 -AR
+",,"Pizzeria",,"{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,"Permanently Closed: Reason Unclear",
 "Nam Nam",580,,"namcafeinc@gmail.com","https://namnamcafe.weebly.com/","South Williamsburg","Restaurant",,40.707521,-73.945248,"109 Montrose Ave","11206","Open",,"Yes","Yes","Daily: 11am-9pm
 ","2020-05-22T01:06:54.000Z","2020-05-14T17:07:49.000Z","Submisson","Menu on their website, call or email to order.
 ",,,"Vietnamese",,"{""id"":""usrhuKQ7QCL5IRzb0"",""email"":""meganificent@gmail.com"",""name"":""Megan Penmann""}",,,
@@ -1803,8 +1804,9 @@ Also delivery via Caviar, Doordash, GrubHub and Seamless (but those services tak
 "Treehouse",674,"(718) 482-TREE ",,"https://www.instagram.com/treehousebrooklyn/","East Williamsburg","Other",,40.71778,-73.94463,"430 Graham Avenue",,"Open",,"Yes","Yes","Thu-Sun
 ","2020-06-22T17:01:10.000Z","2020-06-22T16:57:38.000Z","Instagram/Location","Open Thurs-Sun. Delivery on Etsy - <https://www.etsy.com/shop/treehousebrooklyn>
 ",,,,,"{""id"":""usrhuKQ7QCL5IRzb0"",""email"":""meganificent@gmail.com"",""name"":""Megan Penmann""}",,,
-"Ore Bar",675,,,"https://www.instagram.com/orebar/","East Williamsburg","Bar",,40.71193,-73.94422,"277 Graham Avenue",,"Open",,"Yes","No","Fri-Sun: 2pm-10pm
-","2020-06-22T23:57:49.000Z","2020-06-22T23:55:25.000Z","Location",,,,,,"{""id"":""usrhuKQ7QCL5IRzb0"",""email"":""meganificent@gmail.com"",""name"":""Megan Penmann""}",,,
+"Ore Bar",675,,"info@orebar.com","https://www.instagram.com/orebar/","South Williamsburg","Bar","25",40.71193,-73.94422,"277 Graham Avenue","11211","Open",,"Yes","No","Wed-Sun: 4pm-11pm
+","2020-10-14T19:59:46.000Z","2020-06-22T23:55:25.000Z","Instagram","To-go bar drinks and tamales
+",,,"Mexican",,"{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}","No",,
 "Grand Republic",677,,,"https://www.instagram.com/grandrepubliccocktail/","Greenpoint","Bar","6",40.72992,-73.96002,"19 Greenpoint Avenue",,"Open",,"Yes","No","Daily: 2pm-11pm
 ","2020-07-16T23:10:28.000Z","2020-06-23T00:37:49.000Z","Instagram",,,,,"Street Seating","{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,,
 "Basik",678,,,"https://www.instagram.com/basikbrooklyn/","East Williamsburg","Bar",,40.71397,-73.94459,"323 Graham Avenue","11211","Open",,"Yes","No","Sat-Sun: 2pm-12am
@@ -1856,8 +1858,8 @@ sam@myflatfinders.com
 "Fresh My Day",694,,,"instagram.com/freshmyday","Greenpoint","Restaurant",,40.729322,-73.957726,"99 Franklin Street","11222","Open",,"Yes","No",,"2020-08-31T18:42:00.000Z","2020-08-31T18:39:38.000Z","Instagram",,,,"Juice Bar",,"{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}",,,
 "Edy's Grocer",695,"(718) 383-9063","edysgrocer@gmail.com","instagram.com/edysgrocer","Greenpoint","Grocery Store","7",40.727427,-73.950987,"136 Meserole Avenue","11222","Open",,"Yes","No","Mon-Fri: 7am-9pm/Sat: 8am-4pm
 ","2020-08-31T18:46:06.000Z","2020-08-31T18:43:06.000Z","Instagram",,,,"Lebanese",,"{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}",,,
-"N 11th St Cookout",696,"(917) 410-0882",,"https://instagram.com/n11thstreetcookout","North Williamsburg","Restaurant",,40.721406,-73.957934,"86 North 11th Street","11249","Open",,"Yes","No","Mon, Wed-Thurs: 4pm-11pm/Fri: 4pm-12am/Sat: 12pm-12am/Sun: 12pm-11pm
-","2020-08-31T20:11:38.000Z","2020-08-31T20:06:36.000Z","Instagram",,,,"American","Backyard/Open Space","{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}",,,
+"N 11th St Cookout",696,"(917) 410-0882",,"https://instagram.com/n11thstreetcookout","North Williamsburg","Restaurant","13",40.721406,-73.957934,"86 North 11th Street","11249","Open",,"Yes","No","Mon, Wed-Thurs: 4pm-11pm/Fri: 4pm-12am/Sat: 12pm-12am/Sun: 12pm-11pm
+","2020-10-14T19:44:20.000Z","2020-08-31T20:06:36.000Z","Instagram",,,,"American","Backyard/Open Space","{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}","No",,
 "Cozy Royale",697,"(718) 734-2792",,"instagram.com/cozyroyalebk","East Williamsburg","Restaurant",,40.71695,-73.942827,"434 Humboldt Street","11211","Open",,"Yes","No","Opening September 10th: Mon: 5pm-9pm/Thurs-Fri: 5pm-10pm/Sat: 2pm-10pm/Sun: 2pm-9pm
 ","2020-09-03T03:10:15.000Z","2020-09-03T03:02:17.000Z","Instagram",,"Opening 9/10
 ",,,,"{""id"":""usrsJTECkaouCgZg4"",""email"":""zhi@beta.nyc"",""name"":""Zhi He""}",,,
@@ -1866,7 +1868,8 @@ sam@myflatfinders.com
 "Minnows",700,,,"instagram.com/minnowsnyc","Greenpoint","Bar","11",40.725345,-73.946409,"167 Nassau Avenue","11222","Open",,"Yes","No","Daily: 2pm-11pm
 ","2020-10-03T21:30:22.000Z","2020-09-08T20:19:23.000Z","Instagram",,,,,"Street Seating","{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}","No",,
 "Full Circle Bar",701,,"partyon@fullcirclebar.com","fullcirclebar.com","South Williamsburg","Bar","26",40.712394,-73.956717,"318 Grand Street","11211","Open",,"Yes","No","Tues-Fri: 4pm-11pm/Sat-Sun: 2pm-11pm
-","2020-10-14T19:01:06.000Z","2020-09-14T01:53:09.000Z","Website",,,,"Recreation",,"{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}",,,
+","2020-10-14T19:08:07.000Z","2020-09-14T01:53:09.000Z","Website & Instagram Photo","Skeeball currently suspended, but outdoor seating for bar available
+",,,"Recreation","Street Seating","{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}","No",,
 "Espresso Paloma",702,,,"instagram.com/espresso_paloma","Greenpoint","Coffee Shop","7",40.727342,-73.952559,"117 Meserole Avenue","11222","Open",,"Yes","No","Mon-Sat: 7am-5pm/Sun: 8am-5pm
 ","2020-10-13T00:04:34.000Z","2020-09-20T21:31:49.000Z","Instagram",,"New business Sept 2020
 ",,"Bakery","Casual Chairs","{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}","No",,
@@ -1895,3 +1898,8 @@ sam@myflatfinders.com
 ","2020-10-14T18:21:11.000Z","2020-10-14T18:15:20.000Z","Instagram",,,,"Restaurant",,"{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}","No",,
 "Seitan Rising",712,"(929)-298-0160","seitanrisingcontact@gmail.com","seitanrising.com","East Williamsburg","Bakery","22",40.7041162,-73.9333257,"2 Morgan Avenue","11237","Open",,"Yes","No","Thurs-Sun: 8am-6pm
 ","2020-10-14T18:53:10.000Z","2020-10-14T18:46:20.000Z","Eater NY/Business Website & Instagram",,,,"Sandwich,Vegan,Deli",,"{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}","No",,
+"Pokito",713,"(917) 909-1542","info@pokito.nyc","instagram.com/pokitobrooklyn","South Williamsburg","Bar","27",40.7116734,-73.9640302,"155 South 4th Street","11211","Open",,"Yes","No","Wed-Sun: 2pm-11pm
+","2020-10-14T19:17:16.000Z","2020-10-14T19:12:44.000Z","Eater NY/Instagram",,,,,"Street Seating","{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}","No",,
+"Hatchets and Hops",715,"(855) 951-2973","hello@hatchetsandhops.com","hatchetsandhops.com","North Williamsburg","Other","13",40.7212223,-73.9598671,"98 North 11th Street","11249","Open",,,,"Thurs-Sun: 4pm-11pm
+","2020-10-14T19:50:36.000Z","2020-10-14T19:45:03.000Z","Website","Axe-throwing venue, must be 21+; Food and drink available via partner North 11th Street Cookout
+",,,"Recreation",,"{""id"":""usrwcAtbzYWv8hBG1"",""email"":""margara.sees@gmail.com"",""name"":""Ari R""}","Yes",,
